@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "group": "CoinGecko",
+    "dataset_name": "Ethereum History",
+    "source_type": "coingecko",
+    "dataset_id": "ethereum",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2015,
+  "request": {},
+  "status": "error",
+  "error_type": "rate_limited",
+  "recommended_action": "retry_later",
+  "message": "Rate limit persisted after retries.",
+  "response": null
+}

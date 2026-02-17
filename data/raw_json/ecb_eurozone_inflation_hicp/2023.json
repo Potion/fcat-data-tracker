@@ -1,0 +1,468 @@
+{
+  "metadata": {
+    "group": "ECB",
+    "dataset_name": "Eurozone Inflation (HICP)",
+    "source_type": "ecb",
+    "dataset_id": "ICP.M.U2.N.000000.4.ANR",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2023,
+  "request": {
+    "url": "https://data-api.ecb.europa.eu/service/data/ICP/M.U2.N.000000.4.ANR?startPeriod=2023-01-01&endPeriod=2023-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "header": {
+      "id": "83e279bc-4b11-4d5e-9aec-9183d97173cf",
+      "test": false,
+      "prepared": "2026-02-17T21:46:26.365+01:00",
+      "sender": {
+        "id": "ECB"
+      }
+    },
+    "dataSets": [
+      {
+        "action": "Replace",
+        "validFrom": "2026-02-17T21:46:26.365+01:00",
+        "series": {
+          "0:0:0:0:0:0": {
+            "attributes": [
+              0,
+              null,
+              0,
+              null,
+              null,
+              null,
+              0,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              0,
+              null,
+              0,
+              0,
+              0,
+              0
+            ],
+            "observations": {
+              "0": [
+                8.6,
+                0,
+                0,
+                null,
+                null
+              ],
+              "1": [
+                8.5,
+                0,
+                0,
+                null,
+                null
+              ],
+              "2": [
+                6.9,
+                0,
+                0,
+                null,
+                null
+              ],
+              "3": [
+                7,
+                0,
+                0,
+                null,
+                null
+              ],
+              "4": [
+                6.1,
+                0,
+                0,
+                null,
+                null
+              ],
+              "5": [
+                5.5,
+                0,
+                0,
+                null,
+                null
+              ],
+              "6": [
+                5.3,
+                0,
+                0,
+                null,
+                null
+              ],
+              "7": [
+                5.2,
+                0,
+                0,
+                null,
+                null
+              ],
+              "8": [
+                4.3,
+                0,
+                0,
+                null,
+                null
+              ],
+              "9": [
+                2.9,
+                0,
+                0,
+                null,
+                null
+              ],
+              "10": [
+                2.4,
+                0,
+                0,
+                null,
+                null
+              ],
+              "11": [
+                2.9,
+                0,
+                0,
+                null,
+                null
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "structure": {
+      "links": [
+        {
+          "title": "Indices of Consumer prices",
+          "rel": "dataflow",
+          "href": "http://data-api.ecb.europa.eu:80/service/dataflow/ECB/ICP/1.0"
+        }
+      ],
+      "name": "Indices of Consumer prices",
+      "dimensions": {
+        "series": [
+          {
+            "id": "FREQ",
+            "name": "Frequency",
+            "values": [
+              {
+                "id": "M",
+                "name": "Monthly"
+              }
+            ]
+          },
+          {
+            "id": "REF_AREA",
+            "name": "Reference area",
+            "values": [
+              {
+                "id": "U2",
+                "name": "Euro area (changing composition)"
+              }
+            ]
+          },
+          {
+            "id": "ADJUSTMENT",
+            "name": "Adjustment indicator",
+            "values": [
+              {
+                "id": "N",
+                "name": "Neither seasonally nor working day adjusted"
+              }
+            ]
+          },
+          {
+            "id": "ICP_ITEM",
+            "name": "Classification - ICP context",
+            "values": [
+              {
+                "id": "000000",
+                "name": "HICP - Overall index"
+              }
+            ]
+          },
+          {
+            "id": "STS_INSTITUTION",
+            "name": "Institution originating the data flow",
+            "values": [
+              {
+                "id": "4",
+                "name": "Eurostat"
+              }
+            ]
+          },
+          {
+            "id": "ICP_SUFFIX",
+            "name": "Series variation - ICP context",
+            "values": [
+              {
+                "id": "ANR",
+                "name": "Annual rate of change"
+              }
+            ]
+          }
+        ],
+        "observation": [
+          {
+            "id": "TIME_PERIOD",
+            "name": "Time period or range",
+            "role": "time",
+            "values": [
+              {
+                "id": "2023-01",
+                "name": "2023-01",
+                "start": "2023-01-01T00:00:00.000+01:00",
+                "end": "2023-01-31T23:59:59.999+01:00"
+              },
+              {
+                "id": "2023-02",
+                "name": "2023-02",
+                "start": "2023-02-01T00:00:00.000+01:00",
+                "end": "2023-02-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "2023-03",
+                "name": "2023-03",
+                "start": "2023-03-01T00:00:00.000+01:00",
+                "end": "2023-03-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-04",
+                "name": "2023-04",
+                "start": "2023-04-01T00:00:00.000+02:00",
+                "end": "2023-04-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-05",
+                "name": "2023-05",
+                "start": "2023-05-01T00:00:00.000+02:00",
+                "end": "2023-05-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-06",
+                "name": "2023-06",
+                "start": "2023-06-01T00:00:00.000+02:00",
+                "end": "2023-06-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-07",
+                "name": "2023-07",
+                "start": "2023-07-01T00:00:00.000+02:00",
+                "end": "2023-07-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-08",
+                "name": "2023-08",
+                "start": "2023-08-01T00:00:00.000+02:00",
+                "end": "2023-08-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-09",
+                "name": "2023-09",
+                "start": "2023-09-01T00:00:00.000+02:00",
+                "end": "2023-09-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2023-10",
+                "name": "2023-10",
+                "start": "2023-10-01T00:00:00.000+02:00",
+                "end": "2023-10-31T23:59:59.999+01:00"
+              },
+              {
+                "id": "2023-11",
+                "name": "2023-11",
+                "start": "2023-11-01T00:00:00.000+01:00",
+                "end": "2023-11-30T23:59:59.999+01:00"
+              },
+              {
+                "id": "2023-12",
+                "name": "2023-12",
+                "start": "2023-12-01T00:00:00.000+01:00",
+                "end": "2023-12-31T23:59:59.999+01:00"
+              }
+            ]
+          }
+        ]
+      },
+      "attributes": {
+        "series": [
+          {
+            "id": "TIME_FORMAT",
+            "name": "Time format code",
+            "values": [
+              {
+                "name": "P1M"
+              }
+            ]
+          },
+          {
+            "id": "BREAKS",
+            "name": "Breaks",
+            "values": []
+          },
+          {
+            "id": "COLLECTION",
+            "name": "Collection indicator",
+            "values": [
+              {
+                "id": "A",
+                "name": "Average of observations through period"
+              }
+            ]
+          },
+          {
+            "id": "COMPILING_ORG",
+            "name": "Compiling organisation",
+            "values": []
+          },
+          {
+            "id": "DATA_COMP",
+            "name": "Underlying compilation",
+            "values": []
+          },
+          {
+            "id": "DISS_ORG",
+            "name": "Data dissemination organisation",
+            "values": []
+          },
+          {
+            "id": "DOM_SER_IDS",
+            "name": "Domestic series ids",
+            "values": [
+              {
+                "name": "ICPT.M.VAL.HICP.RCH_A.EA.00.M"
+              }
+            ]
+          },
+          {
+            "id": "PUBL_ECB",
+            "name": "Source publication (ECB only)",
+            "values": []
+          },
+          {
+            "id": "PUBL_MU",
+            "name": "Source publication (Euro area only)",
+            "values": []
+          },
+          {
+            "id": "PUBL_PUBLIC",
+            "name": "Source publication (public)",
+            "values": []
+          },
+          {
+            "id": "UNIT_INDEX_BASE",
+            "name": "Unit index base",
+            "values": []
+          },
+          {
+            "id": "COMPILATION",
+            "name": "Compilation",
+            "values": []
+          },
+          {
+            "id": "COVERAGE",
+            "name": "Coverage",
+            "values": []
+          },
+          {
+            "id": "DECIMALS",
+            "name": "Decimals",
+            "values": [
+              {
+                "id": "1",
+                "name": "One"
+              }
+            ]
+          },
+          {
+            "id": "SOURCE_AGENCY",
+            "name": "Source agency",
+            "values": []
+          },
+          {
+            "id": "TITLE",
+            "name": "Title",
+            "values": [
+              {
+                "name": "HICP - Overall index"
+              }
+            ]
+          },
+          {
+            "id": "TITLE_COMPL",
+            "name": "Title complement",
+            "values": [
+              {
+                "name": "Euro area (changing composition) - HICP - Overall index, Annual rate of change, Eurostat, Neither seasonally nor working day adjusted"
+              }
+            ]
+          },
+          {
+            "id": "UNIT",
+            "name": "Unit",
+            "values": [
+              {
+                "id": "PCCH",
+                "name": "Percentage change"
+              }
+            ]
+          },
+          {
+            "id": "UNIT_MULT",
+            "name": "Unit multiplier",
+            "values": [
+              {
+                "id": "0",
+                "name": "Units"
+              }
+            ]
+          }
+        ],
+        "observation": [
+          {
+            "id": "OBS_STATUS",
+            "name": "Observation status",
+            "values": [
+              {
+                "id": "A",
+                "name": "Normal value"
+              }
+            ]
+          },
+          {
+            "id": "OBS_CONF",
+            "name": "Observation confidentiality",
+            "values": [
+              {
+                "id": "F",
+                "name": "Free"
+              }
+            ]
+          },
+          {
+            "id": "OBS_PRE_BREAK",
+            "name": "Pre-break observation value",
+            "values": []
+          },
+          {
+            "id": "OBS_COM",
+            "name": "Observation comment",
+            "values": []
+          }
+        ]
+      }
+    }
+  }
+}

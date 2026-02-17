@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US CPI (Inflation)",
+    "source_type": "bls",
+    "dataset_id": "CUSR0000SA0",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2019,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "CUSR0000SA0"
+      ],
+      "startyear": "2019",
+      "endyear": "2019",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 74,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "CUSR0000SA0",
+          "data": [
+            {
+              "year": "2019",
+              "period": "M12",
+              "periodName": "December",
+              "value": "258.630",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M11",
+              "periodName": "November",
+              "value": "257.879",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M10",
+              "periodName": "October",
+              "value": "257.155",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M09",
+              "periodName": "September",
+              "value": "256.430",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M08",
+              "periodName": "August",
+              "value": "256.036",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M07",
+              "periodName": "July",
+              "value": "255.802",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M06",
+              "periodName": "June",
+              "value": "255.213",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M05",
+              "periodName": "May",
+              "value": "255.296",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M04",
+              "periodName": "April",
+              "value": "255.233",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M03",
+              "periodName": "March",
+              "value": "254.277",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M02",
+              "periodName": "February",
+              "value": "253.319",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2019",
+              "period": "M01",
+              "periodName": "January",
+              "value": "252.561",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

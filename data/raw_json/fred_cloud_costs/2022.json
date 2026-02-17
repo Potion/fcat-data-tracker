@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "group": "FRED",
+    "dataset_name": "Cloud Costs",
+    "source_type": "fred",
+    "dataset_id": "PCU518210518210",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2022,
+  "request": {
+    "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2022-01-01&observation_end=2022-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "realtime_start": "2026-02-17",
+    "realtime_end": "2026-02-17",
+    "observation_start": "2022-01-01",
+    "observation_end": "2022-12-31",
+    "units": "lin",
+    "output_type": 1,
+    "file_type": "json",
+    "order_by": "observation_date",
+    "sort_order": "asc",
+    "count": 12,
+    "offset": 0,
+    "limit": 100000,
+    "observations": [
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-01-01",
+        "value": "115.023"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-02-01",
+        "value": "115.136"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-03-01",
+        "value": "114.494"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-04-01",
+        "value": "117.091"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-05-01",
+        "value": "117.176"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-06-01",
+        "value": "116.825"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-07-01",
+        "value": "116.778"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-08-01",
+        "value": "116.702"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-09-01",
+        "value": "116.566"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-10-01",
+        "value": "116.678"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-11-01",
+        "value": "116.684"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2022-12-01",
+        "value": "117.038"
+      }
+    ]
+  }
+}

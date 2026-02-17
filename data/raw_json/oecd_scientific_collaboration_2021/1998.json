@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "OECD",
+    "dataset_name": "Scientific Collaboration (2021)",
+    "source_type": "oecd",
+    "dataset_id": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2021&endPeriod=2021&dimensionAtObservation=AllDimensions",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 1998,
+  "request": {
+    "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=1998&endPeriod=1998&dimensionAtObservation=AllDimensions",
+    "status_code": 404
+  },
+  "status": "error",
+  "error_type": "dataset_not_found",
+  "recommended_action": "fix_request",
+  "message": "Dataset endpoint or series was not found.",
+  "response": {
+    "non_json_response": "NoRecordsFound",
+    "content_type": "text/plain"
+  }
+}

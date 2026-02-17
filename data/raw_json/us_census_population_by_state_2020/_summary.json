@@ -1,0 +1,520 @@
+{
+  "metadata": {
+    "group": "US Census",
+    "dataset_name": "Population by State (2020)",
+    "source_type": "census",
+    "dataset_id": "https://api.census.gov/data/2020/dec/pl?get=NAME,P1_001N&for=state:*",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 1,
+    "error": 31
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1995/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1996/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1997/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1998/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1999/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2000,
+      "error_type": "malformed_request",
+      "recommended_action": "fix_request",
+      "message": "API rejected request format or parameters.",
+      "request": {
+        "url": "https://api.census.gov/data/2000/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 400
+      }
+    },
+    {
+      "year": 2001,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2001/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2002,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2002/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2003,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2003/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2004,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2004/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2005,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2005/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2006,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2006/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2007,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2007/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2008,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2008/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2009,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2009/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2010,
+      "error_type": "malformed_request",
+      "recommended_action": "fix_request",
+      "message": "API rejected request format or parameters.",
+      "request": {
+        "url": "https://api.census.gov/data/2010/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 400
+      }
+    },
+    {
+      "year": 2011,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2011/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2012,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2012/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2013,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2013/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2014,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2014/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2015,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2015/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2016,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2016/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2017,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2017/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2018,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2018/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2019,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2019/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2021,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2021/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2022,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2022/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2023,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2023/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2024,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2024/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2025,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2025/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2026,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2026/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+        "status_code": 404
+      }
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2000,
+      "status": "error",
+      "error_type": "malformed_request",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2001,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2002,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2003,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2004,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2005,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2006,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2007,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2008,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2009,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2010,
+      "status": "error",
+      "error_type": "malformed_request",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2011,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2012,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2013,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2014,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2015,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2016,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2017,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2018,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2019,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2020,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2021,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2022,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2023,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2024,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2025,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2026,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    }
+  ]
+}

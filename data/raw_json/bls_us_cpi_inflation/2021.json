@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US CPI (Inflation)",
+    "source_type": "bls",
+    "dataset_id": "CUSR0000SA0",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2021,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "CUSR0000SA0"
+      ],
+      "startyear": "2021",
+      "endyear": "2021",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 72,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "CUSR0000SA0",
+          "data": [
+            {
+              "year": "2021",
+              "period": "M12",
+              "periodName": "December",
+              "value": "280.845",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M11",
+              "periodName": "November",
+              "value": "278.919",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M10",
+              "periodName": "October",
+              "value": "276.550",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M09",
+              "periodName": "September",
+              "value": "273.910",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M08",
+              "periodName": "August",
+              "value": "272.676",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M07",
+              "periodName": "July",
+              "value": "271.903",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M06",
+              "periodName": "June",
+              "value": "270.654",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M05",
+              "periodName": "May",
+              "value": "268.383",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M04",
+              "periodName": "April",
+              "value": "266.614",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M03",
+              "periodName": "March",
+              "value": "264.961",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M02",
+              "periodName": "February",
+              "value": "263.579",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2021",
+              "period": "M01",
+              "periodName": "January",
+              "value": "262.687",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

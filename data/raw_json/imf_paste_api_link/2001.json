@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "IMF",
+    "dataset_name": "Paste API Link",
+    "source_type": "imf",
+    "dataset_id": "",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2001,
+  "request": {
+    "url": "",
+    "status_code": null
+  },
+  "status": "error",
+  "error_type": "malformed_or_missing_config",
+  "recommended_action": "fix_request",
+  "message": "Missing required dataset URL or configuration.",
+  "response": {
+    "error": "Dataset URL is empty. Update DATASET_ID with a valid IMF API URL.",
+    "year": 2001
+  }
+}

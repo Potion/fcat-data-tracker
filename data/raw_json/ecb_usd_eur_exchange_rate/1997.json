@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "ECB",
+    "dataset_name": "USD/EUR Exchange Rate",
+    "source_type": "ecb",
+    "dataset_id": "EXR.D.USD.EUR.SP00.A",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 1997,
+  "request": {
+    "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?startPeriod=1997-01-01&endPeriod=1997-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "non_json_response": "",
+    "content_type": "application/vnd.sdmx.data+json;version=1.0.0-wd"
+  }
+}

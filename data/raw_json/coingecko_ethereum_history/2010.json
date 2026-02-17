@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "group": "CoinGecko",
+    "dataset_name": "Ethereum History",
+    "source_type": "coingecko",
+    "dataset_id": "ethereum",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2010,
+  "request": {
+    "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1262304000&to=1293839999",
+    "status_code": 401
+  },
+  "status": "error",
+  "error_type": "auth_or_access",
+  "recommended_action": "check_api_key_or_permissions",
+  "message": "Authentication/authorization failed.",
+  "response": {
+    "error": {
+      "status": {
+        "timestamp": "2026-02-17T21:39:30.736+00:00",
+        "error_code": 10012,
+        "error_message": "Your request exceeds the allowed time range. Public API users are limited to querying historical data within the past 365 days. Upgrade to a paid plan to enjoy full historical data access: https://www.coingecko.com/en/api/pricing. "
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "group": "OECD",
+    "dataset_name": "Trust in Government (Map)",
+    "source_type": "oecd",
+    "dataset_id": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2020&dimensionAtObservation=AllDimensions",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2011,
+  "request": {},
+  "status": "error",
+  "error_type": "rate_limited",
+  "recommended_action": "retry_later",
+  "message": "Rate limit persisted after retries.",
+  "response": null
+}

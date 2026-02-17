@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "OECD",
+    "dataset_name": "Trust in Government (Map)",
+    "source_type": "oecd",
+    "dataset_id": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2020&dimensionAtObservation=AllDimensions",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2001,
+  "request": {
+    "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2001&dimensionAtObservation=AllDimensions&endPeriod=2001",
+    "status_code": 404
+  },
+  "status": "error",
+  "error_type": "dataset_not_found",
+  "recommended_action": "fix_request",
+  "message": "Dataset endpoint or series was not found.",
+  "response": {
+    "non_json_response": "Could not find Dataflow and/or DSD related with this data request",
+    "content_type": "text/plain"
+  }
+}

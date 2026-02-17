@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "group": "CoinGecko",
+    "dataset_name": "Bitcoin History",
+    "source_type": "coingecko",
+    "dataset_id": "bitcoin",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2024,
+  "request": {
+    "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1704067200&to=1735689599",
+    "status_code": 401
+  },
+  "status": "error",
+  "error_type": "auth_or_access",
+  "recommended_action": "check_api_key_or_permissions",
+  "message": "Authentication/authorization failed.",
+  "response": {
+    "error": {
+      "status": {
+        "timestamp": "2026-02-17T21:34:32.259+00:00",
+        "error_code": 10012,
+        "error_message": "Your request exceeds the allowed time range. Public API users are limited to querying historical data within the past 365 days. Upgrade to a paid plan to enjoy full historical data access: https://www.coingecko.com/en/api/pricing. "
+      }
+    }
+  }
+}

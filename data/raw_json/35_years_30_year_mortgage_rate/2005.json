@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "group": "35 Years",
+    "dataset_name": "30-Year Mortgage Rate",
+    "source_type": "fred",
+    "dataset_id": "MORTGAGE30US",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2005,
+  "request": {
+    "url": "https://api.stlouisfed.org/fred/series/observations?series_id=MORTGAGE30US&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2005-01-01&observation_end=2005-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "realtime_start": "2026-02-17",
+    "realtime_end": "2026-02-17",
+    "observation_start": "2005-01-01",
+    "observation_end": "2005-12-31",
+    "units": "lin",
+    "output_type": 1,
+    "file_type": "json",
+    "order_by": "observation_date",
+    "sort_order": "asc",
+    "count": 52,
+    "offset": 0,
+    "limit": 100000,
+    "observations": [
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-01-06",
+        "value": "5.77"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-01-13",
+        "value": "5.74"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-01-20",
+        "value": "5.67"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-01-27",
+        "value": "5.66"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-02-03",
+        "value": "5.63"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-02-10",
+        "value": "5.57"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-02-17",
+        "value": "5.62"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-02-24",
+        "value": "5.69"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-03-03",
+        "value": "5.79"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-03-10",
+        "value": "5.85"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-03-17",
+        "value": "5.95"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-03-24",
+        "value": "6.01"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-03-31",
+        "value": "6.04"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-04-07",
+        "value": "5.93"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-04-14",
+        "value": "5.91"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-04-21",
+        "value": "5.80"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-04-28",
+        "value": "5.78"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-05-05",
+        "value": "5.75"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-05-12",
+        "value": "5.77"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-05-19",
+        "value": "5.71"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-05-26",
+        "value": "5.65"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-06-02",
+        "value": "5.62"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-06-09",
+        "value": "5.56"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-06-16",
+        "value": "5.63"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-06-23",
+        "value": "5.57"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-06-30",
+        "value": "5.53"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-07-07",
+        "value": "5.62"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-07-14",
+        "value": "5.66"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-07-21",
+        "value": "5.73"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-07-28",
+        "value": "5.77"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-08-04",
+        "value": "5.82"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-08-11",
+        "value": "5.89"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-08-18",
+        "value": "5.80"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-08-25",
+        "value": "5.77"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-09-01",
+        "value": "5.71"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-09-08",
+        "value": "5.71"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-09-15",
+        "value": "5.74"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-09-22",
+        "value": "5.80"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-09-29",
+        "value": "5.91"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-10-06",
+        "value": "5.98"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-10-13",
+        "value": "6.03"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-10-20",
+        "value": "6.10"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-10-27",
+        "value": "6.15"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-11-03",
+        "value": "6.31"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-11-10",
+        "value": "6.36"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-11-17",
+        "value": "6.37"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-11-23",
+        "value": "6.28"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-12-01",
+        "value": "6.26"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-12-08",
+        "value": "6.32"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-12-15",
+        "value": "6.30"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-12-22",
+        "value": "6.26"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2005-12-29",
+        "value": "6.22"
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US Unemployment",
+    "source_type": "bls",
+    "dataset_id": "LNS14000000",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2013,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "LNS14000000"
+      ],
+      "startyear": "2013",
+      "endyear": "2013",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 73,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "LNS14000000",
+          "data": [
+            {
+              "year": "2013",
+              "period": "M12",
+              "periodName": "December",
+              "value": "6.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M11",
+              "periodName": "November",
+              "value": "6.9",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M10",
+              "periodName": "October",
+              "value": "7.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M09",
+              "periodName": "September",
+              "value": "7.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M08",
+              "periodName": "August",
+              "value": "7.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M07",
+              "periodName": "July",
+              "value": "7.3",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M06",
+              "periodName": "June",
+              "value": "7.5",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M05",
+              "periodName": "May",
+              "value": "7.5",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M04",
+              "periodName": "April",
+              "value": "7.6",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M03",
+              "periodName": "March",
+              "value": "7.5",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M02",
+              "periodName": "February",
+              "value": "7.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2013",
+              "period": "M01",
+              "periodName": "January",
+              "value": "8.0",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

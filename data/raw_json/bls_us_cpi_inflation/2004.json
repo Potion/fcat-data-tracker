@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US CPI (Inflation)",
+    "source_type": "bls",
+    "dataset_id": "CUSR0000SA0",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2004,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "CUSR0000SA0"
+      ],
+      "startyear": "2004",
+      "endyear": "2004",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 97,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "CUSR0000SA0",
+          "data": [
+            {
+              "year": "2004",
+              "period": "M12",
+              "periodName": "December",
+              "value": "191.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M11",
+              "periodName": "November",
+              "value": "191.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M10",
+              "periodName": "October",
+              "value": "190.8",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M09",
+              "periodName": "September",
+              "value": "189.8",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M08",
+              "periodName": "August",
+              "value": "189.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M07",
+              "periodName": "July",
+              "value": "189.1",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M06",
+              "periodName": "June",
+              "value": "188.9",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M05",
+              "periodName": "May",
+              "value": "188.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M04",
+              "periodName": "April",
+              "value": "187.4",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M03",
+              "periodName": "March",
+              "value": "187.1",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M02",
+              "periodName": "February",
+              "value": "186.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2004",
+              "period": "M01",
+              "periodName": "January",
+              "value": "186.3",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

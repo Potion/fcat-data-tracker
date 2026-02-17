@@ -1,0 +1,512 @@
+{
+  "metadata": {
+    "group": "CoinGecko",
+    "dataset_name": "Bitcoin History",
+    "source_type": "coingecko",
+    "dataset_id": "bitcoin",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 0,
+    "error": 32
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=788918400&to=820454399",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=820454400&to=852076799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=852076800&to=883612799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=883612800&to=915148799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=915148800&to=946684799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2000,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2001,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=978307200&to=1009843199",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2002,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1009843200&to=1041379199",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2003,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1041379200&to=1072915199",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2004,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2005,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1104537600&to=1136073599",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2006,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1136073600&to=1167609599",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2007,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1167609600&to=1199145599",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2008,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1199145600&to=1230767999",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2009,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1230768000&to=1262303999",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2010,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2011,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1293840000&to=1325375999",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2012,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1325376000&to=1356998399",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2013,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1356998400&to=1388534399",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2014,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1388534400&to=1420070399",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2015,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1420070400&to=1451606399",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2016,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1451606400&to=1483228799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2017,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2018,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1514764800&to=1546300799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2019,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1546300800&to=1577836799",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2020,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1577836800&to=1609459199",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2021,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2022,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1640995200&to=1672531199",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2023,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1672531200&to=1704067199",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2024,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1704067200&to=1735689599",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2025,
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions",
+      "message": "Authentication/authorization failed.",
+      "request": {
+        "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1735689600&to=1767225599",
+        "status_code": 401
+      }
+    },
+    {
+      "year": 2026,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2000,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2001,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2002,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2003,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2004,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2005,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2006,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2007,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2008,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2009,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2010,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2011,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2012,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2013,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2014,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2015,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2016,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2017,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2018,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2019,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2020,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2021,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2022,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2023,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2024,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2025,
+      "status": "error",
+      "error_type": "auth_or_access",
+      "recommended_action": "check_api_key_or_permissions"
+    },
+    {
+      "year": 2026,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "ECB",
+    "dataset_name": "Eurozone Inflation (HICP)",
+    "source_type": "ecb",
+    "dataset_id": "ICP.M.U2.N.000000.4.ANR",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 1995,
+  "request": {
+    "url": "https://data-api.ecb.europa.eu/service/data/ICP/M.U2.N.000000.4.ANR?startPeriod=1995-01-01&endPeriod=1995-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "non_json_response": "",
+    "content_type": "application/vnd.sdmx.data+json;version=1.0.0-wd"
+  }
+}

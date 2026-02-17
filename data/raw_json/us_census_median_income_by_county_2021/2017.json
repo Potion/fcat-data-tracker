@@ -1,0 +1,5049 @@
+{
+  "metadata": {
+    "group": "US Census",
+    "dataset_name": "Median Income by County (2021)",
+    "source_type": "census",
+    "dataset_id": "https://api.census.gov/data/2021/acs/acs1/profile?get=NAME,DP03_0062E&for=county:*",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2017,
+  "request": {
+    "url": "https://api.census.gov/data/2017/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": [
+    [
+      "NAME",
+      "DP03_0062E",
+      "state",
+      "county"
+    ],
+    [
+      "Washington County, Tennessee",
+      "40697",
+      "47",
+      "179"
+    ],
+    [
+      "Maury County, Tennessee",
+      "57258",
+      "47",
+      "119"
+    ],
+    [
+      "Tom Green County, Texas",
+      "51114",
+      "48",
+      "451"
+    ],
+    [
+      "Victoria County, Texas",
+      "51892",
+      "48",
+      "469"
+    ],
+    [
+      "Wichita County, Texas",
+      "43295",
+      "48",
+      "485"
+    ],
+    [
+      "Midland County, Texas",
+      "75590",
+      "48",
+      "329"
+    ],
+    [
+      "Grayson County, Texas",
+      "56718",
+      "48",
+      "181"
+    ],
+    [
+      "Brazos County, Texas",
+      "45155",
+      "48",
+      "041"
+    ],
+    [
+      "Gregg County, Texas",
+      "47095",
+      "48",
+      "183"
+    ],
+    [
+      "Lubbock County, Texas",
+      "47317",
+      "48",
+      "303"
+    ],
+    [
+      "Kaufman County, Texas",
+      "65841",
+      "48",
+      "257"
+    ],
+    [
+      "Bexar County, Texas",
+      "54175",
+      "48",
+      "029"
+    ],
+    [
+      "Bell County, Texas",
+      "52479",
+      "48",
+      "027"
+    ],
+    [
+      "Cameron County, Texas",
+      "36975",
+      "48",
+      "061"
+    ],
+    [
+      "Denton County, Texas",
+      "86291",
+      "48",
+      "121"
+    ],
+    [
+      "Galveston County, Texas",
+      "70494",
+      "48",
+      "167"
+    ],
+    [
+      "El Paso County, Texas",
+      "44489",
+      "48",
+      "141"
+    ],
+    [
+      "Bowie County, Texas",
+      "50573",
+      "48",
+      "037"
+    ],
+    [
+      "Hidalgo County, Texas",
+      "37106",
+      "48",
+      "215"
+    ],
+    [
+      "Smith County, Texas",
+      "54339",
+      "48",
+      "423"
+    ],
+    [
+      "Lee County, Alabama",
+      "52943",
+      "01",
+      "081"
+    ],
+    [
+      "Jefferson County, Alabama",
+      "50709",
+      "01",
+      "073"
+    ],
+    [
+      "Lauderdale County, Alabama",
+      "45352",
+      "01",
+      "077"
+    ],
+    [
+      "Limestone County, Alabama",
+      "55817",
+      "01",
+      "083"
+    ],
+    [
+      "Shelby County, Alabama",
+      "73031",
+      "01",
+      "117"
+    ],
+    [
+      "St. Clair County, Alabama",
+      "50934",
+      "01",
+      "115"
+    ],
+    [
+      "Baldwin County, Alabama",
+      "55342",
+      "01",
+      "003"
+    ],
+    [
+      "Cullman County, Alabama",
+      "45044",
+      "01",
+      "043"
+    ],
+    [
+      "Elmore County, Alabama",
+      "60558",
+      "01",
+      "051"
+    ],
+    [
+      "Houston County, Alabama",
+      "44529",
+      "01",
+      "069"
+    ],
+    [
+      "Talladega County, Alabama",
+      "39731",
+      "01",
+      "121"
+    ],
+    [
+      "Tuscaloosa County, Alabama",
+      "52313",
+      "01",
+      "125"
+    ],
+    [
+      "Morgan County, Alabama",
+      "48563",
+      "01",
+      "103"
+    ],
+    [
+      "Sherburne County, Minnesota",
+      "87756",
+      "27",
+      "141"
+    ],
+    [
+      "Carver County, Minnesota",
+      "101271",
+      "27",
+      "019"
+    ],
+    [
+      "Ramsey County, Minnesota",
+      "61962",
+      "27",
+      "123"
+    ],
+    [
+      "Scott County, Minnesota",
+      "98538",
+      "27",
+      "139"
+    ],
+    [
+      "Wright County, Minnesota",
+      "79931",
+      "27",
+      "171"
+    ],
+    [
+      "Blue Earth County, Minnesota",
+      "56716",
+      "27",
+      "013"
+    ],
+    [
+      "St. Louis County, Minnesota",
+      "52890",
+      "27",
+      "137"
+    ],
+    [
+      "Anoka County, Minnesota",
+      "79169",
+      "27",
+      "003"
+    ],
+    [
+      "Stearns County, Minnesota",
+      "63271",
+      "27",
+      "145"
+    ],
+    [
+      "Dakota County, Minnesota",
+      "80832",
+      "27",
+      "037"
+    ],
+    [
+      "Washington County, Minnesota",
+      "91866",
+      "27",
+      "163"
+    ],
+    [
+      "Hunt County, Texas",
+      "55786",
+      "48",
+      "231"
+    ],
+    [
+      "Guadalupe County, Texas",
+      "66486",
+      "48",
+      "187"
+    ],
+    [
+      "Nacogdoches County, Texas",
+      "47589",
+      "48",
+      "347"
+    ],
+    [
+      "Parker County, Texas",
+      "75823",
+      "48",
+      "367"
+    ],
+    [
+      "Ector County, Texas",
+      "55380",
+      "48",
+      "135"
+    ],
+    [
+      "Travis County, Texas",
+      "72884",
+      "48",
+      "453"
+    ],
+    [
+      "Collin County, Texas",
+      "94933",
+      "48",
+      "085"
+    ],
+    [
+      "Angelina County, Texas",
+      "45326",
+      "48",
+      "005"
+    ],
+    [
+      "Hays County, Texas",
+      "65667",
+      "48",
+      "209"
+    ],
+    [
+      "Brazoria County, Texas",
+      "82229",
+      "48",
+      "039"
+    ],
+    [
+      "Henderson County, Texas",
+      "44971",
+      "48",
+      "213"
+    ],
+    [
+      "Harrison County, Texas",
+      "53394",
+      "48",
+      "203"
+    ],
+    [
+      "Williamson County, Texas",
+      "81719",
+      "48",
+      "491"
+    ],
+    [
+      "Orange County, Texas",
+      "58863",
+      "48",
+      "361"
+    ],
+    [
+      "Harris County, Texas",
+      "58645",
+      "48",
+      "201"
+    ],
+    [
+      "Dallas County, Texas",
+      "56718",
+      "48",
+      "113"
+    ],
+    [
+      "Johnson County, Texas",
+      "62482",
+      "48",
+      "251"
+    ],
+    [
+      "McLennan County, Texas",
+      "47267",
+      "48",
+      "309"
+    ],
+    [
+      "Montgomery County, Texas",
+      "76811",
+      "48",
+      "339"
+    ],
+    [
+      "Webb County, Texas",
+      "43408",
+      "48",
+      "479"
+    ],
+    [
+      "Fort Bend County, Texas",
+      "90845",
+      "48",
+      "157"
+    ],
+    [
+      "Etowah County, Alabama",
+      "41576",
+      "01",
+      "055"
+    ],
+    [
+      "DeKalb County, Alabama",
+      "39373",
+      "01",
+      "049"
+    ],
+    [
+      "Mobile County, Alabama",
+      "46023",
+      "01",
+      "097"
+    ],
+    [
+      "Walker County, Alabama",
+      "41973",
+      "01",
+      "127"
+    ],
+    [
+      "Calhoun County, Alabama",
+      "46763",
+      "01",
+      "015"
+    ],
+    [
+      "Montgomery County, Alabama",
+      "45724",
+      "01",
+      "101"
+    ],
+    [
+      "Marshall County, Alabama",
+      "41476",
+      "01",
+      "095"
+    ],
+    [
+      "Madison County, Alabama",
+      "62312",
+      "01",
+      "089"
+    ],
+    [
+      "Fairbanks North Star Borough, Alaska",
+      "76747",
+      "02",
+      "090"
+    ],
+    [
+      "Matanuska-Susitna Borough, Alaska",
+      "69121",
+      "02",
+      "170"
+    ],
+    [
+      "Anchorage Municipality, Alaska",
+      "79166",
+      "02",
+      "020"
+    ],
+    [
+      "Pima County, Arizona",
+      "51425",
+      "04",
+      "019"
+    ],
+    [
+      "Maricopa County, Arizona",
+      "62223",
+      "04",
+      "013"
+    ],
+    [
+      "Cochise County, Arizona",
+      "51816",
+      "04",
+      "003"
+    ],
+    [
+      "Mohave County, Arizona",
+      "42311",
+      "04",
+      "015"
+    ],
+    [
+      "Apache County, Arizona",
+      "31671",
+      "04",
+      "001"
+    ],
+    [
+      "Coconino County, Arizona",
+      "54893",
+      "04",
+      "005"
+    ],
+    [
+      "Yavapai County, Arizona",
+      "50041",
+      "04",
+      "025"
+    ],
+    [
+      "Yuma County, Arizona",
+      "46798",
+      "04",
+      "027"
+    ],
+    [
+      "Navajo County, Arizona",
+      "41295",
+      "04",
+      "017"
+    ],
+    [
+      "Pinal County, Arizona",
+      "52788",
+      "04",
+      "021"
+    ],
+    [
+      "Saline County, Arkansas",
+      "59633",
+      "05",
+      "125"
+    ],
+    [
+      "Jefferson County, Texas",
+      "47657",
+      "48",
+      "245"
+    ],
+    [
+      "Tarrant County, Texas",
+      "65052",
+      "48",
+      "439"
+    ],
+    [
+      "Ellis County, Texas",
+      "72138",
+      "48",
+      "139"
+    ],
+    [
+      "Nueces County, Texas",
+      "52482",
+      "48",
+      "355"
+    ],
+    [
+      "San Patricio County, Texas",
+      "51012",
+      "48",
+      "409"
+    ],
+    [
+      "Randall County, Texas",
+      "62098",
+      "48",
+      "381"
+    ],
+    [
+      "Liberty County, Texas",
+      "45614",
+      "48",
+      "291"
+    ],
+    [
+      "Wise County, Texas",
+      "58839",
+      "48",
+      "497"
+    ],
+    [
+      "Rockwall County, Texas",
+      "94848",
+      "48",
+      "397"
+    ],
+    [
+      "Taylor County, Texas",
+      "51894",
+      "48",
+      "441"
+    ],
+    [
+      "Walker County, Texas",
+      "40936",
+      "48",
+      "471"
+    ],
+    [
+      "Comal County, Texas",
+      "71060",
+      "48",
+      "091"
+    ],
+    [
+      "Coryell County, Texas",
+      "52769",
+      "48",
+      "099"
+    ],
+    [
+      "Potter County, Texas",
+      "45312",
+      "48",
+      "375"
+    ],
+    [
+      "Bastrop County, Texas",
+      "72107",
+      "48",
+      "021"
+    ],
+    [
+      "Chittenden County, Vermont",
+      "64444",
+      "50",
+      "007"
+    ],
+    [
+      "Faulkner County, Arkansas",
+      "47964",
+      "05",
+      "045"
+    ],
+    [
+      "Jefferson County, Arkansas",
+      "37678",
+      "05",
+      "069"
+    ],
+    [
+      "Sebastian County, Arkansas",
+      "41917",
+      "05",
+      "131"
+    ],
+    [
+      "Benton County, Arkansas",
+      "63746",
+      "05",
+      "007"
+    ],
+    [
+      "Garland County, Arkansas",
+      "46101",
+      "05",
+      "051"
+    ],
+    [
+      "Washington County, Arkansas",
+      "50169",
+      "05",
+      "143"
+    ],
+    [
+      "Craighead County, Arkansas",
+      "50422",
+      "05",
+      "031"
+    ],
+    [
+      "Lonoke County, Arkansas",
+      "51835",
+      "05",
+      "085"
+    ],
+    [
+      "Pulaski County, Arkansas",
+      "52450",
+      "05",
+      "119"
+    ],
+    [
+      "White County, Arkansas",
+      "42443",
+      "05",
+      "145"
+    ],
+    [
+      "Merced County, California",
+      "47735",
+      "06",
+      "047"
+    ],
+    [
+      "Lake County, California",
+      "48930",
+      "06",
+      "033"
+    ],
+    [
+      "Yuba County, California",
+      "63120",
+      "06",
+      "115"
+    ],
+    [
+      "Contra Costa County, California",
+      "95339",
+      "06",
+      "013"
+    ],
+    [
+      "Stanislaus County, California",
+      "59514",
+      "06",
+      "099"
+    ],
+    [
+      "Santa Barbara County, California",
+      "71106",
+      "06",
+      "083"
+    ],
+    [
+      "Sonoma County, California",
+      "80409",
+      "06",
+      "097"
+    ],
+    [
+      "Imperial County, California",
+      "47211",
+      "06",
+      "025"
+    ],
+    [
+      "Alameda County, California",
+      "96296",
+      "06",
+      "001"
+    ],
+    [
+      "Sacramento County, California",
+      "63045",
+      "06",
+      "067"
+    ],
+    [
+      "El Dorado County, California",
+      "79414",
+      "06",
+      "017"
+    ],
+    [
+      "Napa County, California",
+      "86562",
+      "06",
+      "055"
+    ],
+    [
+      "Monterey County, California",
+      "71274",
+      "06",
+      "053"
+    ],
+    [
+      "San Francisco County, California",
+      "110816",
+      "06",
+      "075"
+    ],
+    [
+      "Jones County, Mississippi",
+      "39310",
+      "28",
+      "067"
+    ],
+    [
+      "Madison County, Mississippi",
+      "68336",
+      "28",
+      "089"
+    ],
+    [
+      "Rankin County, Mississippi",
+      "66054",
+      "28",
+      "121"
+    ],
+    [
+      "Hinds County, Mississippi",
+      "45658",
+      "28",
+      "049"
+    ],
+    [
+      "Forrest County, Mississippi",
+      "42389",
+      "28",
+      "035"
+    ],
+    [
+      "Jackson County, Mississippi",
+      "48284",
+      "28",
+      "059"
+    ],
+    [
+      "Harrison County, Mississippi",
+      "47365",
+      "28",
+      "047"
+    ],
+    [
+      "Lauderdale County, Mississippi",
+      "46983",
+      "28",
+      "075"
+    ],
+    [
+      "Lee County, Mississippi",
+      "55886",
+      "28",
+      "081"
+    ],
+    [
+      "DeSoto County, Mississippi",
+      "66440",
+      "28",
+      "033"
+    ],
+    [
+      "Delaware County, Pennsylvania",
+      "73854",
+      "42",
+      "045"
+    ],
+    [
+      "Dauphin County, Pennsylvania",
+      "61622",
+      "42",
+      "043"
+    ],
+    [
+      "Tooele County, Utah",
+      "72386",
+      "49",
+      "045"
+    ],
+    [
+      "Washington County, Utah",
+      "54842",
+      "49",
+      "053"
+    ],
+    [
+      "Utah County, Utah",
+      "70417",
+      "49",
+      "049"
+    ],
+    [
+      "Weber County, Utah",
+      "62917",
+      "49",
+      "057"
+    ],
+    [
+      "Salt Lake County, Utah",
+      "71471",
+      "49",
+      "035"
+    ],
+    [
+      "Davis County, Utah",
+      "80301",
+      "49",
+      "011"
+    ],
+    [
+      "Cache County, Utah",
+      "52828",
+      "49",
+      "005"
+    ],
+    [
+      "James City County, Virginia",
+      "87910",
+      "51",
+      "095"
+    ],
+    [
+      "Henrico County, Virginia",
+      "67185",
+      "51",
+      "087"
+    ],
+    [
+      "Rockingham County, Virginia",
+      "59493",
+      "51",
+      "165"
+    ],
+    [
+      "Spotsylvania County, Virginia",
+      "86491",
+      "51",
+      "177"
+    ],
+    [
+      "Montgomery County, Virginia",
+      "56462",
+      "51",
+      "121"
+    ],
+    [
+      "Augusta County, Virginia",
+      "57017",
+      "51",
+      "015"
+    ],
+    [
+      "Loudoun County, Virginia",
+      "135842",
+      "51",
+      "107"
+    ],
+    [
+      "Prince William County, Virginia",
+      "100845",
+      "51",
+      "153"
+    ],
+    [
+      "Roanoke County, Virginia",
+      "64287",
+      "51",
+      "161"
+    ],
+    [
+      "Fauquier County, Virginia",
+      "98585",
+      "51",
+      "061"
+    ],
+    [
+      "Tulare County, California",
+      "46266",
+      "06",
+      "107"
+    ],
+    [
+      "Yolo County, California",
+      "65729",
+      "06",
+      "113"
+    ],
+    [
+      "Humboldt County, California",
+      "46494",
+      "06",
+      "023"
+    ],
+    [
+      "Nevada County, California",
+      "65385",
+      "06",
+      "057"
+    ],
+    [
+      "Madera County, California",
+      "51283",
+      "06",
+      "039"
+    ],
+    [
+      "Mendocino County, California",
+      "53024",
+      "06",
+      "045"
+    ],
+    [
+      "Santa Cruz County, California",
+      "79705",
+      "06",
+      "087"
+    ],
+    [
+      "Los Angeles County, California",
+      "65006",
+      "06",
+      "037"
+    ],
+    [
+      "Riverside County, California",
+      "63944",
+      "06",
+      "065"
+    ],
+    [
+      "San Bernardino County, California",
+      "60420",
+      "06",
+      "071"
+    ],
+    [
+      "Santa Clara County, California",
+      "119035",
+      "06",
+      "085"
+    ],
+    [
+      "Marin County, California",
+      "113908",
+      "06",
+      "041"
+    ],
+    [
+      "Placer County, California",
+      "80728",
+      "06",
+      "061"
+    ],
+    [
+      "Shasta County, California",
+      "52439",
+      "06",
+      "089"
+    ],
+    [
+      "Solano County, California",
+      "77133",
+      "06",
+      "095"
+    ],
+    [
+      "Butte County, California",
+      "49061",
+      "06",
+      "007"
+    ],
+    [
+      "Kings County, California",
+      "57555",
+      "06",
+      "031"
+    ],
+    [
+      "San Luis Obispo County, California",
+      "71880",
+      "06",
+      "079"
+    ],
+    [
+      "Fresno County, California",
+      "51800",
+      "06",
+      "019"
+    ],
+    [
+      "Kern County, California",
+      "49854",
+      "06",
+      "029"
+    ],
+    [
+      "Orange County, California",
+      "86217",
+      "06",
+      "059"
+    ],
+    [
+      "Ventura County, California",
+      "82857",
+      "06",
+      "111"
+    ],
+    [
+      "Sutter County, California",
+      "55062",
+      "06",
+      "101"
+    ],
+    [
+      "San Mateo County, California",
+      "116653",
+      "06",
+      "081"
+    ],
+    [
+      "San Joaquin County, California",
+      "61164",
+      "06",
+      "077"
+    ],
+    [
+      "Denver County, Colorado",
+      "65224",
+      "08",
+      "031"
+    ],
+    [
+      "Jefferson County, Colorado",
+      "80616",
+      "08",
+      "059"
+    ],
+    [
+      "Weld County, Colorado",
+      "68884",
+      "08",
+      "123"
+    ],
+    [
+      "San Diego County, California",
+      "76207",
+      "06",
+      "073"
+    ],
+    [
+      "Adams County, Colorado",
+      "66517",
+      "08",
+      "001"
+    ],
+    [
+      "Douglas County, Colorado",
+      "111482",
+      "08",
+      "035"
+    ],
+    [
+      "Larimer County, Colorado",
+      "69102",
+      "08",
+      "069"
+    ],
+    [
+      "Boulder County, Colorado",
+      "80834",
+      "08",
+      "013"
+    ],
+    [
+      "Franklin County, Pennsylvania",
+      "60459",
+      "42",
+      "055"
+    ],
+    [
+      "Monroe County, Pennsylvania",
+      "61612",
+      "42",
+      "089"
+    ],
+    [
+      "Washington County, Pennsylvania",
+      "60551",
+      "42",
+      "125"
+    ],
+    [
+      "Philadelphia County, Pennsylvania",
+      "39759",
+      "42",
+      "101"
+    ],
+    [
+      "York County, Pennsylvania",
+      "63519",
+      "42",
+      "133"
+    ],
+    [
+      "Indiana County, Pennsylvania",
+      "46237",
+      "42",
+      "063"
+    ],
+    [
+      "Cumberland County, Pennsylvania",
+      "69301",
+      "42",
+      "041"
+    ],
+    [
+      "Allegheny County, Pennsylvania",
+      "58625",
+      "42",
+      "003"
+    ],
+    [
+      "Westmoreland County, Pennsylvania",
+      "60713",
+      "42",
+      "129"
+    ],
+    [
+      "Blair County, Pennsylvania",
+      "45957",
+      "42",
+      "013"
+    ],
+    [
+      "Lawrence County, Pennsylvania",
+      "49967",
+      "42",
+      "073"
+    ],
+    [
+      "Cambria County, Pennsylvania",
+      "46598",
+      "42",
+      "021"
+    ],
+    [
+      "Chester County, Pennsylvania",
+      "96656",
+      "42",
+      "029"
+    ],
+    [
+      "Berks County, Pennsylvania",
+      "61058",
+      "42",
+      "011"
+    ],
+    [
+      "Somerset County, Pennsylvania",
+      "48846",
+      "42",
+      "111"
+    ],
+    [
+      "Clay County, Missouri",
+      "66938",
+      "29",
+      "047"
+    ],
+    [
+      "St. Louis County, Missouri",
+      "64784",
+      "29",
+      "189"
+    ],
+    [
+      "Boone County, Missouri",
+      "51340",
+      "29",
+      "019"
+    ],
+    [
+      "Cole County, Missouri",
+      "52609",
+      "29",
+      "051"
+    ],
+    [
+      "Franklin County, Missouri",
+      "55290",
+      "29",
+      "071"
+    ],
+    [
+      "Jackson County, Missouri",
+      "52552",
+      "29",
+      "095"
+    ],
+    [
+      "Buchanan County, Missouri",
+      "46052",
+      "29",
+      "021"
+    ],
+    [
+      "Cass County, Missouri",
+      "64595",
+      "29",
+      "037"
+    ],
+    [
+      "St. Charles County, Missouri",
+      "81594",
+      "29",
+      "183"
+    ],
+    [
+      "Cape Girardeau County, Missouri",
+      "51140",
+      "29",
+      "031"
+    ],
+    [
+      "Hanover County, Virginia",
+      "90066",
+      "51",
+      "085"
+    ],
+    [
+      "Chesapeake city, Virginia",
+      "76629",
+      "51",
+      "550"
+    ],
+    [
+      "Albemarle County, Virginia",
+      "77181",
+      "51",
+      "003"
+    ],
+    [
+      "Bedford County, Virginia",
+      "66327",
+      "51",
+      "019"
+    ],
+    [
+      "Portsmouth city, Virginia",
+      "50242",
+      "51",
+      "740"
+    ],
+    [
+      "Virginia Beach city, Virginia",
+      "72586",
+      "51",
+      "810"
+    ],
+    [
+      "Alexandria city, Virginia",
+      "100530",
+      "51",
+      "510"
+    ],
+    [
+      "Hampton city, Virginia",
+      "54062",
+      "51",
+      "650"
+    ],
+    [
+      "Arlington County, Virginia",
+      "117237",
+      "51",
+      "013"
+    ],
+    [
+      "Newport News city, Virginia",
+      "49716",
+      "51",
+      "700"
+    ],
+    [
+      "Frederick County, Virginia",
+      "72405",
+      "51",
+      "069"
+    ],
+    [
+      "Stafford County, Virginia",
+      "112795",
+      "51",
+      "179"
+    ],
+    [
+      "Lynchburg city, Virginia",
+      "45239",
+      "51",
+      "680"
+    ],
+    [
+      "York County, Virginia",
+      "83993",
+      "51",
+      "199"
+    ],
+    [
+      "Richmond city, Virginia",
+      "46261",
+      "51",
+      "760"
+    ],
+    [
+      "Roanoke city, Virginia",
+      "43799",
+      "51",
+      "770"
+    ],
+    [
+      "Suffolk city, Virginia",
+      "70277",
+      "51",
+      "800"
+    ],
+    [
+      "Norfolk city, Virginia",
+      "49445",
+      "51",
+      "710"
+    ],
+    [
+      "Chesterfield County, Virginia",
+      "80800",
+      "51",
+      "041"
+    ],
+    [
+      "Fairfax County, Virginia",
+      "118279",
+      "51",
+      "059"
+    ],
+    [
+      "Thurston County, Washington",
+      "71765",
+      "53",
+      "067"
+    ],
+    [
+      "Benton County, Washington",
+      "63346",
+      "53",
+      "005"
+    ],
+    [
+      "Clark County, Washington",
+      "74747",
+      "53",
+      "011"
+    ],
+    [
+      "Pueblo County, Colorado",
+      "43148",
+      "08",
+      "101"
+    ],
+    [
+      "Mesa County, Colorado",
+      "52742",
+      "08",
+      "077"
+    ],
+    [
+      "El Paso County, Colorado",
+      "65370",
+      "08",
+      "041"
+    ],
+    [
+      "Arapahoe County, Colorado",
+      "75357",
+      "08",
+      "005"
+    ],
+    [
+      "Broomfield County, Colorado",
+      "90939",
+      "08",
+      "014"
+    ],
+    [
+      "New Castle County, Delaware",
+      "66647",
+      "10",
+      "003"
+    ],
+    [
+      "Sussex County, Delaware",
+      "61985",
+      "10",
+      "005"
+    ],
+    [
+      "Kent County, Delaware",
+      "57608",
+      "10",
+      "001"
+    ],
+    [
+      "District of Columbia, District of Columbia",
+      "82372",
+      "11",
+      "001"
+    ],
+    [
+      "New Haven County, Connecticut",
+      "66863",
+      "09",
+      "009"
+    ],
+    [
+      "Litchfield County, Connecticut",
+      "78436",
+      "09",
+      "005"
+    ],
+    [
+      "Hartford County, Connecticut",
+      "70429",
+      "09",
+      "003"
+    ],
+    [
+      "Windham County, Connecticut",
+      "63573",
+      "09",
+      "015"
+    ],
+    [
+      "New London County, Connecticut",
+      "71987",
+      "09",
+      "011"
+    ],
+    [
+      "Middlesex County, Connecticut",
+      "79646",
+      "09",
+      "007"
+    ],
+    [
+      "Tolland County, Connecticut",
+      "72117",
+      "09",
+      "013"
+    ],
+    [
+      "Fairfield County, Connecticut",
+      "91198",
+      "09",
+      "001"
+    ],
+    [
+      "Duval County, Florida",
+      "52062",
+      "12",
+      "031"
+    ],
+    [
+      "Brevard County, Florida",
+      "52540",
+      "12",
+      "009"
+    ],
+    [
+      "Clay County, Florida",
+      "65247",
+      "12",
+      "019"
+    ],
+    [
+      "Lake County, Florida",
+      "51383",
+      "12",
+      "069"
+    ],
+    [
+      "Nassau County, Florida",
+      "71489",
+      "12",
+      "089"
+    ],
+    [
+      "Pinellas County, Florida",
+      "51512",
+      "12",
+      "103"
+    ],
+    [
+      "Polk County, Florida",
+      "48475",
+      "12",
+      "105"
+    ],
+    [
+      "St. Lucie County, Florida",
+      "50062",
+      "12",
+      "111"
+    ],
+    [
+      "Indian River County, Florida",
+      "49177",
+      "12",
+      "061"
+    ],
+    [
+      "Palm Beach County, Florida",
+      "60057",
+      "12",
+      "099"
+    ],
+    [
+      "St. Johns County, Florida",
+      "73836",
+      "12",
+      "109"
+    ],
+    [
+      "Seminole County, Florida",
+      "64049",
+      "12",
+      "117"
+    ],
+    [
+      "Miami-Dade County, Florida",
+      "49930",
+      "12",
+      "086"
+    ],
+    [
+      "Bay County, Florida",
+      "52415",
+      "12",
+      "005"
+    ],
+    [
+      "Flagler County, Florida",
+      "49652",
+      "12",
+      "035"
+    ],
+    [
+      "Osceola County, Florida",
+      "49762",
+      "12",
+      "097"
+    ],
+    [
+      "Sumter County, Florida",
+      "54057",
+      "12",
+      "119"
+    ],
+    [
+      "Walton County, Florida",
+      "51620",
+      "12",
+      "131"
+    ],
+    [
+      "Lee County, Florida",
+      "53928",
+      "12",
+      "071"
+    ],
+    [
+      "Marion County, Florida",
+      "43910",
+      "12",
+      "083"
+    ],
+    [
+      "Collier County, Florida",
+      "66048",
+      "12",
+      "021"
+    ],
+    [
+      "Orange County, Florida",
+      "54107",
+      "12",
+      "095"
+    ],
+    [
+      "Pasco County, Florida",
+      "51347",
+      "12",
+      "101"
+    ],
+    [
+      "Highlands County, Florida",
+      "35543",
+      "12",
+      "055"
+    ],
+    [
+      "Alachua County, Florida",
+      "44676",
+      "12",
+      "001"
+    ],
+    [
+      "Charlotte County, Florida",
+      "52070",
+      "12",
+      "015"
+    ],
+    [
+      "Columbia County, Florida",
+      "40811",
+      "12",
+      "023"
+    ],
+    [
+      "Martin County, Florida",
+      "54681",
+      "12",
+      "085"
+    ],
+    [
+      "Putnam County, Florida",
+      "33790",
+      "12",
+      "107"
+    ],
+    [
+      "Sarasota County, Florida",
+      "58400",
+      "12",
+      "115"
+    ],
+    [
+      "Manatee County, Florida",
+      "55268",
+      "12",
+      "081"
+    ],
+    [
+      "Citrus County, Florida",
+      "43548",
+      "12",
+      "017"
+    ],
+    [
+      "Santa Rosa County, Florida",
+      "66059",
+      "12",
+      "113"
+    ],
+    [
+      "Volusia County, Florida",
+      "46901",
+      "12",
+      "127"
+    ],
+    [
+      "Leon County, Florida",
+      "51642",
+      "12",
+      "073"
+    ],
+    [
+      "Broward County, Florida",
+      "56842",
+      "12",
+      "011"
+    ],
+    [
+      "Monroe County, Florida",
+      "65747",
+      "12",
+      "087"
+    ],
+    [
+      "Platte County, Missouri",
+      "74646",
+      "29",
+      "165"
+    ],
+    [
+      "St. Francois County, Missouri",
+      "39288",
+      "29",
+      "187"
+    ],
+    [
+      "St. Louis city, Missouri",
+      "41441",
+      "29",
+      "510"
+    ],
+    [
+      "Christian County, Missouri",
+      "59161",
+      "29",
+      "043"
+    ],
+    [
+      "Greene County, Missouri",
+      "45117",
+      "29",
+      "077"
+    ],
+    [
+      "Jasper County, Missouri",
+      "47981",
+      "29",
+      "097"
+    ],
+    [
+      "Jefferson County, Missouri",
+      "62228",
+      "29",
+      "099"
+    ],
+    [
+      "Lewis and Clark County, Montana",
+      "60404",
+      "30",
+      "049"
+    ],
+    [
+      "Skagit County, Washington",
+      "66066",
+      "53",
+      "057"
+    ],
+    [
+      "Spokane County, Washington",
+      "53360",
+      "53",
+      "063"
+    ],
+    [
+      "Chelan County, Washington",
+      "61615",
+      "53",
+      "007"
+    ],
+    [
+      "Kitsap County, Washington",
+      "73026",
+      "53",
+      "035"
+    ],
+    [
+      "King County, Washington",
+      "89675",
+      "53",
+      "033"
+    ],
+    [
+      "Yakima County, Washington",
+      "47402",
+      "53",
+      "077"
+    ],
+    [
+      "Clallam County, Washington",
+      "47907",
+      "53",
+      "009"
+    ],
+    [
+      "Cowlitz County, Washington",
+      "49456",
+      "53",
+      "015"
+    ],
+    [
+      "Lewis County, Washington",
+      "49827",
+      "53",
+      "041"
+    ],
+    [
+      "Grays Harbor County, Washington",
+      "47445",
+      "53",
+      "027"
+    ],
+    [
+      "Island County, Washington",
+      "59644",
+      "53",
+      "029"
+    ],
+    [
+      "Pierce County, Washington",
+      "69278",
+      "53",
+      "053"
+    ],
+    [
+      "Franklin County, Washington",
+      "64344",
+      "53",
+      "021"
+    ],
+    [
+      "Grant County, Washington",
+      "58644",
+      "53",
+      "025"
+    ],
+    [
+      "Whatcom County, Washington",
+      "61186",
+      "53",
+      "073"
+    ],
+    [
+      "Snohomish County, Washington",
+      "82595",
+      "53",
+      "061"
+    ],
+    [
+      "Wood County, West Virginia",
+      "44115",
+      "54",
+      "107"
+    ],
+    [
+      "Monongalia County, West Virginia",
+      "50888",
+      "54",
+      "061"
+    ],
+    [
+      "Cabell County, West Virginia",
+      "33750",
+      "54",
+      "011"
+    ],
+    [
+      "Kanawha County, West Virginia",
+      "42197",
+      "54",
+      "039"
+    ],
+    [
+      "Harrison County, West Virginia",
+      "58082",
+      "54",
+      "033"
+    ],
+    [
+      "Raleigh County, West Virginia",
+      "42121",
+      "54",
+      "081"
+    ],
+    [
+      "Hernando County, Florida",
+      "44892",
+      "12",
+      "053"
+    ],
+    [
+      "Hillsborough County, Florida",
+      "54731",
+      "12",
+      "057"
+    ],
+    [
+      "Okaloosa County, Florida",
+      "61866",
+      "12",
+      "091"
+    ],
+    [
+      "Dougherty County, Georgia",
+      "38712",
+      "13",
+      "095"
+    ],
+    [
+      "Henry County, Georgia",
+      "67018",
+      "13",
+      "151"
+    ],
+    [
+      "Houston County, Georgia",
+      "58525",
+      "13",
+      "153"
+    ],
+    [
+      "Spalding County, Georgia",
+      "47027",
+      "13",
+      "255"
+    ],
+    [
+      "Paulding County, Georgia",
+      "66482",
+      "13",
+      "223"
+    ],
+    [
+      "Richmond County, Georgia",
+      "37324",
+      "13",
+      "245"
+    ],
+    [
+      "Walker County, Georgia",
+      "45410",
+      "13",
+      "295"
+    ],
+    [
+      "Gwinnett County, Georgia",
+      "68914",
+      "13",
+      "135"
+    ],
+    [
+      "Barrow County, Georgia",
+      "59994",
+      "13",
+      "013"
+    ],
+    [
+      "Bartow County, Georgia",
+      "54218",
+      "13",
+      "015"
+    ],
+    [
+      "Douglas County, Georgia",
+      "61094",
+      "13",
+      "097"
+    ],
+    [
+      "Whitfield County, Georgia",
+      "40717",
+      "13",
+      "313"
+    ],
+    [
+      "Troup County, Georgia",
+      "38977",
+      "13",
+      "285"
+    ],
+    [
+      "Bibb County, Georgia",
+      "37444",
+      "13",
+      "021"
+    ],
+    [
+      "Escambia County, Florida",
+      "48631",
+      "12",
+      "033"
+    ],
+    [
+      "Chatham County, Georgia",
+      "55352",
+      "13",
+      "051"
+    ],
+    [
+      "Rockdale County, Georgia",
+      "62429",
+      "13",
+      "247"
+    ],
+    [
+      "Yellowstone County, Montana",
+      "58156",
+      "30",
+      "111"
+    ],
+    [
+      "Missoula County, Montana",
+      "54311",
+      "30",
+      "063"
+    ],
+    [
+      "Cascade County, Montana",
+      "47713",
+      "30",
+      "013"
+    ],
+    [
+      "Gallatin County, Montana",
+      "60901",
+      "30",
+      "031"
+    ],
+    [
+      "Flathead County, Montana",
+      "59735",
+      "30",
+      "029"
+    ],
+    [
+      "Lancaster County, Nebraska",
+      "59306",
+      "31",
+      "109"
+    ],
+    [
+      "Douglas County, Nebraska",
+      "61531",
+      "31",
+      "055"
+    ],
+    [
+      "Sarpy County, Nebraska",
+      "80694",
+      "31",
+      "153"
+    ],
+    [
+      "Berkeley County, West Virginia",
+      "59142",
+      "54",
+      "003"
+    ],
+    [
+      "St. Croix County, Wisconsin",
+      "80512",
+      "55",
+      "109"
+    ],
+    [
+      "Milwaukee County, Wisconsin",
+      "47591",
+      "55",
+      "079"
+    ],
+    [
+      "Racine County, Wisconsin",
+      "60897",
+      "55",
+      "101"
+    ],
+    [
+      "Winnebago County, Wisconsin",
+      "56678",
+      "55",
+      "139"
+    ],
+    [
+      "Sheboygan County, Wisconsin",
+      "58361",
+      "55",
+      "117"
+    ],
+    [
+      "Outagamie County, Wisconsin",
+      "65564",
+      "55",
+      "087"
+    ],
+    [
+      "La Crosse County, Wisconsin",
+      "57033",
+      "55",
+      "063"
+    ],
+    [
+      "Brown County, Wisconsin",
+      "60793",
+      "55",
+      "009"
+    ],
+    [
+      "Eau Claire County, Wisconsin",
+      "54963",
+      "55",
+      "035"
+    ],
+    [
+      "Marathon County, Wisconsin",
+      "58173",
+      "55",
+      "073"
+    ],
+    [
+      "Waukesha County, Wisconsin",
+      "82248",
+      "55",
+      "133"
+    ],
+    [
+      "Dodge County, Wisconsin",
+      "56421",
+      "55",
+      "027"
+    ],
+    [
+      "Walworth County, Wisconsin",
+      "60178",
+      "55",
+      "127"
+    ],
+    [
+      "Manitowoc County, Wisconsin",
+      "54785",
+      "55",
+      "071"
+    ],
+    [
+      "Washington County, Wisconsin",
+      "75453",
+      "55",
+      "131"
+    ],
+    [
+      "Dane County, Wisconsin",
+      "72268",
+      "55",
+      "025"
+    ],
+    [
+      "Fond du Lac County, Wisconsin",
+      "61417",
+      "55",
+      "039"
+    ],
+    [
+      "Ozaukee County, Wisconsin",
+      "82869",
+      "55",
+      "089"
+    ],
+    [
+      "Portage County, Wisconsin",
+      "52247",
+      "55",
+      "097"
+    ],
+    [
+      "Rock County, Wisconsin",
+      "55304",
+      "55",
+      "105"
+    ],
+    [
+      "Wood County, Wisconsin",
+      "52110",
+      "55",
+      "141"
+    ],
+    [
+      "Jefferson County, Wisconsin",
+      "56675",
+      "55",
+      "055"
+    ],
+    [
+      "Kenosha County, Wisconsin",
+      "61073",
+      "55",
+      "059"
+    ],
+    [
+      "Natrona County, Wyoming",
+      "60546",
+      "56",
+      "025"
+    ],
+    [
+      "Laramie County, Wyoming",
+      "61961",
+      "56",
+      "021"
+    ],
+    [
+      "Bulloch County, Georgia",
+      "42138",
+      "13",
+      "031"
+    ],
+    [
+      "Clarke County, Georgia",
+      "39825",
+      "13",
+      "059"
+    ],
+    [
+      "Glynn County, Georgia",
+      "50998",
+      "13",
+      "127"
+    ],
+    [
+      "DeKalb County, Georgia",
+      "61827",
+      "13",
+      "089"
+    ],
+    [
+      "Jackson County, Georgia",
+      "66557",
+      "13",
+      "157"
+    ],
+    [
+      "Muscogee County, Georgia",
+      "42107",
+      "13",
+      "215"
+    ],
+    [
+      "Catoosa County, Georgia",
+      "53231",
+      "13",
+      "047"
+    ],
+    [
+      "Columbia County, Georgia",
+      "74164",
+      "13",
+      "073"
+    ],
+    [
+      "Floyd County, Georgia",
+      "45854",
+      "13",
+      "115"
+    ],
+    [
+      "Forsyth County, Georgia",
+      "102084",
+      "13",
+      "117"
+    ],
+    [
+      "Lowndes County, Georgia",
+      "41156",
+      "13",
+      "185"
+    ],
+    [
+      "Carroll County, Georgia",
+      "50100",
+      "13",
+      "045"
+    ],
+    [
+      "Coweta County, Georgia",
+      "72787",
+      "13",
+      "077"
+    ],
+    [
+      "Cobb County, Georgia",
+      "75654",
+      "13",
+      "067"
+    ],
+    [
+      "Walton County, Georgia",
+      "54867",
+      "13",
+      "297"
+    ],
+    [
+      "Cherokee County, Georgia",
+      "76368",
+      "13",
+      "057"
+    ],
+    [
+      "Fayette County, Georgia",
+      "84742",
+      "13",
+      "113"
+    ],
+    [
+      "Newton County, Georgia",
+      "57337",
+      "13",
+      "217"
+    ],
+    [
+      "Clayton County, Georgia",
+      "45172",
+      "13",
+      "063"
+    ],
+    [
+      "Fulton County, Georgia",
+      "65037",
+      "13",
+      "121"
+    ],
+    [
+      "Hall County, Georgia",
+      "61977",
+      "13",
+      "139"
+    ],
+    [
+      "Hawaii County, Hawaii",
+      "57545",
+      "15",
+      "001"
+    ],
+    [
+      "Honolulu County, Hawaii",
+      "81284",
+      "15",
+      "003"
+    ],
+    [
+      "Maui County, Hawaii",
+      "80241",
+      "15",
+      "009"
+    ],
+    [
+      "Kauai County, Hawaii",
+      "83860",
+      "15",
+      "007"
+    ],
+    [
+      "Washoe County, Nevada",
+      "61498",
+      "32",
+      "031"
+    ],
+    [
+      "Clark County, Nevada",
+      "57189",
+      "32",
+      "003"
+    ],
+    [
+      "Cheshire County, New Hampshire",
+      "61257",
+      "33",
+      "005"
+    ],
+    [
+      "Merrimack County, New Hampshire",
+      "70764",
+      "33",
+      "013"
+    ],
+    [
+      "Grafton County, New Hampshire",
+      "64420",
+      "33",
+      "009"
+    ],
+    [
+      "Rockingham County, New Hampshire",
+      "89451",
+      "33",
+      "015"
+    ],
+    [
+      "Hillsborough County, New Hampshire",
+      "78769",
+      "33",
+      "011"
+    ],
+    [
+      "Strafford County, New Hampshire",
+      "71057",
+      "33",
+      "017"
+    ],
+    [
+      "Monmouth County, New Jersey",
+      "98270",
+      "34",
+      "025"
+    ],
+    [
+      "Mercer County, New Jersey",
+      "79173",
+      "34",
+      "021"
+    ],
+    [
+      "Sussex County, New Jersey",
+      "90026",
+      "34",
+      "037"
+    ],
+    [
+      "Cumberland County, New Jersey",
+      "52627",
+      "34",
+      "011"
+    ],
+    [
+      "Somerset County, New Jersey",
+      "112153",
+      "34",
+      "035"
+    ],
+    [
+      "Essex County, New Jersey",
+      "60430",
+      "34",
+      "013"
+    ],
+    [
+      "Ocean County, New Jersey",
+      "71081",
+      "34",
+      "029"
+    ],
+    [
+      "Atlantic County, New Jersey",
+      "61777",
+      "34",
+      "001"
+    ],
+    [
+      "Gloucester County, New Jersey",
+      "86496",
+      "34",
+      "015"
+    ],
+    [
+      "Middlesex County, New Jersey",
+      "85337",
+      "34",
+      "023"
+    ],
+    [
+      "Salem County, New Jersey",
+      "61250",
+      "34",
+      "033"
+    ],
+    [
+      "Passaic County, New Jersey",
+      "64233",
+      "34",
+      "031"
+    ],
+    [
+      "Cape May County, New Jersey",
+      "66953",
+      "34",
+      "009"
+    ],
+    [
+      "Camden County, New Jersey",
+      "66196",
+      "34",
+      "007"
+    ],
+    [
+      "Bergen County, New Jersey",
+      "94107",
+      "34",
+      "003"
+    ],
+    [
+      "Union County, New Jersey",
+      "77326",
+      "34",
+      "039"
+    ],
+    [
+      "Warren County, New Jersey",
+      "80657",
+      "34",
+      "041"
+    ],
+    [
+      "Hudson County, New Jersey",
+      "67154",
+      "34",
+      "017"
+    ],
+    [
+      "Hunterdon County, New Jersey",
+      "112038",
+      "34",
+      "019"
+    ],
+    [
+      "Burlington County, New Jersey",
+      "87673",
+      "34",
+      "005"
+    ],
+    [
+      "Morris County, New Jersey",
+      "114732",
+      "34",
+      "027"
+    ],
+    [
+      "McKinley County, New Mexico",
+      "31565",
+      "35",
+      "031"
+    ],
+    [
+      "Sandoval County, New Mexico",
+      "54296",
+      "35",
+      "043"
+    ],
+    [
+      "San Juan County, New Mexico",
+      "45942",
+      "35",
+      "045"
+    ],
+    [
+      "Arecibo Municipio, Puerto Rico",
+      "17740",
+      "72",
+      "013"
+    ],
+    [
+      "Guaynabo Municipio, Puerto Rico",
+      "24792",
+      "72",
+      "061"
+    ],
+    [
+      "Kootenai County, Idaho",
+      "57219",
+      "16",
+      "055"
+    ],
+    [
+      "Twin Falls County, Idaho",
+      "51589",
+      "16",
+      "083"
+    ],
+    [
+      "Ada County, Idaho",
+      "60858",
+      "16",
+      "001"
+    ],
+    [
+      "Bannock County, Idaho",
+      "51612",
+      "16",
+      "005"
+    ],
+    [
+      "Bonneville County, Idaho",
+      "53478",
+      "16",
+      "019"
+    ],
+    [
+      "Canyon County, Idaho",
+      "47324",
+      "16",
+      "027"
+    ],
+    [
+      "Madison County, Illinois",
+      "57890",
+      "17",
+      "119"
+    ],
+    [
+      "Kankakee County, Illinois",
+      "58539",
+      "17",
+      "091"
+    ],
+    [
+      "DuPage County, Illinois",
+      "89521",
+      "17",
+      "043"
+    ],
+    [
+      "Sangamon County, Illinois",
+      "61542",
+      "17",
+      "167"
+    ],
+    [
+      "LaSalle County, Illinois",
+      "56896",
+      "17",
+      "099"
+    ],
+    [
+      "Cook County, Illinois",
+      "61405",
+      "17",
+      "031"
+    ],
+    [
+      "Macon County, Illinois",
+      "51970",
+      "17",
+      "115"
+    ],
+    [
+      "McHenry County, Illinois",
+      "86348",
+      "17",
+      "111"
+    ],
+    [
+      "McLean County, Illinois",
+      "68274",
+      "17",
+      "113"
+    ],
+    [
+      "Rock Island County, Illinois",
+      "51711",
+      "17",
+      "161"
+    ],
+    [
+      "St. Clair County, Illinois",
+      "51670",
+      "17",
+      "163"
+    ],
+    [
+      "Champaign County, Illinois",
+      "50281",
+      "17",
+      "019"
+    ],
+    [
+      "Kane County, Illinois",
+      "75628",
+      "17",
+      "089"
+    ],
+    [
+      "Kendall County, Illinois",
+      "91250",
+      "17",
+      "093"
+    ],
+    [
+      "Peoria County, Illinois",
+      "53843",
+      "17",
+      "143"
+    ],
+    [
+      "Chaves County, New Mexico",
+      "44899",
+      "35",
+      "005"
+    ],
+    [
+      "Lea County, New Mexico",
+      "55952",
+      "35",
+      "025"
+    ],
+    [
+      "Santa Fe County, New Mexico",
+      "58821",
+      "35",
+      "049"
+    ],
+    [
+      "Do\u00f1a Ana County, New Mexico",
+      "37144",
+      "35",
+      "013"
+    ],
+    [
+      "Valencia County, New Mexico",
+      "47409",
+      "35",
+      "061"
+    ],
+    [
+      "Bernalillo County, New Mexico",
+      "51005",
+      "35",
+      "001"
+    ],
+    [
+      "Otero County, New Mexico",
+      "43887",
+      "35",
+      "035"
+    ],
+    [
+      "Bronx County, New York",
+      "37397",
+      "36",
+      "005"
+    ],
+    [
+      "Onondaga County, New York",
+      "57652",
+      "36",
+      "067"
+    ],
+    [
+      "Clinton County, New York",
+      "58234",
+      "36",
+      "019"
+    ],
+    [
+      "Rensselaer County, New York",
+      "64050",
+      "36",
+      "083"
+    ],
+    [
+      "Putnam County, New York",
+      "99479",
+      "36",
+      "079"
+    ],
+    [
+      "Ontario County, New York",
+      "66004",
+      "36",
+      "069"
+    ],
+    [
+      "Queens County, New York",
+      "64509",
+      "36",
+      "081"
+    ],
+    [
+      "Steuben County, New York",
+      "50930",
+      "36",
+      "101"
+    ],
+    [
+      "Chautauqua County, New York",
+      "46079",
+      "36",
+      "013"
+    ],
+    [
+      "Kings County, New York",
+      "56942",
+      "36",
+      "047"
+    ],
+    [
+      "New York County, New York",
+      "85071",
+      "36",
+      "061"
+    ],
+    [
+      "Cayuga County, New York",
+      "56599",
+      "36",
+      "011"
+    ],
+    [
+      "Saratoga County, New York",
+      "83726",
+      "36",
+      "091"
+    ],
+    [
+      "Rockland County, New York",
+      "88726",
+      "36",
+      "087"
+    ],
+    [
+      "Niagara County, New York",
+      "54743",
+      "36",
+      "063"
+    ],
+    [
+      "Westchester County, New York",
+      "90578",
+      "36",
+      "119"
+    ],
+    [
+      "Nassau County, New York",
+      "108133",
+      "36",
+      "059"
+    ],
+    [
+      "Richmond County, New York",
+      "79201",
+      "36",
+      "085"
+    ],
+    [
+      "St. Lawrence County, New York",
+      "50325",
+      "36",
+      "089"
+    ],
+    [
+      "Tompkins County, New York",
+      "56672",
+      "36",
+      "109"
+    ],
+    [
+      "Warren County, New York",
+      "60541",
+      "36",
+      "113"
+    ],
+    [
+      "Dutchess County, New York",
+      "77915",
+      "36",
+      "027"
+    ],
+    [
+      "Jefferson County, New York",
+      "47101",
+      "36",
+      "045"
+    ],
+    [
+      "Monroe County, New York",
+      "57561",
+      "36",
+      "055"
+    ],
+    [
+      "Oneida County, New York",
+      "53902",
+      "36",
+      "065"
+    ],
+    [
+      "Suffolk County, New York",
+      "94750",
+      "36",
+      "103"
+    ],
+    [
+      "Ulster County, New York",
+      "63621",
+      "36",
+      "111"
+    ],
+    [
+      "Chemung County, New York",
+      "51194",
+      "36",
+      "015"
+    ],
+    [
+      "Livingston County, New York",
+      "55931",
+      "36",
+      "051"
+    ],
+    [
+      "Oswego County, New York",
+      "53406",
+      "36",
+      "075"
+    ],
+    [
+      "Wayne County, New York",
+      "51326",
+      "36",
+      "117"
+    ],
+    [
+      "Albany County, New York",
+      "66204",
+      "36",
+      "001"
+    ],
+    [
+      "Broome County, New York",
+      "47758",
+      "36",
+      "007"
+    ],
+    [
+      "Cattaraugus County, New York",
+      "48484",
+      "36",
+      "009"
+    ],
+    [
+      "Erie County, New York",
+      "55604",
+      "36",
+      "029"
+    ],
+    [
+      "Madison County, New York",
+      "57069",
+      "36",
+      "053"
+    ],
+    [
+      "Schenectady County, New York",
+      "62514",
+      "36",
+      "093"
+    ],
+    [
+      "Sullivan County, New York",
+      "55309",
+      "36",
+      "105"
+    ],
+    [
+      "Orange County, New York",
+      "79311",
+      "36",
+      "071"
+    ],
+    [
+      "Bayam\u00f3n Municipio, Puerto Rico",
+      "25815",
+      "72",
+      "021"
+    ],
+    [
+      "Carolina Municipio, Puerto Rico",
+      "30822",
+      "72",
+      "031"
+    ],
+    [
+      "Mayag\u00fcez Municipio, Puerto Rico",
+      "14010",
+      "72",
+      "097"
+    ],
+    [
+      "Trujillo Alto Municipio, Puerto Rico",
+      "31322",
+      "72",
+      "139"
+    ],
+    [
+      "Ponce Municipio, Puerto Rico",
+      "16270",
+      "72",
+      "113"
+    ],
+    [
+      "Toa Alta Municipio, Puerto Rico",
+      "24223",
+      "72",
+      "135"
+    ],
+    [
+      "Toa Baja Municipio, Puerto Rico",
+      "25487",
+      "72",
+      "137"
+    ],
+    [
+      "Caguas Municipio, Puerto Rico",
+      "22377",
+      "72",
+      "025"
+    ],
+    [
+      "San Juan Municipio, Puerto Rico",
+      "21912",
+      "72",
+      "127"
+    ],
+    [
+      "Adams County, Illinois",
+      "48679",
+      "17",
+      "001"
+    ],
+    [
+      "DeKalb County, Illinois",
+      "59942",
+      "17",
+      "037"
+    ],
+    [
+      "Vermilion County, Illinois",
+      "42345",
+      "17",
+      "183"
+    ],
+    [
+      "Will County, Illinois",
+      "82196",
+      "17",
+      "197"
+    ],
+    [
+      "Williamson County, Illinois",
+      "50408",
+      "17",
+      "199"
+    ],
+    [
+      "Lake County, Illinois",
+      "85895",
+      "17",
+      "097"
+    ],
+    [
+      "Tazewell County, Illinois",
+      "60306",
+      "17",
+      "179"
+    ],
+    [
+      "LaPorte County, Indiana",
+      "50736",
+      "18",
+      "091"
+    ],
+    [
+      "Winnebago County, Illinois",
+      "53337",
+      "17",
+      "201"
+    ],
+    [
+      "Porter County, Indiana",
+      "65747",
+      "18",
+      "127"
+    ],
+    [
+      "Tippecanoe County, Indiana",
+      "52183",
+      "18",
+      "157"
+    ],
+    [
+      "Vigo County, Indiana",
+      "41125",
+      "18",
+      "167"
+    ],
+    [
+      "Hamilton County, Indiana",
+      "93604",
+      "18",
+      "057"
+    ],
+    [
+      "Bartholomew County, Indiana",
+      "61533",
+      "18",
+      "005"
+    ],
+    [
+      "Boone County, Indiana",
+      "81785",
+      "18",
+      "011"
+    ],
+    [
+      "Lake County, Indiana",
+      "54981",
+      "18",
+      "089"
+    ],
+    [
+      "Clark County, Indiana",
+      "52036",
+      "18",
+      "019"
+    ],
+    [
+      "Hendricks County, Indiana",
+      "70991",
+      "18",
+      "063"
+    ],
+    [
+      "Grant County, Indiana",
+      "44768",
+      "18",
+      "053"
+    ],
+    [
+      "Hancock County, Indiana",
+      "70473",
+      "18",
+      "059"
+    ],
+    [
+      "Howard County, Indiana",
+      "49346",
+      "18",
+      "067"
+    ],
+    [
+      "Caldwell County, North Carolina",
+      "45033",
+      "37",
+      "027"
+    ],
+    [
+      "Catawba County, North Carolina",
+      "53539",
+      "37",
+      "035"
+    ],
+    [
+      "Cleveland County, North Carolina",
+      "37205",
+      "37",
+      "045"
+    ],
+    [
+      "Craven County, North Carolina",
+      "51789",
+      "37",
+      "049"
+    ],
+    [
+      "Harnett County, North Carolina",
+      "51479",
+      "37",
+      "085"
+    ],
+    [
+      "Henderson County, North Carolina",
+      "51078",
+      "37",
+      "089"
+    ],
+    [
+      "Iredell County, North Carolina",
+      "55690",
+      "37",
+      "097"
+    ],
+    [
+      "Mecklenburg County, North Carolina",
+      "65588",
+      "37",
+      "119"
+    ],
+    [
+      "Pitt County, North Carolina",
+      "45849",
+      "37",
+      "147"
+    ],
+    [
+      "Rowan County, North Carolina",
+      "47396",
+      "37",
+      "159"
+    ],
+    [
+      "Union County, North Carolina",
+      "77691",
+      "37",
+      "179"
+    ],
+    [
+      "Wilkes County, North Carolina",
+      "40995",
+      "37",
+      "193"
+    ],
+    [
+      "Forsyth County, North Carolina",
+      "50185",
+      "37",
+      "067"
+    ],
+    [
+      "Nash County, North Carolina",
+      "47289",
+      "37",
+      "127"
+    ],
+    [
+      "Carteret County, North Carolina",
+      "52807",
+      "37",
+      "031"
+    ],
+    [
+      "Wilson County, North Carolina",
+      "45960",
+      "37",
+      "195"
+    ],
+    [
+      "Randolph County, North Carolina",
+      "43154",
+      "37",
+      "151"
+    ],
+    [
+      "Rockingham County, North Carolina",
+      "48196",
+      "37",
+      "157"
+    ],
+    [
+      "Cumberland County, North Carolina",
+      "43759",
+      "37",
+      "051"
+    ],
+    [
+      "Gaston County, North Carolina",
+      "49670",
+      "37",
+      "071"
+    ],
+    [
+      "Guilford County, North Carolina",
+      "52098",
+      "37",
+      "081"
+    ],
+    [
+      "Moore County, North Carolina",
+      "64184",
+      "37",
+      "125"
+    ],
+    [
+      "Robeson County, North Carolina",
+      "32729",
+      "37",
+      "155"
+    ],
+    [
+      "Wake County, North Carolina",
+      "77318",
+      "37",
+      "183"
+    ],
+    [
+      "Chatham County, North Carolina",
+      "57770",
+      "37",
+      "037"
+    ],
+    [
+      "Franklin County, North Carolina",
+      "54825",
+      "37",
+      "069"
+    ],
+    [
+      "Johnston County, North Carolina",
+      "58111",
+      "37",
+      "101"
+    ],
+    [
+      "Brunswick County, North Carolina",
+      "56181",
+      "37",
+      "019"
+    ],
+    [
+      "Lincoln County, North Carolina",
+      "54361",
+      "37",
+      "109"
+    ],
+    [
+      "Onslow County, North Carolina",
+      "49883",
+      "37",
+      "133"
+    ],
+    [
+      "Orange County, North Carolina",
+      "69940",
+      "37",
+      "135"
+    ],
+    [
+      "Rutherford County, North Carolina",
+      "40570",
+      "37",
+      "161"
+    ],
+    [
+      "Surry County, North Carolina",
+      "42438",
+      "37",
+      "171"
+    ],
+    [
+      "Buncombe County, North Carolina",
+      "50040",
+      "37",
+      "021"
+    ],
+    [
+      "Burke County, North Carolina",
+      "40274",
+      "37",
+      "023"
+    ],
+    [
+      "Cabarrus County, North Carolina",
+      "61490",
+      "37",
+      "025"
+    ],
+    [
+      "Madison County, Indiana",
+      "43060",
+      "18",
+      "095"
+    ],
+    [
+      "Allen County, Indiana",
+      "52484",
+      "18",
+      "003"
+    ],
+    [
+      "Delaware County, Indiana",
+      "41255",
+      "18",
+      "035"
+    ],
+    [
+      "Floyd County, Indiana",
+      "60690",
+      "18",
+      "043"
+    ],
+    [
+      "Johnson County, Indiana",
+      "70339",
+      "18",
+      "081"
+    ],
+    [
+      "Morgan County, Indiana",
+      "60946",
+      "18",
+      "109"
+    ],
+    [
+      "St. Joseph County, Indiana",
+      "52106",
+      "18",
+      "141"
+    ],
+    [
+      "Kosciusko County, Indiana",
+      "63463",
+      "18",
+      "085"
+    ],
+    [
+      "Vanderburgh County, Indiana",
+      "46681",
+      "18",
+      "163"
+    ],
+    [
+      "Monroe County, Indiana",
+      "48713",
+      "18",
+      "105"
+    ],
+    [
+      "Elkhart County, Indiana",
+      "58960",
+      "18",
+      "039"
+    ],
+    [
+      "Marion County, Indiana",
+      "47344",
+      "18",
+      "097"
+    ],
+    [
+      "Wayne County, Indiana",
+      "45017",
+      "18",
+      "177"
+    ],
+    [
+      "Dubuque County, Iowa",
+      "61497",
+      "19",
+      "061"
+    ],
+    [
+      "Johnson County, Iowa",
+      "61011",
+      "19",
+      "103"
+    ],
+    [
+      "Davidson County, North Carolina",
+      "46802",
+      "37",
+      "057"
+    ],
+    [
+      "Durham County, North Carolina",
+      "59891",
+      "37",
+      "063"
+    ],
+    [
+      "New Hanover County, North Carolina",
+      "52674",
+      "37",
+      "129"
+    ],
+    [
+      "Wayne County, North Carolina",
+      "44347",
+      "37",
+      "191"
+    ],
+    [
+      "Alamance County, North Carolina",
+      "45150",
+      "37",
+      "001"
+    ],
+    [
+      "Ward County, North Dakota",
+      "64742",
+      "38",
+      "101"
+    ],
+    [
+      "Cass County, North Dakota",
+      "64704",
+      "38",
+      "017"
+    ],
+    [
+      "Grand Forks County, North Dakota",
+      "47496",
+      "38",
+      "035"
+    ],
+    [
+      "Burleigh County, North Dakota",
+      "69193",
+      "38",
+      "015"
+    ],
+    [
+      "Greene County, Ohio",
+      "67923",
+      "39",
+      "057"
+    ],
+    [
+      "Hamilton County, Ohio",
+      "55048",
+      "39",
+      "061"
+    ],
+    [
+      "Franklin County, Ohio",
+      "59227",
+      "39",
+      "049"
+    ],
+    [
+      "Marion County, Ohio",
+      "44766",
+      "39",
+      "101"
+    ],
+    [
+      "Tuscarawas County, Ohio",
+      "51386",
+      "39",
+      "157"
+    ],
+    [
+      "Wayne County, Ohio",
+      "55899",
+      "39",
+      "169"
+    ],
+    [
+      "Butler County, Ohio",
+      "64023",
+      "39",
+      "017"
+    ],
+    [
+      "Erie County, Ohio",
+      "54958",
+      "39",
+      "043"
+    ],
+    [
+      "Pottawattamie County, Iowa",
+      "58633",
+      "19",
+      "155"
+    ],
+    [
+      "Polk County, Iowa",
+      "65995",
+      "19",
+      "153"
+    ],
+    [
+      "Story County, Iowa",
+      "60351",
+      "19",
+      "169"
+    ],
+    [
+      "Woodbury County, Iowa",
+      "55273",
+      "19",
+      "193"
+    ],
+    [
+      "Black Hawk County, Iowa",
+      "49779",
+      "19",
+      "013"
+    ],
+    [
+      "Linn County, Iowa",
+      "63149",
+      "19",
+      "113"
+    ],
+    [
+      "Scott County, Iowa",
+      "58129",
+      "19",
+      "163"
+    ],
+    [
+      "Dallas County, Iowa",
+      "88561",
+      "19",
+      "049"
+    ],
+    [
+      "Licking County, Ohio",
+      "62883",
+      "39",
+      "089"
+    ],
+    [
+      "Richland County, Ohio",
+      "46032",
+      "39",
+      "139"
+    ],
+    [
+      "Hancock County, Ohio",
+      "51360",
+      "39",
+      "063"
+    ],
+    [
+      "Clermont County, Ohio",
+      "65632",
+      "39",
+      "025"
+    ],
+    [
+      "Fairfield County, Ohio",
+      "67310",
+      "39",
+      "045"
+    ],
+    [
+      "Jefferson County, Ohio",
+      "43675",
+      "39",
+      "081"
+    ],
+    [
+      "Portage County, Ohio",
+      "59402",
+      "39",
+      "133"
+    ],
+    [
+      "Belmont County, Ohio",
+      "54253",
+      "39",
+      "013"
+    ],
+    [
+      "Summit County, Ohio",
+      "55419",
+      "39",
+      "153"
+    ],
+    [
+      "Muskingum County, Ohio",
+      "43113",
+      "39",
+      "119"
+    ],
+    [
+      "Columbiana County, Ohio",
+      "41818",
+      "39",
+      "029"
+    ],
+    [
+      "Mahoning County, Ohio",
+      "43389",
+      "39",
+      "099"
+    ],
+    [
+      "Athens County, Ohio",
+      "44247",
+      "39",
+      "009"
+    ],
+    [
+      "Scioto County, Ohio",
+      "43367",
+      "39",
+      "145"
+    ],
+    [
+      "Medina County, Ohio",
+      "71360",
+      "39",
+      "103"
+    ],
+    [
+      "Lucas County, Ohio",
+      "47308",
+      "39",
+      "095"
+    ],
+    [
+      "Stark County, Ohio",
+      "50984",
+      "39",
+      "151"
+    ],
+    [
+      "Allen County, Ohio",
+      "51542",
+      "39",
+      "003"
+    ],
+    [
+      "Delaware County, Ohio",
+      "106933",
+      "39",
+      "041"
+    ],
+    [
+      "Geauga County, Ohio",
+      "82741",
+      "39",
+      "055"
+    ],
+    [
+      "Lake County, Ohio",
+      "59618",
+      "39",
+      "085"
+    ],
+    [
+      "Ross County, Ohio",
+      "50713",
+      "39",
+      "141"
+    ],
+    [
+      "Clark County, Ohio",
+      "46665",
+      "39",
+      "023"
+    ],
+    [
+      "Cuyahoga County, Ohio",
+      "46784",
+      "39",
+      "035"
+    ],
+    [
+      "Lorain County, Ohio",
+      "54932",
+      "39",
+      "093"
+    ],
+    [
+      "Miami County, Ohio",
+      "60910",
+      "39",
+      "109"
+    ],
+    [
+      "Montgomery County, Ohio",
+      "47755",
+      "39",
+      "113"
+    ],
+    [
+      "Trumbull County, Ohio",
+      "46201",
+      "39",
+      "155"
+    ],
+    [
+      "Warren County, Ohio",
+      "84130",
+      "39",
+      "165"
+    ],
+    [
+      "Wood County, Ohio",
+      "60382",
+      "39",
+      "173"
+    ],
+    [
+      "Ashtabula County, Ohio",
+      "44173",
+      "39",
+      "007"
+    ],
+    [
+      "Tulsa County, Oklahoma",
+      "52441",
+      "40",
+      "143"
+    ],
+    [
+      "Canadian County, Oklahoma",
+      "74720",
+      "40",
+      "017"
+    ],
+    [
+      "Sedgwick County, Kansas",
+      "53923",
+      "20",
+      "173"
+    ],
+    [
+      "Johnson County, Kansas",
+      "82855",
+      "20",
+      "091"
+    ],
+    [
+      "Douglas County, Kansas",
+      "55646",
+      "20",
+      "045"
+    ],
+    [
+      "Wyandotte County, Kansas",
+      "46310",
+      "20",
+      "209"
+    ],
+    [
+      "Butler County, Kansas",
+      "64149",
+      "20",
+      "015"
+    ],
+    [
+      "Leavenworth County, Kansas",
+      "70920",
+      "20",
+      "103"
+    ],
+    [
+      "Shawnee County, Kansas",
+      "57095",
+      "20",
+      "177"
+    ],
+    [
+      "Riley County, Kansas",
+      "50067",
+      "20",
+      "161"
+    ],
+    [
+      "Campbell County, Kentucky",
+      "61379",
+      "21",
+      "037"
+    ],
+    [
+      "Jefferson County, Kentucky",
+      "55044",
+      "21",
+      "111"
+    ],
+    [
+      "Payne County, Oklahoma",
+      "36914",
+      "40",
+      "119"
+    ],
+    [
+      "Pottawatomie County, Oklahoma",
+      "48744",
+      "40",
+      "125"
+    ],
+    [
+      "Creek County, Oklahoma",
+      "46877",
+      "40",
+      "037"
+    ],
+    [
+      "Oklahoma County, Oklahoma",
+      "51323",
+      "40",
+      "109"
+    ],
+    [
+      "Comanche County, Oklahoma",
+      "51059",
+      "40",
+      "031"
+    ],
+    [
+      "Rogers County, Oklahoma",
+      "60735",
+      "40",
+      "131"
+    ],
+    [
+      "Wagoner County, Oklahoma",
+      "57823",
+      "40",
+      "145"
+    ],
+    [
+      "Cleveland County, Oklahoma",
+      "61213",
+      "40",
+      "027"
+    ],
+    [
+      "Muskogee County, Oklahoma",
+      "36342",
+      "40",
+      "101"
+    ],
+    [
+      "Marion County, Oregon",
+      "56354",
+      "41",
+      "047"
+    ],
+    [
+      "Jackson County, Oregon",
+      "51409",
+      "41",
+      "029"
+    ],
+    [
+      "Douglas County, Oregon",
+      "47746",
+      "41",
+      "019"
+    ],
+    [
+      "Polk County, Oregon",
+      "55428",
+      "41",
+      "053"
+    ],
+    [
+      "Clackamas County, Oregon",
+      "79878",
+      "41",
+      "005"
+    ],
+    [
+      "Deschutes County, Oregon",
+      "66273",
+      "41",
+      "017"
+    ],
+    [
+      "Linn County, Oregon",
+      "51541",
+      "41",
+      "043"
+    ],
+    [
+      "Yamhill County, Oregon",
+      "64104",
+      "41",
+      "071"
+    ],
+    [
+      "Josephine County, Oregon",
+      "44426",
+      "41",
+      "033"
+    ],
+    [
+      "Klamath County, Oregon",
+      "38916",
+      "41",
+      "035"
+    ],
+    [
+      "Umatilla County, Oregon",
+      "52288",
+      "41",
+      "059"
+    ],
+    [
+      "Benton County, Oregon",
+      "60260",
+      "41",
+      "003"
+    ],
+    [
+      "Lane County, Oregon",
+      "50654",
+      "41",
+      "039"
+    ],
+    [
+      "Washington County, Oregon",
+      "80946",
+      "41",
+      "067"
+    ],
+    [
+      "Hardin County, Kentucky",
+      "51167",
+      "21",
+      "093"
+    ],
+    [
+      "Christian County, Kentucky",
+      "43940",
+      "21",
+      "047"
+    ],
+    [
+      "Daviess County, Kentucky",
+      "49507",
+      "21",
+      "059"
+    ],
+    [
+      "Oldham County, Kentucky",
+      "96576",
+      "21",
+      "185"
+    ],
+    [
+      "Warren County, Kentucky",
+      "48962",
+      "21",
+      "227"
+    ],
+    [
+      "Bullitt County, Kentucky",
+      "62319",
+      "21",
+      "029"
+    ],
+    [
+      "Fayette County, Kentucky",
+      "56137",
+      "21",
+      "067"
+    ],
+    [
+      "Boone County, Kentucky",
+      "78415",
+      "21",
+      "015"
+    ],
+    [
+      "McCracken County, Kentucky",
+      "49436",
+      "21",
+      "145"
+    ],
+    [
+      "Multnomah County, Oregon",
+      "63974",
+      "41",
+      "051"
+    ],
+    [
+      "Crawford County, Pennsylvania",
+      "50657",
+      "42",
+      "039"
+    ],
+    [
+      "Erie County, Pennsylvania",
+      "50614",
+      "42",
+      "049"
+    ],
+    [
+      "Schuylkill County, Pennsylvania",
+      "49559",
+      "42",
+      "107"
+    ],
+    [
+      "Adams County, Pennsylvania",
+      "63107",
+      "42",
+      "001"
+    ],
+    [
+      "Armstrong County, Pennsylvania",
+      "45949",
+      "42",
+      "005"
+    ],
+    [
+      "Carbon County, Pennsylvania",
+      "49647",
+      "42",
+      "025"
+    ],
+    [
+      "Centre County, Pennsylvania",
+      "55895",
+      "42",
+      "027"
+    ],
+    [
+      "Northumberland County, Pennsylvania",
+      "44895",
+      "42",
+      "097"
+    ],
+    [
+      "Northampton County, Pennsylvania",
+      "66066",
+      "42",
+      "095"
+    ],
+    [
+      "Beaver County, Pennsylvania",
+      "54923",
+      "42",
+      "007"
+    ],
+    [
+      "Bucks County, Pennsylvania",
+      "84749",
+      "42",
+      "017"
+    ],
+    [
+      "Lackawanna County, Pennsylvania",
+      "49172",
+      "42",
+      "069"
+    ],
+    [
+      "Lehigh County, Pennsylvania",
+      "60871",
+      "42",
+      "077"
+    ],
+    [
+      "Fayette County, Pennsylvania",
+      "44184",
+      "42",
+      "051"
+    ],
+    [
+      "Montgomery County, Pennsylvania",
+      "87304",
+      "42",
+      "091"
+    ],
+    [
+      "Clearfield County, Pennsylvania",
+      "48581",
+      "42",
+      "033"
+    ],
+    [
+      "Lebanon County, Pennsylvania",
+      "57372",
+      "42",
+      "075"
+    ],
+    [
+      "Lycoming County, Pennsylvania",
+      "50909",
+      "42",
+      "081"
+    ],
+    [
+      "Luzerne County, Pennsylvania",
+      "51332",
+      "42",
+      "079"
+    ],
+    [
+      "Columbia County, Pennsylvania",
+      "51726",
+      "42",
+      "037"
+    ],
+    [
+      "Butler County, Pennsylvania",
+      "68934",
+      "42",
+      "019"
+    ],
+    [
+      "Lancaster County, Pennsylvania",
+      "63407",
+      "42",
+      "071"
+    ],
+    [
+      "Mercer County, Pennsylvania",
+      "46785",
+      "42",
+      "085"
+    ],
+    [
+      "Newport County, Rhode Island",
+      "80222",
+      "44",
+      "005"
+    ],
+    [
+      "Kent County, Rhode Island",
+      "75143",
+      "44",
+      "003"
+    ],
+    [
+      "Providence County, Rhode Island",
+      "56672",
+      "44",
+      "007"
+    ],
+    [
+      "Washington County, Rhode Island",
+      "79374",
+      "44",
+      "009"
+    ],
+    [
+      "Aiken County, South Carolina",
+      "50749",
+      "45",
+      "003"
+    ],
+    [
+      "Sumter County, South Carolina",
+      "45585",
+      "45",
+      "085"
+    ],
+    [
+      "Lexington County, South Carolina",
+      "60181",
+      "45",
+      "063"
+    ],
+    [
+      "Oconee County, South Carolina",
+      "50192",
+      "45",
+      "073"
+    ],
+    [
+      "Berkeley County, South Carolina",
+      "57147",
+      "45",
+      "015"
+    ],
+    [
+      "Charleston County, South Carolina",
+      "60555",
+      "45",
+      "019"
+    ],
+    [
+      "Darlington County, South Carolina",
+      "37465",
+      "45",
+      "031"
+    ],
+    [
+      "York County, South Carolina",
+      "62217",
+      "45",
+      "091"
+    ],
+    [
+      "Anderson County, South Carolina",
+      "48593",
+      "45",
+      "007"
+    ],
+    [
+      "Greenwood County, South Carolina",
+      "40453",
+      "45",
+      "047"
+    ],
+    [
+      "Horry County, South Carolina",
+      "45680",
+      "45",
+      "051"
+    ],
+    [
+      "Kershaw County, South Carolina",
+      "50010",
+      "45",
+      "055"
+    ],
+    [
+      "Orangeburg County, South Carolina",
+      "35947",
+      "45",
+      "075"
+    ],
+    [
+      "Spartanburg County, South Carolina",
+      "50985",
+      "45",
+      "083"
+    ],
+    [
+      "Kenton County, Kentucky",
+      "58595",
+      "21",
+      "117"
+    ],
+    [
+      "Madison County, Kentucky",
+      "50893",
+      "21",
+      "151"
+    ],
+    [
+      "East Baton Rouge Parish, Louisiana",
+      "55326",
+      "22",
+      "033"
+    ],
+    [
+      "Jefferson Parish, Louisiana",
+      "51494",
+      "22",
+      "051"
+    ],
+    [
+      "Bossier Parish, Louisiana",
+      "49038",
+      "22",
+      "015"
+    ],
+    [
+      "Ouachita Parish, Louisiana",
+      "40161",
+      "22",
+      "073"
+    ],
+    [
+      "Rapides Parish, Louisiana",
+      "41646",
+      "22",
+      "079"
+    ],
+    [
+      "St. Landry Parish, Louisiana",
+      "34462",
+      "22",
+      "097"
+    ],
+    [
+      "Tangipahoa Parish, Louisiana",
+      "44861",
+      "22",
+      "105"
+    ],
+    [
+      "St. Tammany Parish, Louisiana",
+      "67396",
+      "22",
+      "103"
+    ],
+    [
+      "Caddo Parish, Louisiana",
+      "36165",
+      "22",
+      "017"
+    ],
+    [
+      "Ascension Parish, Louisiana",
+      "70561",
+      "22",
+      "005"
+    ],
+    [
+      "Lafayette Parish, Louisiana",
+      "52265",
+      "22",
+      "055"
+    ],
+    [
+      "Iberia Parish, Louisiana",
+      "40019",
+      "22",
+      "045"
+    ],
+    [
+      "Livingston Parish, Louisiana",
+      "60471",
+      "22",
+      "063"
+    ],
+    [
+      "Orleans Parish, Louisiana",
+      "36999",
+      "22",
+      "071"
+    ],
+    [
+      "Terrebonne Parish, Louisiana",
+      "42857",
+      "22",
+      "109"
+    ],
+    [
+      "Calcasieu Parish, Louisiana",
+      "52319",
+      "22",
+      "019"
+    ],
+    [
+      "Lafourche Parish, Louisiana",
+      "52283",
+      "22",
+      "057"
+    ],
+    [
+      "Beaufort County, South Carolina",
+      "58847",
+      "45",
+      "013"
+    ],
+    [
+      "Richland County, South Carolina",
+      "51946",
+      "45",
+      "079"
+    ],
+    [
+      "Greenville County, South Carolina",
+      "55914",
+      "45",
+      "045"
+    ],
+    [
+      "Lancaster County, South Carolina",
+      "61914",
+      "45",
+      "057"
+    ],
+    [
+      "Dorchester County, South Carolina",
+      "64148",
+      "45",
+      "035"
+    ],
+    [
+      "Florence County, South Carolina",
+      "42929",
+      "45",
+      "041"
+    ],
+    [
+      "Laurens County, South Carolina",
+      "40377",
+      "45",
+      "059"
+    ],
+    [
+      "Pickens County, South Carolina",
+      "47520",
+      "45",
+      "077"
+    ],
+    [
+      "Minnehaha County, South Dakota",
+      "61083",
+      "46",
+      "099"
+    ],
+    [
+      "Pennington County, South Dakota",
+      "54836",
+      "46",
+      "103"
+    ],
+    [
+      "Penobscot County, Maine",
+      "50349",
+      "23",
+      "019"
+    ],
+    [
+      "Androscoggin County, Maine",
+      "48286",
+      "23",
+      "001"
+    ],
+    [
+      "Aroostook County, Maine",
+      "43015",
+      "23",
+      "003"
+    ],
+    [
+      "Cumberland County, Maine",
+      "71975",
+      "23",
+      "005"
+    ],
+    [
+      "York County, Maine",
+      "66391",
+      "23",
+      "031"
+    ],
+    [
+      "Kennebec County, Maine",
+      "53073",
+      "23",
+      "011"
+    ],
+    [
+      "Baltimore city, Maryland",
+      "47131",
+      "24",
+      "510"
+    ],
+    [
+      "Harford County, Maryland",
+      "80476",
+      "24",
+      "025"
+    ],
+    [
+      "Allegany County, Maryland",
+      "42019",
+      "24",
+      "001"
+    ],
+    [
+      "Howard County, Maryland",
+      "111473",
+      "24",
+      "027"
+    ],
+    [
+      "Prince George's County, Maryland",
+      "81240",
+      "24",
+      "033"
+    ],
+    [
+      "Anne Arundel County, Maryland",
+      "97085",
+      "24",
+      "003"
+    ],
+    [
+      "Baltimore County, Maryland",
+      "73805",
+      "24",
+      "005"
+    ],
+    [
+      "Frederick County, Maryland",
+      "92495",
+      "24",
+      "021"
+    ],
+    [
+      "Calvert County, Maryland",
+      "100590",
+      "24",
+      "009"
+    ],
+    [
+      "Montgomery County, Maryland",
+      "103235",
+      "24",
+      "031"
+    ],
+    [
+      "Carroll County, Maryland",
+      "93676",
+      "24",
+      "013"
+    ],
+    [
+      "St. Mary's County, Maryland",
+      "81495",
+      "24",
+      "037"
+    ],
+    [
+      "Charles County, Maryland",
+      "97986",
+      "24",
+      "017"
+    ],
+    [
+      "Washington County, Maryland",
+      "60385",
+      "24",
+      "043"
+    ],
+    [
+      "Wicomico County, Maryland",
+      "54080",
+      "24",
+      "045"
+    ],
+    [
+      "Cecil County, Maryland",
+      "74912",
+      "24",
+      "015"
+    ],
+    [
+      "Suffolk County, Massachusetts",
+      "66459",
+      "25",
+      "025"
+    ],
+    [
+      "Barnstable County, Massachusetts",
+      "71235",
+      "25",
+      "001"
+    ],
+    [
+      "Middlesex County, Massachusetts",
+      "98555",
+      "25",
+      "017"
+    ],
+    [
+      "Berkshire County, Massachusetts",
+      "57054",
+      "25",
+      "003"
+    ],
+    [
+      "Bristol County, Massachusetts",
+      "67842",
+      "25",
+      "005"
+    ],
+    [
+      "Hampden County, Massachusetts",
+      "51726",
+      "25",
+      "013"
+    ],
+    [
+      "Plymouth County, Massachusetts",
+      "86910",
+      "25",
+      "023"
+    ],
+    [
+      "Essex County, Massachusetts",
+      "75480",
+      "25",
+      "009"
+    ],
+    [
+      "Franklin County, Massachusetts",
+      "58824",
+      "25",
+      "011"
+    ],
+    [
+      "Norfolk County, Massachusetts",
+      "100829",
+      "25",
+      "021"
+    ],
+    [
+      "Worcester County, Massachusetts",
+      "70402",
+      "25",
+      "027"
+    ],
+    [
+      "Hampshire County, Massachusetts",
+      "67989",
+      "25",
+      "015"
+    ],
+    [
+      "Monroe County, Michigan",
+      "59290",
+      "26",
+      "115"
+    ],
+    [
+      "Allegan County, Michigan",
+      "62853",
+      "26",
+      "005"
+    ],
+    [
+      "Oakland County, Michigan",
+      "77475",
+      "26",
+      "125"
+    ],
+    [
+      "Muskegon County, Michigan",
+      "49229",
+      "26",
+      "121"
+    ],
+    [
+      "Lapeer County, Michigan",
+      "55866",
+      "26",
+      "087"
+    ],
+    [
+      "Isabella County, Michigan",
+      "44100",
+      "26",
+      "073"
+    ],
+    [
+      "Ottawa County, Michigan",
+      "68543",
+      "26",
+      "139"
+    ],
+    [
+      "Midland County, Michigan",
+      "61624",
+      "26",
+      "111"
+    ],
+    [
+      "Berrien County, Michigan",
+      "48629",
+      "26",
+      "021"
+    ],
+    [
+      "Clinton County, Michigan",
+      "62175",
+      "26",
+      "037"
+    ],
+    [
+      "Ingham County, Michigan",
+      "50896",
+      "26",
+      "065"
+    ],
+    [
+      "Lenawee County, Michigan",
+      "56515",
+      "26",
+      "091"
+    ],
+    [
+      "Robertson County, Tennessee",
+      "60474",
+      "47",
+      "147"
+    ],
+    [
+      "Blount County, Tennessee",
+      "50675",
+      "47",
+      "009"
+    ],
+    [
+      "Madison County, Tennessee",
+      "45013",
+      "47",
+      "113"
+    ],
+    [
+      "Sumner County, Tennessee",
+      "65014",
+      "47",
+      "165"
+    ],
+    [
+      "Williamson County, Tennessee",
+      "105622",
+      "47",
+      "187"
+    ],
+    [
+      "Greene County, Tennessee",
+      "37920",
+      "47",
+      "059"
+    ],
+    [
+      "Shelby County, Tennessee",
+      "49647",
+      "47",
+      "157"
+    ],
+    [
+      "Putnam County, Tennessee",
+      "39647",
+      "47",
+      "141"
+    ],
+    [
+      "Sevier County, Tennessee",
+      "49963",
+      "47",
+      "155"
+    ],
+    [
+      "Davidson County, Tennessee",
+      "58490",
+      "47",
+      "037"
+    ],
+    [
+      "Bradley County, Tennessee",
+      "48857",
+      "47",
+      "011"
+    ],
+    [
+      "Montgomery County, Tennessee",
+      "58381",
+      "47",
+      "125"
+    ],
+    [
+      "Knox County, Tennessee",
+      "55266",
+      "47",
+      "093"
+    ],
+    [
+      "Anderson County, Tennessee",
+      "48109",
+      "47",
+      "001"
+    ],
+    [
+      "Hamilton County, Tennessee",
+      "51302",
+      "47",
+      "065"
+    ],
+    [
+      "Rutherford County, Tennessee",
+      "68514",
+      "47",
+      "149"
+    ],
+    [
+      "Wilson County, Tennessee",
+      "69959",
+      "47",
+      "189"
+    ],
+    [
+      "Sullivan County, Tennessee",
+      "44909",
+      "47",
+      "163"
+    ],
+    [
+      "St. Clair County, Michigan",
+      "57362",
+      "26",
+      "147"
+    ],
+    [
+      "Van Buren County, Michigan",
+      "52971",
+      "26",
+      "159"
+    ],
+    [
+      "Washtenaw County, Michigan",
+      "70286",
+      "26",
+      "161"
+    ],
+    [
+      "Wayne County, Michigan",
+      "45135",
+      "26",
+      "163"
+    ],
+    [
+      "Grand Traverse County, Michigan",
+      "60601",
+      "26",
+      "055"
+    ],
+    [
+      "Jackson County, Michigan",
+      "50258",
+      "26",
+      "075"
+    ],
+    [
+      "Genesee County, Michigan",
+      "46298",
+      "26",
+      "049"
+    ],
+    [
+      "Livingston County, Michigan",
+      "80733",
+      "26",
+      "093"
+    ],
+    [
+      "Kalamazoo County, Michigan",
+      "56025",
+      "26",
+      "077"
+    ],
+    [
+      "Marquette County, Michigan",
+      "49008",
+      "26",
+      "103"
+    ],
+    [
+      "Calhoun County, Michigan",
+      "45386",
+      "26",
+      "025"
+    ],
+    [
+      "Kent County, Michigan",
+      "61125",
+      "26",
+      "081"
+    ],
+    [
+      "Macomb County, Michigan",
+      "60380",
+      "26",
+      "099"
+    ],
+    [
+      "Saginaw County, Michigan",
+      "45331",
+      "26",
+      "145"
+    ],
+    [
+      "Shiawassee County, Michigan",
+      "53361",
+      "26",
+      "155"
+    ],
+    [
+      "Bay County, Michigan",
+      "44770",
+      "26",
+      "017"
+    ],
+    [
+      "Eaton County, Michigan",
+      "64522",
+      "26",
+      "045"
+    ],
+    [
+      "Rice County, Minnesota",
+      "64014",
+      "27",
+      "131"
+    ],
+    [
+      "Hennepin County, Minnesota",
+      "74592",
+      "27",
+      "053"
+    ],
+    [
+      "Olmsted County, Minnesota",
+      "77270",
+      "27",
+      "109"
+    ]
+  ]
+}

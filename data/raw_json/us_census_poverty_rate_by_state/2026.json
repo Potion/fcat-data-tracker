@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "US Census",
+    "dataset_name": "Poverty Rate by State",
+    "source_type": "census",
+    "dataset_id": "https://api.census.gov/data/timeseries/poverty/saipe?get=NAME,SAEPOVRTALL_PT&for=state:*&time=2021",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2026,
+  "request": {
+    "url": "https://api.census.gov/data/timeseries/poverty/saipe?get=NAME%2CSAEPOVRTALL_PT&for=state%3A%2A&time=2026",
+    "status_code": 204
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "non_json_response": "",
+    "content_type": "application/json;charset=utf-8"
+  }
+}

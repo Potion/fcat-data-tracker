@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US Unemployment",
+    "source_type": "bls",
+    "dataset_id": "LNS14000000",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2020,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "LNS14000000"
+      ],
+      "startyear": "2020",
+      "endyear": "2020",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 104,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "LNS14000000",
+          "data": [
+            {
+              "year": "2020",
+              "period": "M12",
+              "periodName": "December",
+              "value": "6.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M11",
+              "periodName": "November",
+              "value": "6.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M10",
+              "periodName": "October",
+              "value": "6.9",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M09",
+              "periodName": "September",
+              "value": "7.8",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M08",
+              "periodName": "August",
+              "value": "8.4",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M07",
+              "periodName": "July",
+              "value": "10.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M06",
+              "periodName": "June",
+              "value": "11.0",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M05",
+              "periodName": "May",
+              "value": "13.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M04",
+              "periodName": "April",
+              "value": "14.8",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M03",
+              "periodName": "March",
+              "value": "4.4",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M02",
+              "periodName": "February",
+              "value": "3.5",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2020",
+              "period": "M01",
+              "periodName": "January",
+              "value": "3.6",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

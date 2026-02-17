@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "group": "FRED",
+    "dataset_name": "US GDP",
+    "source_type": "fred",
+    "dataset_id": "GDP",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2016,
+  "request": {
+    "url": "https://api.stlouisfed.org/fred/series/observations?series_id=GDP&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2016-01-01&observation_end=2016-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "realtime_start": "2026-02-17",
+    "realtime_end": "2026-02-17",
+    "observation_start": "2016-01-01",
+    "observation_end": "2016-12-31",
+    "units": "lin",
+    "output_type": 1,
+    "file_type": "json",
+    "order_by": "observation_date",
+    "sort_order": "asc",
+    "count": 4,
+    "offset": 0,
+    "limit": 100000,
+    "observations": [
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2016-01-01",
+        "value": "18525.933"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2016-04-01",
+        "value": "18711.702"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2016-07-01",
+        "value": "18892.639"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2016-10-01",
+        "value": "19089.379"
+      }
+    ]
+  }
+}

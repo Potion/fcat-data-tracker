@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US Unemployment",
+    "source_type": "bls",
+    "dataset_id": "LNS14000000",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2001,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "LNS14000000"
+      ],
+      "startyear": "2001",
+      "endyear": "2001",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 71,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "LNS14000000",
+          "data": [
+            {
+              "year": "2001",
+              "period": "M12",
+              "periodName": "December",
+              "value": "5.7",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M11",
+              "periodName": "November",
+              "value": "5.5",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M10",
+              "periodName": "October",
+              "value": "5.3",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M09",
+              "periodName": "September",
+              "value": "5.0",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M08",
+              "periodName": "August",
+              "value": "4.9",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M07",
+              "periodName": "July",
+              "value": "4.6",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M06",
+              "periodName": "June",
+              "value": "4.5",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M05",
+              "periodName": "May",
+              "value": "4.3",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M04",
+              "periodName": "April",
+              "value": "4.4",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M03",
+              "periodName": "March",
+              "value": "4.3",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M02",
+              "periodName": "February",
+              "value": "4.2",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2001",
+              "period": "M01",
+              "periodName": "January",
+              "value": "4.2",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

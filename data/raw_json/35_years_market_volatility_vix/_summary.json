@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "group": "35 Years",
+    "dataset_name": "Market Volatility (VIX)",
+    "source_type": "fred",
+    "dataset_id": "VIXCLS",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 32,
+    "error": 0
+  },
+  "errors": [],
+  "years": [
+    {
+      "year": 1995,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 1996,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 1997,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 1998,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 1999,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2000,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2001,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2002,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2003,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2004,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2005,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2006,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2007,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2008,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2009,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2010,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2011,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2012,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2013,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2014,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2015,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2016,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2017,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2018,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2019,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2020,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2021,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2022,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2023,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2024,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2025,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2026,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    }
+  ]
+}

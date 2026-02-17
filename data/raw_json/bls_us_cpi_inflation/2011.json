@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US CPI (Inflation)",
+    "source_type": "bls",
+    "dataset_id": "CUSR0000SA0",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2011,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "CUSR0000SA0"
+      ],
+      "startyear": "2011",
+      "endyear": "2011",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 74,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "CUSR0000SA0",
+          "data": [
+            {
+              "year": "2011",
+              "period": "M12",
+              "periodName": "December",
+              "value": "227.223",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M11",
+              "periodName": "November",
+              "value": "227.169",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M10",
+              "periodName": "October",
+              "value": "226.750",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M09",
+              "periodName": "September",
+              "value": "226.597",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M08",
+              "periodName": "August",
+              "value": "226.106",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M07",
+              "periodName": "July",
+              "value": "225.395",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M06",
+              "periodName": "June",
+              "value": "224.806",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M05",
+              "periodName": "May",
+              "value": "224.806",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M04",
+              "periodName": "April",
+              "value": "224.093",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M03",
+              "periodName": "March",
+              "value": "223.046",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M02",
+              "periodName": "February",
+              "value": "221.898",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2011",
+              "period": "M01",
+              "periodName": "January",
+              "value": "221.187",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

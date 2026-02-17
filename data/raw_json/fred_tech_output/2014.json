@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "group": "FRED",
+    "dataset_name": "Tech Output",
+    "source_type": "fred",
+    "dataset_id": "IPB51222S",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2014,
+  "request": {
+    "url": "https://api.stlouisfed.org/fred/series/observations?series_id=IPB51222S&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2014-01-01&observation_end=2014-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "realtime_start": "2026-02-17",
+    "realtime_end": "2026-02-17",
+    "observation_start": "2014-01-01",
+    "observation_end": "2014-12-31",
+    "units": "lin",
+    "output_type": 1,
+    "file_type": "json",
+    "order_by": "observation_date",
+    "sort_order": "asc",
+    "count": 12,
+    "offset": 0,
+    "limit": 100000,
+    "observations": [
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-01-01",
+        "value": "111.8916"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-02-01",
+        "value": "112.5823"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-03-01",
+        "value": "111.1275"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-04-01",
+        "value": "106.0087"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-05-01",
+        "value": "104.3575"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-06-01",
+        "value": "100.4949"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-07-01",
+        "value": "97.2596"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-08-01",
+        "value": "98.0991"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-09-01",
+        "value": "102.0762"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-10-01",
+        "value": "101.9399"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-11-01",
+        "value": "109.0073"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2014-12-01",
+        "value": "103.8635"
+      }
+    ]
+  }
+}

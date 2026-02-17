@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "OECD",
+    "dataset_name": "USA GDP (Quarterly)",
+    "source_type": "oecd",
+    "dataset_id": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2015-Q1&dimensionAtObservation=AllDimensions",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2002,
+  "request": {
+    "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2002-Q1&dimensionAtObservation=AllDimensions&endPeriod=2002-Q4",
+    "status_code": 422
+  },
+  "status": "error",
+  "error_type": "unexpected_status",
+  "recommended_action": "inspect_response",
+  "message": "Unexpected status code 422",
+  "response": {
+    "non_json_response": "Not enough key values in query, expecting 13 got 6",
+    "content_type": "text/plain"
+  }
+}

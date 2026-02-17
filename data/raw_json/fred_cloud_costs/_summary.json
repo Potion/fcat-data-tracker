@@ -1,0 +1,270 @@
+{
+  "metadata": {
+    "group": "FRED",
+    "dataset_name": "Cloud Costs",
+    "source_type": "fred",
+    "dataset_id": "PCU518210518210",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 26,
+    "error": 6
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1995-01-01&observation_end=1995-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1996-01-01&observation_end=1996-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1997-01-01&observation_end=1997-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1998-01-01&observation_end=1998-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1999-01-01&observation_end=1999-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2026,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+        "status_code": 200
+      }
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2000,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2001,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2002,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2003,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2004,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2005,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2006,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2007,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2008,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2009,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2010,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2011,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2012,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2013,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2014,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2015,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2016,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2017,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2018,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2019,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2020,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2021,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2022,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2023,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2024,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2025,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2026,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "group": "OECD",
+    "dataset_name": "USA GDP (Quarterly)",
+    "source_type": "oecd",
+    "dataset_id": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2015-Q1&dimensionAtObservation=AllDimensions",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2024,
+  "request": {},
+  "status": "error",
+  "error_type": "rate_limited",
+  "recommended_action": "retry_later",
+  "message": "Rate limit persisted after retries.",
+  "response": null
+}

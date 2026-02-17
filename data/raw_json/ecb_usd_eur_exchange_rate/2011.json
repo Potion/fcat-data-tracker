@@ -1,0 +1,3692 @@
+{
+  "metadata": {
+    "group": "ECB",
+    "dataset_name": "USD/EUR Exchange Rate",
+    "source_type": "ecb",
+    "dataset_id": "EXR.D.USD.EUR.SP00.A",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2011,
+  "request": {
+    "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?startPeriod=2011-01-01&endPeriod=2011-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "header": {
+      "id": "f5ca5287-a734-43be-82e7-d831e5a881a5",
+      "test": false,
+      "prepared": "2026-02-17T21:46:33.655+01:00",
+      "sender": {
+        "id": "ECB"
+      }
+    },
+    "dataSets": [
+      {
+        "action": "Replace",
+        "validFrom": "2026-02-17T21:46:33.655+01:00",
+        "series": {
+          "0:0:0:0:0": {
+            "attributes": [
+              0,
+              null,
+              0,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              0,
+              null,
+              null,
+              0,
+              null,
+              0,
+              null,
+              0,
+              0,
+              0,
+              0
+            ],
+            "observations": {
+              "0": [
+                1.3348,
+                0,
+                null,
+                null,
+                null
+              ],
+              "1": [
+                1.3421,
+                0,
+                null,
+                null,
+                null
+              ],
+              "2": [
+                1.3213,
+                0,
+                null,
+                null,
+                null
+              ],
+              "3": [
+                1.3091,
+                0,
+                null,
+                null,
+                null
+              ],
+              "4": [
+                1.2961,
+                0,
+                null,
+                null,
+                null
+              ],
+              "5": [
+                1.2903,
+                0,
+                null,
+                null,
+                null
+              ],
+              "6": [
+                1.2948,
+                0,
+                null,
+                null,
+                null
+              ],
+              "7": [
+                1.2973,
+                0,
+                null,
+                null,
+                null
+              ],
+              "8": [
+                1.3199,
+                0,
+                null,
+                null,
+                null
+              ],
+              "9": [
+                1.3349,
+                0,
+                null,
+                null,
+                null
+              ],
+              "10": [
+                1.3311,
+                0,
+                null,
+                null,
+                null
+              ],
+              "11": [
+                1.3371,
+                0,
+                null,
+                null,
+                null
+              ],
+              "12": [
+                1.3506,
+                0,
+                null,
+                null,
+                null
+              ],
+              "13": [
+                1.3472,
+                0,
+                null,
+                null,
+                null
+              ],
+              "14": [
+                1.3521,
+                0,
+                null,
+                null,
+                null
+              ],
+              "15": [
+                1.3571,
+                0,
+                null,
+                null,
+                null
+              ],
+              "16": [
+                1.3596,
+                0,
+                null,
+                null,
+                null
+              ],
+              "17": [
+                1.3681,
+                0,
+                null,
+                null,
+                null
+              ],
+              "18": [
+                1.3716,
+                0,
+                null,
+                null,
+                null
+              ],
+              "19": [
+                1.371,
+                0,
+                null,
+                null,
+                null
+              ],
+              "20": [
+                1.3692,
+                0,
+                null,
+                null,
+                null
+              ],
+              "21": [
+                1.3755,
+                0,
+                null,
+                null,
+                null
+              ],
+              "22": [
+                1.3803,
+                0,
+                null,
+                null,
+                null
+              ],
+              "23": [
+                1.3745,
+                0,
+                null,
+                null,
+                null
+              ],
+              "24": [
+                1.3631,
+                0,
+                null,
+                null,
+                null
+              ],
+              "25": [
+                1.3553,
+                0,
+                null,
+                null,
+                null
+              ],
+              "26": [
+                1.3635,
+                0,
+                null,
+                null,
+                null
+              ],
+              "27": [
+                1.3647,
+                0,
+                null,
+                null,
+                null
+              ],
+              "28": [
+                1.3604,
+                0,
+                null,
+                null,
+                null
+              ],
+              "29": [
+                1.3524,
+                0,
+                null,
+                null,
+                null
+              ],
+              "30": [
+                1.344,
+                0,
+                null,
+                null,
+                null
+              ],
+              "31": [
+                1.351,
+                0,
+                null,
+                null,
+                null
+              ],
+              "32": [
+                1.351,
+                0,
+                null,
+                null,
+                null
+              ],
+              "33": [
+                1.356,
+                0,
+                null,
+                null,
+                null
+              ],
+              "34": [
+                1.3627,
+                0,
+                null,
+                null,
+                null
+              ],
+              "35": [
+                1.3668,
+                0,
+                null,
+                null,
+                null
+              ],
+              "36": [
+                1.3667,
+                0,
+                null,
+                null,
+                null
+              ],
+              "37": [
+                1.3731,
+                0,
+                null,
+                null,
+                null
+              ],
+              "38": [
+                1.3773,
+                0,
+                null,
+                null,
+                null
+              ],
+              "39": [
+                1.3762,
+                0,
+                null,
+                null,
+                null
+              ],
+              "40": [
+                1.3834,
+                0,
+                null,
+                null,
+                null
+              ],
+              "41": [
+                1.3825,
+                0,
+                null,
+                null,
+                null
+              ],
+              "42": [
+                1.3809,
+                0,
+                null,
+                null,
+                null
+              ],
+              "43": [
+                1.385,
+                0,
+                null,
+                null,
+                null
+              ],
+              "44": [
+                1.3957,
+                0,
+                null,
+                null,
+                null
+              ],
+              "45": [
+                1.4028,
+                0,
+                null,
+                null,
+                null
+              ],
+              "46": [
+                1.3898,
+                0,
+                null,
+                null,
+                null
+              ],
+              "47": [
+                1.3928,
+                0,
+                null,
+                null,
+                null
+              ],
+              "48": [
+                1.3817,
+                0,
+                null,
+                null,
+                null
+              ],
+              "49": [
+                1.3773,
+                0,
+                null,
+                null,
+                null
+              ],
+              "50": [
+                1.3948,
+                0,
+                null,
+                null,
+                null
+              ],
+              "51": [
+                1.3884,
+                0,
+                null,
+                null,
+                null
+              ],
+              "52": [
+                1.3951,
+                0,
+                null,
+                null,
+                null
+              ],
+              "53": [
+                1.4004,
+                0,
+                null,
+                null,
+                null
+              ],
+              "54": [
+                1.413,
+                0,
+                null,
+                null,
+                null
+              ],
+              "55": [
+                1.4194,
+                0,
+                null,
+                null,
+                null
+              ],
+              "56": [
+                1.4211,
+                0,
+                null,
+                null,
+                null
+              ],
+              "57": [
+                1.4136,
+                0,
+                null,
+                null,
+                null
+              ],
+              "58": [
+                1.4128,
+                0,
+                null,
+                null,
+                null
+              ],
+              "59": [
+                1.4115,
+                0,
+                null,
+                null,
+                null
+              ],
+              "60": [
+                1.4032,
+                0,
+                null,
+                null,
+                null
+              ],
+              "61": [
+                1.4066,
+                0,
+                null,
+                null,
+                null
+              ],
+              "62": [
+                1.409,
+                0,
+                null,
+                null,
+                null
+              ],
+              "63": [
+                1.4207,
+                0,
+                null,
+                null,
+                null
+              ],
+              "64": [
+                1.4141,
+                0,
+                null,
+                null,
+                null
+              ],
+              "65": [
+                1.424,
+                0,
+                null,
+                null,
+                null
+              ],
+              "66": [
+                1.4166,
+                0,
+                null,
+                null,
+                null
+              ],
+              "67": [
+                1.43,
+                0,
+                null,
+                null,
+                null
+              ],
+              "68": [
+                1.4283,
+                0,
+                null,
+                null,
+                null
+              ],
+              "69": [
+                1.4401,
+                0,
+                null,
+                null,
+                null
+              ],
+              "70": [
+                1.4434,
+                0,
+                null,
+                null,
+                null
+              ],
+              "71": [
+                1.447,
+                0,
+                null,
+                null,
+                null
+              ],
+              "72": [
+                1.4493,
+                0,
+                null,
+                null,
+                null
+              ],
+              "73": [
+                1.4401,
+                0,
+                null,
+                null,
+                null
+              ],
+              "74": [
+                1.445,
+                0,
+                null,
+                null,
+                null
+              ],
+              "75": [
+                1.4275,
+                0,
+                null,
+                null,
+                null
+              ],
+              "76": [
+                1.4302,
+                0,
+                null,
+                null,
+                null
+              ],
+              "77": [
+                1.4515,
+                0,
+                null,
+                null,
+                null
+              ],
+              "78": [
+                1.4584,
+                0,
+                null,
+                null,
+                null
+              ],
+              "79": [
+                null,
+                1,
+                null,
+                null,
+                null
+              ],
+              "80": [
+                null,
+                1,
+                null,
+                null,
+                null
+              ],
+              "81": [
+                1.4617,
+                0,
+                null,
+                null,
+                null
+              ],
+              "82": [
+                1.4668,
+                0,
+                null,
+                null,
+                null
+              ],
+              "83": [
+                1.4794,
+                0,
+                null,
+                null,
+                null
+              ],
+              "84": [
+                1.486,
+                0,
+                null,
+                null,
+                null
+              ],
+              "85": [
+                1.4837,
+                0,
+                null,
+                null,
+                null
+              ],
+              "86": [
+                1.478,
+                0,
+                null,
+                null,
+                null
+              ],
+              "87": [
+                1.4882,
+                0,
+                null,
+                null,
+                null
+              ],
+              "88": [
+                1.4814,
+                0,
+                null,
+                null,
+                null
+              ],
+              "89": [
+                1.4501,
+                0,
+                null,
+                null,
+                null
+              ],
+              "90": [
+                1.4397,
+                0,
+                null,
+                null,
+                null
+              ],
+              "91": [
+                1.4358,
+                0,
+                null,
+                null,
+                null
+              ],
+              "92": [
+                1.4357,
+                0,
+                null,
+                null,
+                null
+              ],
+              "93": [
+                1.4153,
+                0,
+                null,
+                null,
+                null
+              ],
+              "94": [
+                1.428,
+                0,
+                null,
+                null,
+                null
+              ],
+              "95": [
+                1.4143,
+                0,
+                null,
+                null,
+                null
+              ],
+              "96": [
+                1.4171,
+                0,
+                null,
+                null,
+                null
+              ],
+              "97": [
+                1.4227,
+                0,
+                null,
+                null,
+                null
+              ],
+              "98": [
+                1.4265,
+                0,
+                null,
+                null,
+                null
+              ],
+              "99": [
+                1.4237,
+                0,
+                null,
+                null,
+                null
+              ],
+              "100": [
+                1.402,
+                0,
+                null,
+                null,
+                null
+              ],
+              "101": [
+                1.4089,
+                0,
+                null,
+                null,
+                null
+              ],
+              "102": [
+                1.4069,
+                0,
+                null,
+                null,
+                null
+              ],
+              "103": [
+                1.4168,
+                0,
+                null,
+                null,
+                null
+              ],
+              "104": [
+                1.4265,
+                0,
+                null,
+                null,
+                null
+              ],
+              "105": [
+                1.4272,
+                0,
+                null,
+                null,
+                null
+              ],
+              "106": [
+                1.4385,
+                0,
+                null,
+                null,
+                null
+              ],
+              "107": [
+                1.4408,
+                0,
+                null,
+                null,
+                null
+              ],
+              "108": [
+                1.446,
+                0,
+                null,
+                null,
+                null
+              ],
+              "109": [
+                1.4488,
+                0,
+                null,
+                null,
+                null
+              ],
+              "110": [
+                1.4596,
+                0,
+                null,
+                null,
+                null
+              ],
+              "111": [
+                1.4652,
+                0,
+                null,
+                null,
+                null
+              ],
+              "112": [
+                1.4608,
+                0,
+                null,
+                null,
+                null
+              ],
+              "113": [
+                1.4614,
+                0,
+                null,
+                null,
+                null
+              ],
+              "114": [
+                1.4486,
+                0,
+                null,
+                null,
+                null
+              ],
+              "115": [
+                1.4354,
+                0,
+                null,
+                null,
+                null
+              ],
+              "116": [
+                1.4448,
+                0,
+                null,
+                null,
+                null
+              ],
+              "117": [
+                1.4292,
+                0,
+                null,
+                null,
+                null
+              ],
+              "118": [
+                1.4088,
+                0,
+                null,
+                null,
+                null
+              ],
+              "119": [
+                1.427,
+                0,
+                null,
+                null,
+                null
+              ],
+              "120": [
+                1.4235,
+                0,
+                null,
+                null,
+                null
+              ],
+              "121": [
+                1.4373,
+                0,
+                null,
+                null,
+                null
+              ],
+              "122": [
+                1.4397,
+                0,
+                null,
+                null,
+                null
+              ],
+              "123": [
+                1.4212,
+                0,
+                null,
+                null,
+                null
+              ],
+              "124": [
+                1.422,
+                0,
+                null,
+                null,
+                null
+              ],
+              "125": [
+                1.4205,
+                0,
+                null,
+                null,
+                null
+              ],
+              "126": [
+                1.4261,
+                0,
+                null,
+                null,
+                null
+              ],
+              "127": [
+                1.4425,
+                0,
+                null,
+                null,
+                null
+              ],
+              "128": [
+                1.4453,
+                0,
+                null,
+                null,
+                null
+              ],
+              "129": [
+                1.4488,
+                0,
+                null,
+                null,
+                null
+              ],
+              "130": [
+                1.45,
+                0,
+                null,
+                null,
+                null
+              ],
+              "131": [
+                1.4461,
+                0,
+                null,
+                null,
+                null
+              ],
+              "132": [
+                1.4318,
+                0,
+                null,
+                null,
+                null
+              ],
+              "133": [
+                1.4247,
+                0,
+                null,
+                null,
+                null
+              ],
+              "134": [
+                1.4242,
+                0,
+                null,
+                null,
+                null
+              ],
+              "135": [
+                1.4056,
+                0,
+                null,
+                null,
+                null
+              ],
+              "136": [
+                1.3975,
+                0,
+                null,
+                null,
+                null
+              ],
+              "137": [
+                1.4073,
+                0,
+                null,
+                null,
+                null
+              ],
+              "138": [
+                1.4202,
+                0,
+                null,
+                null,
+                null
+              ],
+              "139": [
+                1.4146,
+                0,
+                null,
+                null,
+                null
+              ],
+              "140": [
+                1.4045,
+                0,
+                null,
+                null,
+                null
+              ],
+              "141": [
+                1.416,
+                0,
+                null,
+                null,
+                null
+              ],
+              "142": [
+                1.4207,
+                0,
+                null,
+                null,
+                null
+              ],
+              "143": [
+                1.4222,
+                0,
+                null,
+                null,
+                null
+              ],
+              "144": [
+                1.4391,
+                0,
+                null,
+                null,
+                null
+              ],
+              "145": [
+                1.438,
+                0,
+                null,
+                null,
+                null
+              ],
+              "146": [
+                1.4471,
+                0,
+                null,
+                null,
+                null
+              ],
+              "147": [
+                1.4446,
+                0,
+                null,
+                null,
+                null
+              ],
+              "148": [
+                1.426,
+                0,
+                null,
+                null,
+                null
+              ],
+              "149": [
+                1.426,
+                0,
+                null,
+                null,
+                null
+              ],
+              "150": [
+                1.4415,
+                0,
+                null,
+                null,
+                null
+              ],
+              "151": [
+                1.417,
+                0,
+                null,
+                null,
+                null
+              ],
+              "152": [
+                1.43,
+                0,
+                null,
+                null,
+                null
+              ],
+              "153": [
+                1.4229,
+                0,
+                null,
+                null,
+                null
+              ],
+              "154": [
+                1.4155,
+                0,
+                null,
+                null,
+                null
+              ],
+              "155": [
+                1.4225,
+                0,
+                null,
+                null,
+                null
+              ],
+              "156": [
+                1.4267,
+                0,
+                null,
+                null,
+                null
+              ],
+              "157": [
+                1.4367,
+                0,
+                null,
+                null,
+                null
+              ],
+              "158": [
+                1.4143,
+                0,
+                null,
+                null,
+                null
+              ],
+              "159": [
+                1.425,
+                0,
+                null,
+                null,
+                null
+              ],
+              "160": [
+                1.4309,
+                0,
+                null,
+                null,
+                null
+              ],
+              "161": [
+                1.436,
+                0,
+                null,
+                null,
+                null
+              ],
+              "162": [
+                1.4477,
+                0,
+                null,
+                null,
+                null
+              ],
+              "163": [
+                1.4369,
+                0,
+                null,
+                null,
+                null
+              ],
+              "164": [
+                1.4385,
+                0,
+                null,
+                null,
+                null
+              ],
+              "165": [
+                1.4413,
+                0,
+                null,
+                null,
+                null
+              ],
+              "166": [
+                1.4462,
+                0,
+                null,
+                null,
+                null
+              ],
+              "167": [
+                1.4433,
+                0,
+                null,
+                null,
+                null
+              ],
+              "168": [
+                1.4424,
+                0,
+                null,
+                null,
+                null
+              ],
+              "169": [
+                1.4402,
+                0,
+                null,
+                null,
+                null
+              ],
+              "170": [
+                1.4487,
+                0,
+                null,
+                null,
+                null
+              ],
+              "171": [
+                1.4402,
+                0,
+                null,
+                null,
+                null
+              ],
+              "172": [
+                1.445,
+                0,
+                null,
+                null,
+                null
+              ],
+              "173": [
+                1.4285,
+                0,
+                null,
+                null,
+                null
+              ],
+              "174": [
+                1.4255,
+                0,
+                null,
+                null,
+                null
+              ],
+              "175": [
+                1.4126,
+                0,
+                null,
+                null,
+                null
+              ],
+              "176": [
+                1.4099,
+                0,
+                null,
+                null,
+                null
+              ],
+              "177": [
+                1.4036,
+                0,
+                null,
+                null,
+                null
+              ],
+              "178": [
+                1.4044,
+                0,
+                null,
+                null,
+                null
+              ],
+              "179": [
+                1.3817,
+                0,
+                null,
+                null,
+                null
+              ],
+              "180": [
+                1.3656,
+                0,
+                null,
+                null,
+                null
+              ],
+              "181": [
+                1.3645,
+                0,
+                null,
+                null,
+                null
+              ],
+              "182": [
+                1.3729,
+                0,
+                null,
+                null,
+                null
+              ],
+              "183": [
+                1.3795,
+                0,
+                null,
+                null,
+                null
+              ],
+              "184": [
+                1.376,
+                0,
+                null,
+                null,
+                null
+              ],
+              "185": [
+                1.3641,
+                0,
+                null,
+                null,
+                null
+              ],
+              "186": [
+                1.371,
+                0,
+                null,
+                null,
+                null
+              ],
+              "187": [
+                1.3636,
+                0,
+                null,
+                null,
+                null
+              ],
+              "188": [
+                1.3448,
+                0,
+                null,
+                null,
+                null
+              ],
+              "189": [
+                1.343,
+                0,
+                null,
+                null,
+                null
+              ],
+              "190": [
+                1.35,
+                0,
+                null,
+                null,
+                null
+              ],
+              "191": [
+                1.3579,
+                0,
+                null,
+                null,
+                null
+              ],
+              "192": [
+                1.3631,
+                0,
+                null,
+                null,
+                null
+              ],
+              "193": [
+                1.3615,
+                0,
+                null,
+                null,
+                null
+              ],
+              "194": [
+                1.3503,
+                0,
+                null,
+                null,
+                null
+              ],
+              "195": [
+                1.3327,
+                0,
+                null,
+                null,
+                null
+              ],
+              "196": [
+                1.3181,
+                0,
+                null,
+                null,
+                null
+              ],
+              "197": [
+                1.3337,
+                0,
+                null,
+                null,
+                null
+              ],
+              "198": [
+                1.3269,
+                0,
+                null,
+                null,
+                null
+              ],
+              "199": [
+                1.3434,
+                0,
+                null,
+                null,
+                null
+              ],
+              "200": [
+                1.3593,
+                0,
+                null,
+                null,
+                null
+              ],
+              "201": [
+                1.3607,
+                0,
+                null,
+                null,
+                null
+              ],
+              "202": [
+                1.3766,
+                0,
+                null,
+                null,
+                null
+              ],
+              "203": [
+                1.3727,
+                0,
+                null,
+                null,
+                null
+              ],
+              "204": [
+                1.3807,
+                0,
+                null,
+                null,
+                null
+              ],
+              "205": [
+                1.3776,
+                0,
+                null,
+                null,
+                null
+              ],
+              "206": [
+                1.3676,
+                0,
+                null,
+                null,
+                null
+              ],
+              "207": [
+                1.3828,
+                0,
+                null,
+                null,
+                null
+              ],
+              "208": [
+                1.3807,
+                0,
+                null,
+                null,
+                null
+              ],
+              "209": [
+                1.3798,
+                0,
+                null,
+                null,
+                null
+              ],
+              "210": [
+                1.3856,
+                0,
+                null,
+                null,
+                null
+              ],
+              "211": [
+                1.3918,
+                0,
+                null,
+                null,
+                null
+              ],
+              "212": [
+                1.3927,
+                0,
+                null,
+                null,
+                null
+              ],
+              "213": [
+                1.4038,
+                0,
+                null,
+                null,
+                null
+              ],
+              "214": [
+                1.416,
+                0,
+                null,
+                null,
+                null
+              ],
+              "215": [
+                1.4001,
+                0,
+                null,
+                null,
+                null
+              ],
+              "216": [
+                1.3627,
+                0,
+                null,
+                null,
+                null
+              ],
+              "217": [
+                1.3809,
+                0,
+                null,
+                null,
+                null
+              ],
+              "218": [
+                1.3773,
+                0,
+                null,
+                null,
+                null
+              ],
+              "219": [
+                1.3773,
+                0,
+                null,
+                null,
+                null
+              ],
+              "220": [
+                1.3742,
+                0,
+                null,
+                null,
+                null
+              ],
+              "221": [
+                1.3788,
+                0,
+                null,
+                null,
+                null
+              ],
+              "222": [
+                1.3633,
+                0,
+                null,
+                null,
+                null
+              ],
+              "223": [
+                1.3616,
+                0,
+                null,
+                null,
+                null
+              ],
+              "224": [
+                1.365,
+                0,
+                null,
+                null,
+                null
+              ],
+              "225": [
+                1.3659,
+                0,
+                null,
+                null,
+                null
+              ],
+              "226": [
+                1.3532,
+                0,
+                null,
+                null,
+                null
+              ],
+              "227": [
+                1.3484,
+                0,
+                null,
+                null,
+                null
+              ],
+              "228": [
+                1.348,
+                0,
+                null,
+                null,
+                null
+              ],
+              "229": [
+                1.3576,
+                0,
+                null,
+                null,
+                null
+              ],
+              "230": [
+                1.3458,
+                0,
+                null,
+                null,
+                null
+              ],
+              "231": [
+                1.3535,
+                0,
+                null,
+                null,
+                null
+              ],
+              "232": [
+                1.3387,
+                0,
+                null,
+                null,
+                null
+              ],
+              "233": [
+                1.3373,
+                0,
+                null,
+                null,
+                null
+              ],
+              "234": [
+                1.3229,
+                0,
+                null,
+                null,
+                null
+              ],
+              "235": [
+                1.3348,
+                0,
+                null,
+                null,
+                null
+              ],
+              "236": [
+                1.3336,
+                0,
+                null,
+                null,
+                null
+              ],
+              "237": [
+                1.3418,
+                0,
+                null,
+                null,
+                null
+              ],
+              "238": [
+                1.3492,
+                0,
+                null,
+                null,
+                null
+              ],
+              "239": [
+                1.3511,
+                0,
+                null,
+                null,
+                null
+              ],
+              "240": [
+                1.3442,
+                0,
+                null,
+                null,
+                null
+              ],
+              "241": [
+                1.3394,
+                0,
+                null,
+                null,
+                null
+              ],
+              "242": [
+                1.3377,
+                0,
+                null,
+                null,
+                null
+              ],
+              "243": [
+                1.341,
+                0,
+                null,
+                null,
+                null
+              ],
+              "244": [
+                1.3384,
+                0,
+                null,
+                null,
+                null
+              ],
+              "245": [
+                1.3251,
+                0,
+                null,
+                null,
+                null
+              ],
+              "246": [
+                1.3181,
+                0,
+                null,
+                null,
+                null
+              ],
+              "247": [
+                1.2993,
+                0,
+                null,
+                null,
+                null
+              ],
+              "248": [
+                1.3019,
+                0,
+                null,
+                null,
+                null
+              ],
+              "249": [
+                1.3064,
+                0,
+                null,
+                null,
+                null
+              ],
+              "250": [
+                1.3039,
+                0,
+                null,
+                null,
+                null
+              ],
+              "251": [
+                1.3074,
+                0,
+                null,
+                null,
+                null
+              ],
+              "252": [
+                1.3054,
+                0,
+                null,
+                null,
+                null
+              ],
+              "253": [
+                1.3047,
+                0,
+                null,
+                null,
+                null
+              ],
+              "254": [
+                1.3057,
+                0,
+                null,
+                null,
+                null
+              ],
+              "255": [
+                null,
+                1,
+                null,
+                null,
+                null
+              ],
+              "256": [
+                1.3069,
+                0,
+                null,
+                null,
+                null
+              ],
+              "257": [
+                1.3074,
+                0,
+                null,
+                null,
+                null
+              ],
+              "258": [
+                1.2889,
+                0,
+                null,
+                null,
+                null
+              ],
+              "259": [
+                1.2939,
+                0,
+                null,
+                null,
+                null
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "structure": {
+      "links": [
+        {
+          "title": "Exchange Rates",
+          "rel": "dataflow",
+          "href": "http://data-api.ecb.europa.eu:80/service/dataflow/ECB/EXR/1.0"
+        }
+      ],
+      "name": "Exchange Rates",
+      "dimensions": {
+        "series": [
+          {
+            "id": "FREQ",
+            "name": "Frequency",
+            "values": [
+              {
+                "id": "D",
+                "name": "Daily"
+              }
+            ]
+          },
+          {
+            "id": "CURRENCY",
+            "name": "Currency",
+            "values": [
+              {
+                "id": "USD",
+                "name": "US dollar"
+              }
+            ]
+          },
+          {
+            "id": "CURRENCY_DENOM",
+            "name": "Currency denominator",
+            "values": [
+              {
+                "id": "EUR",
+                "name": "Euro"
+              }
+            ]
+          },
+          {
+            "id": "EXR_TYPE",
+            "name": "Exchange rate type",
+            "values": [
+              {
+                "id": "SP00",
+                "name": "Spot"
+              }
+            ]
+          },
+          {
+            "id": "EXR_SUFFIX",
+            "name": "Series variation - EXR context",
+            "values": [
+              {
+                "id": "A",
+                "name": "Average"
+              }
+            ]
+          }
+        ],
+        "observation": [
+          {
+            "id": "TIME_PERIOD",
+            "name": "Time period or range",
+            "role": "time",
+            "values": [
+              {
+                "id": "2011-01-03",
+                "name": "2011-01-03",
+                "start": "2011-01-03T00:00:00.000+01:00",
+                "end": "2011-01-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-04",
+                "name": "2011-01-04",
+                "start": "2011-01-04T00:00:00.000+01:00",
+                "end": "2011-01-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-05",
+                "name": "2011-01-05",
+                "start": "2011-01-05T00:00:00.000+01:00",
+                "end": "2011-01-05T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-06",
+                "name": "2011-01-06",
+                "start": "2011-01-06T00:00:00.000+01:00",
+                "end": "2011-01-06T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-07",
+                "name": "2011-01-07",
+                "start": "2011-01-07T00:00:00.000+01:00",
+                "end": "2011-01-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-10",
+                "name": "2011-01-10",
+                "start": "2011-01-10T00:00:00.000+01:00",
+                "end": "2011-01-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-11",
+                "name": "2011-01-11",
+                "start": "2011-01-11T00:00:00.000+01:00",
+                "end": "2011-01-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-12",
+                "name": "2011-01-12",
+                "start": "2011-01-12T00:00:00.000+01:00",
+                "end": "2011-01-12T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-13",
+                "name": "2011-01-13",
+                "start": "2011-01-13T00:00:00.000+01:00",
+                "end": "2011-01-13T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-14",
+                "name": "2011-01-14",
+                "start": "2011-01-14T00:00:00.000+01:00",
+                "end": "2011-01-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-17",
+                "name": "2011-01-17",
+                "start": "2011-01-17T00:00:00.000+01:00",
+                "end": "2011-01-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-18",
+                "name": "2011-01-18",
+                "start": "2011-01-18T00:00:00.000+01:00",
+                "end": "2011-01-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-19",
+                "name": "2011-01-19",
+                "start": "2011-01-19T00:00:00.000+01:00",
+                "end": "2011-01-19T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-20",
+                "name": "2011-01-20",
+                "start": "2011-01-20T00:00:00.000+01:00",
+                "end": "2011-01-20T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-21",
+                "name": "2011-01-21",
+                "start": "2011-01-21T00:00:00.000+01:00",
+                "end": "2011-01-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-24",
+                "name": "2011-01-24",
+                "start": "2011-01-24T00:00:00.000+01:00",
+                "end": "2011-01-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-25",
+                "name": "2011-01-25",
+                "start": "2011-01-25T00:00:00.000+01:00",
+                "end": "2011-01-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-26",
+                "name": "2011-01-26",
+                "start": "2011-01-26T00:00:00.000+01:00",
+                "end": "2011-01-26T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-27",
+                "name": "2011-01-27",
+                "start": "2011-01-27T00:00:00.000+01:00",
+                "end": "2011-01-27T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-28",
+                "name": "2011-01-28",
+                "start": "2011-01-28T00:00:00.000+01:00",
+                "end": "2011-01-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-01-31",
+                "name": "2011-01-31",
+                "start": "2011-01-31T00:00:00.000+01:00",
+                "end": "2011-01-31T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-01",
+                "name": "2011-02-01",
+                "start": "2011-02-01T00:00:00.000+01:00",
+                "end": "2011-02-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-02",
+                "name": "2011-02-02",
+                "start": "2011-02-02T00:00:00.000+01:00",
+                "end": "2011-02-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-03",
+                "name": "2011-02-03",
+                "start": "2011-02-03T00:00:00.000+01:00",
+                "end": "2011-02-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-04",
+                "name": "2011-02-04",
+                "start": "2011-02-04T00:00:00.000+01:00",
+                "end": "2011-02-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-07",
+                "name": "2011-02-07",
+                "start": "2011-02-07T00:00:00.000+01:00",
+                "end": "2011-02-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-08",
+                "name": "2011-02-08",
+                "start": "2011-02-08T00:00:00.000+01:00",
+                "end": "2011-02-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-09",
+                "name": "2011-02-09",
+                "start": "2011-02-09T00:00:00.000+01:00",
+                "end": "2011-02-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-10",
+                "name": "2011-02-10",
+                "start": "2011-02-10T00:00:00.000+01:00",
+                "end": "2011-02-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-11",
+                "name": "2011-02-11",
+                "start": "2011-02-11T00:00:00.000+01:00",
+                "end": "2011-02-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-14",
+                "name": "2011-02-14",
+                "start": "2011-02-14T00:00:00.000+01:00",
+                "end": "2011-02-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-15",
+                "name": "2011-02-15",
+                "start": "2011-02-15T00:00:00.000+01:00",
+                "end": "2011-02-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-16",
+                "name": "2011-02-16",
+                "start": "2011-02-16T00:00:00.000+01:00",
+                "end": "2011-02-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-17",
+                "name": "2011-02-17",
+                "start": "2011-02-17T00:00:00.000+01:00",
+                "end": "2011-02-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-18",
+                "name": "2011-02-18",
+                "start": "2011-02-18T00:00:00.000+01:00",
+                "end": "2011-02-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-21",
+                "name": "2011-02-21",
+                "start": "2011-02-21T00:00:00.000+01:00",
+                "end": "2011-02-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-22",
+                "name": "2011-02-22",
+                "start": "2011-02-22T00:00:00.000+01:00",
+                "end": "2011-02-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-23",
+                "name": "2011-02-23",
+                "start": "2011-02-23T00:00:00.000+01:00",
+                "end": "2011-02-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-24",
+                "name": "2011-02-24",
+                "start": "2011-02-24T00:00:00.000+01:00",
+                "end": "2011-02-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-25",
+                "name": "2011-02-25",
+                "start": "2011-02-25T00:00:00.000+01:00",
+                "end": "2011-02-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-02-28",
+                "name": "2011-02-28",
+                "start": "2011-02-28T00:00:00.000+01:00",
+                "end": "2011-02-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-01",
+                "name": "2011-03-01",
+                "start": "2011-03-01T00:00:00.000+01:00",
+                "end": "2011-03-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-02",
+                "name": "2011-03-02",
+                "start": "2011-03-02T00:00:00.000+01:00",
+                "end": "2011-03-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-03",
+                "name": "2011-03-03",
+                "start": "2011-03-03T00:00:00.000+01:00",
+                "end": "2011-03-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-04",
+                "name": "2011-03-04",
+                "start": "2011-03-04T00:00:00.000+01:00",
+                "end": "2011-03-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-07",
+                "name": "2011-03-07",
+                "start": "2011-03-07T00:00:00.000+01:00",
+                "end": "2011-03-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-08",
+                "name": "2011-03-08",
+                "start": "2011-03-08T00:00:00.000+01:00",
+                "end": "2011-03-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-09",
+                "name": "2011-03-09",
+                "start": "2011-03-09T00:00:00.000+01:00",
+                "end": "2011-03-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-10",
+                "name": "2011-03-10",
+                "start": "2011-03-10T00:00:00.000+01:00",
+                "end": "2011-03-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-11",
+                "name": "2011-03-11",
+                "start": "2011-03-11T00:00:00.000+01:00",
+                "end": "2011-03-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-14",
+                "name": "2011-03-14",
+                "start": "2011-03-14T00:00:00.000+01:00",
+                "end": "2011-03-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-15",
+                "name": "2011-03-15",
+                "start": "2011-03-15T00:00:00.000+01:00",
+                "end": "2011-03-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-16",
+                "name": "2011-03-16",
+                "start": "2011-03-16T00:00:00.000+01:00",
+                "end": "2011-03-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-17",
+                "name": "2011-03-17",
+                "start": "2011-03-17T00:00:00.000+01:00",
+                "end": "2011-03-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-18",
+                "name": "2011-03-18",
+                "start": "2011-03-18T00:00:00.000+01:00",
+                "end": "2011-03-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-21",
+                "name": "2011-03-21",
+                "start": "2011-03-21T00:00:00.000+01:00",
+                "end": "2011-03-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-22",
+                "name": "2011-03-22",
+                "start": "2011-03-22T00:00:00.000+01:00",
+                "end": "2011-03-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-23",
+                "name": "2011-03-23",
+                "start": "2011-03-23T00:00:00.000+01:00",
+                "end": "2011-03-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-24",
+                "name": "2011-03-24",
+                "start": "2011-03-24T00:00:00.000+01:00",
+                "end": "2011-03-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-25",
+                "name": "2011-03-25",
+                "start": "2011-03-25T00:00:00.000+01:00",
+                "end": "2011-03-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-03-28",
+                "name": "2011-03-28",
+                "start": "2011-03-28T00:00:00.000+02:00",
+                "end": "2011-03-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-03-29",
+                "name": "2011-03-29",
+                "start": "2011-03-29T00:00:00.000+02:00",
+                "end": "2011-03-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-03-30",
+                "name": "2011-03-30",
+                "start": "2011-03-30T00:00:00.000+02:00",
+                "end": "2011-03-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-03-31",
+                "name": "2011-03-31",
+                "start": "2011-03-31T00:00:00.000+02:00",
+                "end": "2011-03-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-01",
+                "name": "2011-04-01",
+                "start": "2011-04-01T00:00:00.000+02:00",
+                "end": "2011-04-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-04",
+                "name": "2011-04-04",
+                "start": "2011-04-04T00:00:00.000+02:00",
+                "end": "2011-04-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-05",
+                "name": "2011-04-05",
+                "start": "2011-04-05T00:00:00.000+02:00",
+                "end": "2011-04-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-06",
+                "name": "2011-04-06",
+                "start": "2011-04-06T00:00:00.000+02:00",
+                "end": "2011-04-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-07",
+                "name": "2011-04-07",
+                "start": "2011-04-07T00:00:00.000+02:00",
+                "end": "2011-04-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-08",
+                "name": "2011-04-08",
+                "start": "2011-04-08T00:00:00.000+02:00",
+                "end": "2011-04-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-11",
+                "name": "2011-04-11",
+                "start": "2011-04-11T00:00:00.000+02:00",
+                "end": "2011-04-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-12",
+                "name": "2011-04-12",
+                "start": "2011-04-12T00:00:00.000+02:00",
+                "end": "2011-04-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-13",
+                "name": "2011-04-13",
+                "start": "2011-04-13T00:00:00.000+02:00",
+                "end": "2011-04-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-14",
+                "name": "2011-04-14",
+                "start": "2011-04-14T00:00:00.000+02:00",
+                "end": "2011-04-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-15",
+                "name": "2011-04-15",
+                "start": "2011-04-15T00:00:00.000+02:00",
+                "end": "2011-04-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-18",
+                "name": "2011-04-18",
+                "start": "2011-04-18T00:00:00.000+02:00",
+                "end": "2011-04-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-19",
+                "name": "2011-04-19",
+                "start": "2011-04-19T00:00:00.000+02:00",
+                "end": "2011-04-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-20",
+                "name": "2011-04-20",
+                "start": "2011-04-20T00:00:00.000+02:00",
+                "end": "2011-04-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-21",
+                "name": "2011-04-21",
+                "start": "2011-04-21T00:00:00.000+02:00",
+                "end": "2011-04-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-22",
+                "name": "2011-04-22",
+                "start": "2011-04-22T00:00:00.000+02:00",
+                "end": "2011-04-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-25",
+                "name": "2011-04-25",
+                "start": "2011-04-25T00:00:00.000+02:00",
+                "end": "2011-04-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-26",
+                "name": "2011-04-26",
+                "start": "2011-04-26T00:00:00.000+02:00",
+                "end": "2011-04-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-27",
+                "name": "2011-04-27",
+                "start": "2011-04-27T00:00:00.000+02:00",
+                "end": "2011-04-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-28",
+                "name": "2011-04-28",
+                "start": "2011-04-28T00:00:00.000+02:00",
+                "end": "2011-04-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-04-29",
+                "name": "2011-04-29",
+                "start": "2011-04-29T00:00:00.000+02:00",
+                "end": "2011-04-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-02",
+                "name": "2011-05-02",
+                "start": "2011-05-02T00:00:00.000+02:00",
+                "end": "2011-05-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-03",
+                "name": "2011-05-03",
+                "start": "2011-05-03T00:00:00.000+02:00",
+                "end": "2011-05-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-04",
+                "name": "2011-05-04",
+                "start": "2011-05-04T00:00:00.000+02:00",
+                "end": "2011-05-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-05",
+                "name": "2011-05-05",
+                "start": "2011-05-05T00:00:00.000+02:00",
+                "end": "2011-05-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-06",
+                "name": "2011-05-06",
+                "start": "2011-05-06T00:00:00.000+02:00",
+                "end": "2011-05-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-09",
+                "name": "2011-05-09",
+                "start": "2011-05-09T00:00:00.000+02:00",
+                "end": "2011-05-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-10",
+                "name": "2011-05-10",
+                "start": "2011-05-10T00:00:00.000+02:00",
+                "end": "2011-05-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-11",
+                "name": "2011-05-11",
+                "start": "2011-05-11T00:00:00.000+02:00",
+                "end": "2011-05-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-12",
+                "name": "2011-05-12",
+                "start": "2011-05-12T00:00:00.000+02:00",
+                "end": "2011-05-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-13",
+                "name": "2011-05-13",
+                "start": "2011-05-13T00:00:00.000+02:00",
+                "end": "2011-05-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-16",
+                "name": "2011-05-16",
+                "start": "2011-05-16T00:00:00.000+02:00",
+                "end": "2011-05-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-17",
+                "name": "2011-05-17",
+                "start": "2011-05-17T00:00:00.000+02:00",
+                "end": "2011-05-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-18",
+                "name": "2011-05-18",
+                "start": "2011-05-18T00:00:00.000+02:00",
+                "end": "2011-05-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-19",
+                "name": "2011-05-19",
+                "start": "2011-05-19T00:00:00.000+02:00",
+                "end": "2011-05-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-20",
+                "name": "2011-05-20",
+                "start": "2011-05-20T00:00:00.000+02:00",
+                "end": "2011-05-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-23",
+                "name": "2011-05-23",
+                "start": "2011-05-23T00:00:00.000+02:00",
+                "end": "2011-05-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-24",
+                "name": "2011-05-24",
+                "start": "2011-05-24T00:00:00.000+02:00",
+                "end": "2011-05-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-25",
+                "name": "2011-05-25",
+                "start": "2011-05-25T00:00:00.000+02:00",
+                "end": "2011-05-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-26",
+                "name": "2011-05-26",
+                "start": "2011-05-26T00:00:00.000+02:00",
+                "end": "2011-05-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-27",
+                "name": "2011-05-27",
+                "start": "2011-05-27T00:00:00.000+02:00",
+                "end": "2011-05-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-30",
+                "name": "2011-05-30",
+                "start": "2011-05-30T00:00:00.000+02:00",
+                "end": "2011-05-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-05-31",
+                "name": "2011-05-31",
+                "start": "2011-05-31T00:00:00.000+02:00",
+                "end": "2011-05-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-01",
+                "name": "2011-06-01",
+                "start": "2011-06-01T00:00:00.000+02:00",
+                "end": "2011-06-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-02",
+                "name": "2011-06-02",
+                "start": "2011-06-02T00:00:00.000+02:00",
+                "end": "2011-06-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-03",
+                "name": "2011-06-03",
+                "start": "2011-06-03T00:00:00.000+02:00",
+                "end": "2011-06-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-06",
+                "name": "2011-06-06",
+                "start": "2011-06-06T00:00:00.000+02:00",
+                "end": "2011-06-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-07",
+                "name": "2011-06-07",
+                "start": "2011-06-07T00:00:00.000+02:00",
+                "end": "2011-06-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-08",
+                "name": "2011-06-08",
+                "start": "2011-06-08T00:00:00.000+02:00",
+                "end": "2011-06-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-09",
+                "name": "2011-06-09",
+                "start": "2011-06-09T00:00:00.000+02:00",
+                "end": "2011-06-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-10",
+                "name": "2011-06-10",
+                "start": "2011-06-10T00:00:00.000+02:00",
+                "end": "2011-06-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-13",
+                "name": "2011-06-13",
+                "start": "2011-06-13T00:00:00.000+02:00",
+                "end": "2011-06-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-14",
+                "name": "2011-06-14",
+                "start": "2011-06-14T00:00:00.000+02:00",
+                "end": "2011-06-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-15",
+                "name": "2011-06-15",
+                "start": "2011-06-15T00:00:00.000+02:00",
+                "end": "2011-06-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-16",
+                "name": "2011-06-16",
+                "start": "2011-06-16T00:00:00.000+02:00",
+                "end": "2011-06-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-17",
+                "name": "2011-06-17",
+                "start": "2011-06-17T00:00:00.000+02:00",
+                "end": "2011-06-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-20",
+                "name": "2011-06-20",
+                "start": "2011-06-20T00:00:00.000+02:00",
+                "end": "2011-06-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-21",
+                "name": "2011-06-21",
+                "start": "2011-06-21T00:00:00.000+02:00",
+                "end": "2011-06-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-22",
+                "name": "2011-06-22",
+                "start": "2011-06-22T00:00:00.000+02:00",
+                "end": "2011-06-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-23",
+                "name": "2011-06-23",
+                "start": "2011-06-23T00:00:00.000+02:00",
+                "end": "2011-06-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-24",
+                "name": "2011-06-24",
+                "start": "2011-06-24T00:00:00.000+02:00",
+                "end": "2011-06-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-27",
+                "name": "2011-06-27",
+                "start": "2011-06-27T00:00:00.000+02:00",
+                "end": "2011-06-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-28",
+                "name": "2011-06-28",
+                "start": "2011-06-28T00:00:00.000+02:00",
+                "end": "2011-06-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-29",
+                "name": "2011-06-29",
+                "start": "2011-06-29T00:00:00.000+02:00",
+                "end": "2011-06-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-06-30",
+                "name": "2011-06-30",
+                "start": "2011-06-30T00:00:00.000+02:00",
+                "end": "2011-06-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-01",
+                "name": "2011-07-01",
+                "start": "2011-07-01T00:00:00.000+02:00",
+                "end": "2011-07-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-04",
+                "name": "2011-07-04",
+                "start": "2011-07-04T00:00:00.000+02:00",
+                "end": "2011-07-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-05",
+                "name": "2011-07-05",
+                "start": "2011-07-05T00:00:00.000+02:00",
+                "end": "2011-07-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-06",
+                "name": "2011-07-06",
+                "start": "2011-07-06T00:00:00.000+02:00",
+                "end": "2011-07-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-07",
+                "name": "2011-07-07",
+                "start": "2011-07-07T00:00:00.000+02:00",
+                "end": "2011-07-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-08",
+                "name": "2011-07-08",
+                "start": "2011-07-08T00:00:00.000+02:00",
+                "end": "2011-07-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-11",
+                "name": "2011-07-11",
+                "start": "2011-07-11T00:00:00.000+02:00",
+                "end": "2011-07-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-12",
+                "name": "2011-07-12",
+                "start": "2011-07-12T00:00:00.000+02:00",
+                "end": "2011-07-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-13",
+                "name": "2011-07-13",
+                "start": "2011-07-13T00:00:00.000+02:00",
+                "end": "2011-07-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-14",
+                "name": "2011-07-14",
+                "start": "2011-07-14T00:00:00.000+02:00",
+                "end": "2011-07-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-15",
+                "name": "2011-07-15",
+                "start": "2011-07-15T00:00:00.000+02:00",
+                "end": "2011-07-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-18",
+                "name": "2011-07-18",
+                "start": "2011-07-18T00:00:00.000+02:00",
+                "end": "2011-07-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-19",
+                "name": "2011-07-19",
+                "start": "2011-07-19T00:00:00.000+02:00",
+                "end": "2011-07-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-20",
+                "name": "2011-07-20",
+                "start": "2011-07-20T00:00:00.000+02:00",
+                "end": "2011-07-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-21",
+                "name": "2011-07-21",
+                "start": "2011-07-21T00:00:00.000+02:00",
+                "end": "2011-07-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-22",
+                "name": "2011-07-22",
+                "start": "2011-07-22T00:00:00.000+02:00",
+                "end": "2011-07-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-25",
+                "name": "2011-07-25",
+                "start": "2011-07-25T00:00:00.000+02:00",
+                "end": "2011-07-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-26",
+                "name": "2011-07-26",
+                "start": "2011-07-26T00:00:00.000+02:00",
+                "end": "2011-07-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-27",
+                "name": "2011-07-27",
+                "start": "2011-07-27T00:00:00.000+02:00",
+                "end": "2011-07-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-28",
+                "name": "2011-07-28",
+                "start": "2011-07-28T00:00:00.000+02:00",
+                "end": "2011-07-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-07-29",
+                "name": "2011-07-29",
+                "start": "2011-07-29T00:00:00.000+02:00",
+                "end": "2011-07-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-01",
+                "name": "2011-08-01",
+                "start": "2011-08-01T00:00:00.000+02:00",
+                "end": "2011-08-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-02",
+                "name": "2011-08-02",
+                "start": "2011-08-02T00:00:00.000+02:00",
+                "end": "2011-08-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-03",
+                "name": "2011-08-03",
+                "start": "2011-08-03T00:00:00.000+02:00",
+                "end": "2011-08-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-04",
+                "name": "2011-08-04",
+                "start": "2011-08-04T00:00:00.000+02:00",
+                "end": "2011-08-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-05",
+                "name": "2011-08-05",
+                "start": "2011-08-05T00:00:00.000+02:00",
+                "end": "2011-08-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-08",
+                "name": "2011-08-08",
+                "start": "2011-08-08T00:00:00.000+02:00",
+                "end": "2011-08-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-09",
+                "name": "2011-08-09",
+                "start": "2011-08-09T00:00:00.000+02:00",
+                "end": "2011-08-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-10",
+                "name": "2011-08-10",
+                "start": "2011-08-10T00:00:00.000+02:00",
+                "end": "2011-08-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-11",
+                "name": "2011-08-11",
+                "start": "2011-08-11T00:00:00.000+02:00",
+                "end": "2011-08-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-12",
+                "name": "2011-08-12",
+                "start": "2011-08-12T00:00:00.000+02:00",
+                "end": "2011-08-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-15",
+                "name": "2011-08-15",
+                "start": "2011-08-15T00:00:00.000+02:00",
+                "end": "2011-08-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-16",
+                "name": "2011-08-16",
+                "start": "2011-08-16T00:00:00.000+02:00",
+                "end": "2011-08-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-17",
+                "name": "2011-08-17",
+                "start": "2011-08-17T00:00:00.000+02:00",
+                "end": "2011-08-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-18",
+                "name": "2011-08-18",
+                "start": "2011-08-18T00:00:00.000+02:00",
+                "end": "2011-08-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-19",
+                "name": "2011-08-19",
+                "start": "2011-08-19T00:00:00.000+02:00",
+                "end": "2011-08-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-22",
+                "name": "2011-08-22",
+                "start": "2011-08-22T00:00:00.000+02:00",
+                "end": "2011-08-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-23",
+                "name": "2011-08-23",
+                "start": "2011-08-23T00:00:00.000+02:00",
+                "end": "2011-08-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-24",
+                "name": "2011-08-24",
+                "start": "2011-08-24T00:00:00.000+02:00",
+                "end": "2011-08-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-25",
+                "name": "2011-08-25",
+                "start": "2011-08-25T00:00:00.000+02:00",
+                "end": "2011-08-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-26",
+                "name": "2011-08-26",
+                "start": "2011-08-26T00:00:00.000+02:00",
+                "end": "2011-08-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-29",
+                "name": "2011-08-29",
+                "start": "2011-08-29T00:00:00.000+02:00",
+                "end": "2011-08-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-30",
+                "name": "2011-08-30",
+                "start": "2011-08-30T00:00:00.000+02:00",
+                "end": "2011-08-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-08-31",
+                "name": "2011-08-31",
+                "start": "2011-08-31T00:00:00.000+02:00",
+                "end": "2011-08-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-01",
+                "name": "2011-09-01",
+                "start": "2011-09-01T00:00:00.000+02:00",
+                "end": "2011-09-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-02",
+                "name": "2011-09-02",
+                "start": "2011-09-02T00:00:00.000+02:00",
+                "end": "2011-09-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-05",
+                "name": "2011-09-05",
+                "start": "2011-09-05T00:00:00.000+02:00",
+                "end": "2011-09-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-06",
+                "name": "2011-09-06",
+                "start": "2011-09-06T00:00:00.000+02:00",
+                "end": "2011-09-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-07",
+                "name": "2011-09-07",
+                "start": "2011-09-07T00:00:00.000+02:00",
+                "end": "2011-09-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-08",
+                "name": "2011-09-08",
+                "start": "2011-09-08T00:00:00.000+02:00",
+                "end": "2011-09-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-09",
+                "name": "2011-09-09",
+                "start": "2011-09-09T00:00:00.000+02:00",
+                "end": "2011-09-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-12",
+                "name": "2011-09-12",
+                "start": "2011-09-12T00:00:00.000+02:00",
+                "end": "2011-09-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-13",
+                "name": "2011-09-13",
+                "start": "2011-09-13T00:00:00.000+02:00",
+                "end": "2011-09-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-14",
+                "name": "2011-09-14",
+                "start": "2011-09-14T00:00:00.000+02:00",
+                "end": "2011-09-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-15",
+                "name": "2011-09-15",
+                "start": "2011-09-15T00:00:00.000+02:00",
+                "end": "2011-09-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-16",
+                "name": "2011-09-16",
+                "start": "2011-09-16T00:00:00.000+02:00",
+                "end": "2011-09-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-19",
+                "name": "2011-09-19",
+                "start": "2011-09-19T00:00:00.000+02:00",
+                "end": "2011-09-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-20",
+                "name": "2011-09-20",
+                "start": "2011-09-20T00:00:00.000+02:00",
+                "end": "2011-09-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-21",
+                "name": "2011-09-21",
+                "start": "2011-09-21T00:00:00.000+02:00",
+                "end": "2011-09-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-22",
+                "name": "2011-09-22",
+                "start": "2011-09-22T00:00:00.000+02:00",
+                "end": "2011-09-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-23",
+                "name": "2011-09-23",
+                "start": "2011-09-23T00:00:00.000+02:00",
+                "end": "2011-09-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-26",
+                "name": "2011-09-26",
+                "start": "2011-09-26T00:00:00.000+02:00",
+                "end": "2011-09-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-27",
+                "name": "2011-09-27",
+                "start": "2011-09-27T00:00:00.000+02:00",
+                "end": "2011-09-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-28",
+                "name": "2011-09-28",
+                "start": "2011-09-28T00:00:00.000+02:00",
+                "end": "2011-09-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-29",
+                "name": "2011-09-29",
+                "start": "2011-09-29T00:00:00.000+02:00",
+                "end": "2011-09-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-09-30",
+                "name": "2011-09-30",
+                "start": "2011-09-30T00:00:00.000+02:00",
+                "end": "2011-09-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-03",
+                "name": "2011-10-03",
+                "start": "2011-10-03T00:00:00.000+02:00",
+                "end": "2011-10-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-04",
+                "name": "2011-10-04",
+                "start": "2011-10-04T00:00:00.000+02:00",
+                "end": "2011-10-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-05",
+                "name": "2011-10-05",
+                "start": "2011-10-05T00:00:00.000+02:00",
+                "end": "2011-10-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-06",
+                "name": "2011-10-06",
+                "start": "2011-10-06T00:00:00.000+02:00",
+                "end": "2011-10-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-07",
+                "name": "2011-10-07",
+                "start": "2011-10-07T00:00:00.000+02:00",
+                "end": "2011-10-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-10",
+                "name": "2011-10-10",
+                "start": "2011-10-10T00:00:00.000+02:00",
+                "end": "2011-10-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-11",
+                "name": "2011-10-11",
+                "start": "2011-10-11T00:00:00.000+02:00",
+                "end": "2011-10-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-12",
+                "name": "2011-10-12",
+                "start": "2011-10-12T00:00:00.000+02:00",
+                "end": "2011-10-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-13",
+                "name": "2011-10-13",
+                "start": "2011-10-13T00:00:00.000+02:00",
+                "end": "2011-10-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-14",
+                "name": "2011-10-14",
+                "start": "2011-10-14T00:00:00.000+02:00",
+                "end": "2011-10-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-17",
+                "name": "2011-10-17",
+                "start": "2011-10-17T00:00:00.000+02:00",
+                "end": "2011-10-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-18",
+                "name": "2011-10-18",
+                "start": "2011-10-18T00:00:00.000+02:00",
+                "end": "2011-10-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-19",
+                "name": "2011-10-19",
+                "start": "2011-10-19T00:00:00.000+02:00",
+                "end": "2011-10-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-20",
+                "name": "2011-10-20",
+                "start": "2011-10-20T00:00:00.000+02:00",
+                "end": "2011-10-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-21",
+                "name": "2011-10-21",
+                "start": "2011-10-21T00:00:00.000+02:00",
+                "end": "2011-10-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-24",
+                "name": "2011-10-24",
+                "start": "2011-10-24T00:00:00.000+02:00",
+                "end": "2011-10-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-25",
+                "name": "2011-10-25",
+                "start": "2011-10-25T00:00:00.000+02:00",
+                "end": "2011-10-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-26",
+                "name": "2011-10-26",
+                "start": "2011-10-26T00:00:00.000+02:00",
+                "end": "2011-10-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-27",
+                "name": "2011-10-27",
+                "start": "2011-10-27T00:00:00.000+02:00",
+                "end": "2011-10-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-28",
+                "name": "2011-10-28",
+                "start": "2011-10-28T00:00:00.000+02:00",
+                "end": "2011-10-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "2011-10-31",
+                "name": "2011-10-31",
+                "start": "2011-10-31T00:00:00.000+01:00",
+                "end": "2011-10-31T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-01",
+                "name": "2011-11-01",
+                "start": "2011-11-01T00:00:00.000+01:00",
+                "end": "2011-11-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-02",
+                "name": "2011-11-02",
+                "start": "2011-11-02T00:00:00.000+01:00",
+                "end": "2011-11-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-03",
+                "name": "2011-11-03",
+                "start": "2011-11-03T00:00:00.000+01:00",
+                "end": "2011-11-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-04",
+                "name": "2011-11-04",
+                "start": "2011-11-04T00:00:00.000+01:00",
+                "end": "2011-11-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-07",
+                "name": "2011-11-07",
+                "start": "2011-11-07T00:00:00.000+01:00",
+                "end": "2011-11-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-08",
+                "name": "2011-11-08",
+                "start": "2011-11-08T00:00:00.000+01:00",
+                "end": "2011-11-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-09",
+                "name": "2011-11-09",
+                "start": "2011-11-09T00:00:00.000+01:00",
+                "end": "2011-11-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-10",
+                "name": "2011-11-10",
+                "start": "2011-11-10T00:00:00.000+01:00",
+                "end": "2011-11-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-11",
+                "name": "2011-11-11",
+                "start": "2011-11-11T00:00:00.000+01:00",
+                "end": "2011-11-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-14",
+                "name": "2011-11-14",
+                "start": "2011-11-14T00:00:00.000+01:00",
+                "end": "2011-11-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-15",
+                "name": "2011-11-15",
+                "start": "2011-11-15T00:00:00.000+01:00",
+                "end": "2011-11-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-16",
+                "name": "2011-11-16",
+                "start": "2011-11-16T00:00:00.000+01:00",
+                "end": "2011-11-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-17",
+                "name": "2011-11-17",
+                "start": "2011-11-17T00:00:00.000+01:00",
+                "end": "2011-11-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-18",
+                "name": "2011-11-18",
+                "start": "2011-11-18T00:00:00.000+01:00",
+                "end": "2011-11-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-21",
+                "name": "2011-11-21",
+                "start": "2011-11-21T00:00:00.000+01:00",
+                "end": "2011-11-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-22",
+                "name": "2011-11-22",
+                "start": "2011-11-22T00:00:00.000+01:00",
+                "end": "2011-11-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-23",
+                "name": "2011-11-23",
+                "start": "2011-11-23T00:00:00.000+01:00",
+                "end": "2011-11-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-24",
+                "name": "2011-11-24",
+                "start": "2011-11-24T00:00:00.000+01:00",
+                "end": "2011-11-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-25",
+                "name": "2011-11-25",
+                "start": "2011-11-25T00:00:00.000+01:00",
+                "end": "2011-11-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-28",
+                "name": "2011-11-28",
+                "start": "2011-11-28T00:00:00.000+01:00",
+                "end": "2011-11-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-29",
+                "name": "2011-11-29",
+                "start": "2011-11-29T00:00:00.000+01:00",
+                "end": "2011-11-29T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-11-30",
+                "name": "2011-11-30",
+                "start": "2011-11-30T00:00:00.000+01:00",
+                "end": "2011-11-30T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-01",
+                "name": "2011-12-01",
+                "start": "2011-12-01T00:00:00.000+01:00",
+                "end": "2011-12-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-02",
+                "name": "2011-12-02",
+                "start": "2011-12-02T00:00:00.000+01:00",
+                "end": "2011-12-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-05",
+                "name": "2011-12-05",
+                "start": "2011-12-05T00:00:00.000+01:00",
+                "end": "2011-12-05T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-06",
+                "name": "2011-12-06",
+                "start": "2011-12-06T00:00:00.000+01:00",
+                "end": "2011-12-06T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-07",
+                "name": "2011-12-07",
+                "start": "2011-12-07T00:00:00.000+01:00",
+                "end": "2011-12-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-08",
+                "name": "2011-12-08",
+                "start": "2011-12-08T00:00:00.000+01:00",
+                "end": "2011-12-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-09",
+                "name": "2011-12-09",
+                "start": "2011-12-09T00:00:00.000+01:00",
+                "end": "2011-12-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-12",
+                "name": "2011-12-12",
+                "start": "2011-12-12T00:00:00.000+01:00",
+                "end": "2011-12-12T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-13",
+                "name": "2011-12-13",
+                "start": "2011-12-13T00:00:00.000+01:00",
+                "end": "2011-12-13T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-14",
+                "name": "2011-12-14",
+                "start": "2011-12-14T00:00:00.000+01:00",
+                "end": "2011-12-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-15",
+                "name": "2011-12-15",
+                "start": "2011-12-15T00:00:00.000+01:00",
+                "end": "2011-12-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-16",
+                "name": "2011-12-16",
+                "start": "2011-12-16T00:00:00.000+01:00",
+                "end": "2011-12-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-19",
+                "name": "2011-12-19",
+                "start": "2011-12-19T00:00:00.000+01:00",
+                "end": "2011-12-19T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-20",
+                "name": "2011-12-20",
+                "start": "2011-12-20T00:00:00.000+01:00",
+                "end": "2011-12-20T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-21",
+                "name": "2011-12-21",
+                "start": "2011-12-21T00:00:00.000+01:00",
+                "end": "2011-12-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-22",
+                "name": "2011-12-22",
+                "start": "2011-12-22T00:00:00.000+01:00",
+                "end": "2011-12-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-23",
+                "name": "2011-12-23",
+                "start": "2011-12-23T00:00:00.000+01:00",
+                "end": "2011-12-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-26",
+                "name": "2011-12-26",
+                "start": "2011-12-26T00:00:00.000+01:00",
+                "end": "2011-12-26T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-27",
+                "name": "2011-12-27",
+                "start": "2011-12-27T00:00:00.000+01:00",
+                "end": "2011-12-27T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-28",
+                "name": "2011-12-28",
+                "start": "2011-12-28T00:00:00.000+01:00",
+                "end": "2011-12-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-29",
+                "name": "2011-12-29",
+                "start": "2011-12-29T00:00:00.000+01:00",
+                "end": "2011-12-29T23:59:59.999+01:00"
+              },
+              {
+                "id": "2011-12-30",
+                "name": "2011-12-30",
+                "start": "2011-12-30T00:00:00.000+01:00",
+                "end": "2011-12-30T23:59:59.999+01:00"
+              }
+            ]
+          }
+        ]
+      },
+      "attributes": {
+        "series": [
+          {
+            "id": "TIME_FORMAT",
+            "name": "Time format code",
+            "values": [
+              {
+                "name": "P1D"
+              }
+            ]
+          },
+          {
+            "id": "BREAKS",
+            "name": "Breaks",
+            "values": []
+          },
+          {
+            "id": "COLLECTION",
+            "name": "Collection indicator",
+            "values": [
+              {
+                "id": "A",
+                "name": "Average of observations through period"
+              }
+            ]
+          },
+          {
+            "id": "COMPILING_ORG",
+            "name": "Compiling organisation",
+            "values": []
+          },
+          {
+            "id": "DISS_ORG",
+            "name": "Data dissemination organisation",
+            "values": []
+          },
+          {
+            "id": "DOM_SER_IDS",
+            "name": "Domestic series ids",
+            "values": []
+          },
+          {
+            "id": "PUBL_ECB",
+            "name": "Source publication (ECB only)",
+            "values": []
+          },
+          {
+            "id": "PUBL_MU",
+            "name": "Source publication (Euro area only)",
+            "values": []
+          },
+          {
+            "id": "PUBL_PUBLIC",
+            "name": "Source publication (public)",
+            "values": []
+          },
+          {
+            "id": "UNIT_INDEX_BASE",
+            "name": "Unit index base",
+            "values": [
+              {
+                "name": "99Q1=100"
+              }
+            ]
+          },
+          {
+            "id": "COMPILATION",
+            "name": "Compilation",
+            "values": []
+          },
+          {
+            "id": "COVERAGE",
+            "name": "Coverage",
+            "values": []
+          },
+          {
+            "id": "DECIMALS",
+            "name": "Decimals",
+            "values": [
+              {
+                "id": "4",
+                "name": "Four"
+              }
+            ]
+          },
+          {
+            "id": "NAT_TITLE",
+            "name": "National language title",
+            "values": []
+          },
+          {
+            "id": "SOURCE_AGENCY",
+            "name": "Source agency",
+            "values": [
+              {
+                "id": "4F0",
+                "name": "European Central Bank (ECB)"
+              }
+            ]
+          },
+          {
+            "id": "SOURCE_PUB",
+            "name": "Publication source",
+            "values": []
+          },
+          {
+            "id": "TITLE",
+            "name": "Title",
+            "values": [
+              {
+                "name": "US dollar/Euro"
+              }
+            ]
+          },
+          {
+            "id": "TITLE_COMPL",
+            "name": "Title complement",
+            "values": [
+              {
+                "name": "ECB reference exchange rate, US dollar/Euro, 2.15 pm (C.E.T.)"
+              }
+            ]
+          },
+          {
+            "id": "UNIT",
+            "name": "Unit",
+            "values": [
+              {
+                "id": "USD",
+                "name": "US dollar"
+              }
+            ]
+          },
+          {
+            "id": "UNIT_MULT",
+            "name": "Unit multiplier",
+            "values": [
+              {
+                "id": "0",
+                "name": "Units"
+              }
+            ]
+          }
+        ],
+        "observation": [
+          {
+            "id": "OBS_STATUS",
+            "name": "Observation status",
+            "values": [
+              {
+                "id": "A",
+                "name": "Normal value"
+              },
+              {
+                "id": "H",
+                "name": "Missing value; holiday or weekend"
+              }
+            ]
+          },
+          {
+            "id": "OBS_CONF",
+            "name": "Observation confidentiality",
+            "values": []
+          },
+          {
+            "id": "OBS_PRE_BREAK",
+            "name": "Pre-break observation value",
+            "values": []
+          },
+          {
+            "id": "OBS_COM",
+            "name": "Observation comment",
+            "values": []
+          }
+        ]
+      }
+    }
+  }
+}

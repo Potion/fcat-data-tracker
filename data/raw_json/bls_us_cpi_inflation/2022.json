@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "group": "BLS",
+    "dataset_name": "US CPI (Inflation)",
+    "source_type": "bls",
+    "dataset_id": "CUSR0000SA0",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2022,
+  "request": {
+    "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+    "status_code": 200,
+    "payload": {
+      "seriesid": [
+        "CUSR0000SA0"
+      ],
+      "startyear": "2022",
+      "endyear": "2022",
+      "registrationkey": "445f4be3081f4dd0a3546cb358e7d24e"
+    }
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "status": "REQUEST_SUCCEEDED",
+    "responseTime": 72,
+    "message": [],
+    "Results": {
+      "series": [
+        {
+          "seriesID": "CUSR0000SA0",
+          "data": [
+            {
+              "year": "2022",
+              "period": "M12",
+              "periodName": "December",
+              "value": "298.832",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M11",
+              "periodName": "November",
+              "value": "298.786",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M10",
+              "periodName": "October",
+              "value": "298.007",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M09",
+              "periodName": "September",
+              "value": "296.349",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M08",
+              "periodName": "August",
+              "value": "295.097",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M07",
+              "periodName": "July",
+              "value": "294.913",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M06",
+              "periodName": "June",
+              "value": "294.957",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M05",
+              "periodName": "May",
+              "value": "291.298",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M04",
+              "periodName": "April",
+              "value": "288.561",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M03",
+              "periodName": "March",
+              "value": "287.674",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M02",
+              "periodName": "February",
+              "value": "284.500",
+              "footnotes": [
+                {}
+              ]
+            },
+            {
+              "year": "2022",
+              "period": "M01",
+              "periodName": "January",
+              "value": "282.543",
+              "footnotes": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "group": "FRED",
+    "dataset_name": "Cloud Costs",
+    "source_type": "fred",
+    "dataset_id": "PCU518210518210",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2002,
+  "request": {
+    "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2002-01-01&observation_end=2002-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "realtime_start": "2026-02-17",
+    "realtime_end": "2026-02-17",
+    "observation_start": "2002-01-01",
+    "observation_end": "2002-12-31",
+    "units": "lin",
+    "output_type": 1,
+    "file_type": "json",
+    "order_by": "observation_date",
+    "sort_order": "asc",
+    "count": 12,
+    "offset": 0,
+    "limit": 100000,
+    "observations": [
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-01-01",
+        "value": "102.9"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-02-01",
+        "value": "102.2"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-03-01",
+        "value": "102.2"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-04-01",
+        "value": "103.0"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-05-01",
+        "value": "103.1"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-06-01",
+        "value": "102.9"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-07-01",
+        "value": "103.4"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-08-01",
+        "value": "103.0"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-09-01",
+        "value": "102.6"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-10-01",
+        "value": "103.3"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-11-01",
+        "value": "102.7"
+      },
+      {
+        "realtime_start": "2026-02-17",
+        "realtime_end": "2026-02-17",
+        "date": "2002-12-01",
+        "value": "102.9"
+      }
+    ]
+  }
+}

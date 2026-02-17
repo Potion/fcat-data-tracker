@@ -1,0 +1,2944 @@
+{
+  "run_started_at": "2026-02-17T21:23:26.011463+00:00",
+  "totals": {
+    "datasets": 25,
+    "ok_years": 524,
+    "error_years": 276
+  },
+  "datasets": [
+    {
+      "group": "35 Years",
+      "dataset_name": "Median Household Income",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_median_household_income/_summary.json",
+      "totals": {
+        "ok": 30,
+        "error": 2
+      },
+      "errors": [
+        {
+          "year": 2025,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=MEHOINUSA646N&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2025-01-01&observation_end=2025-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=MEHOINUSA646N&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "Personal Saving Rate",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_personal_saving_rate/_summary.json",
+      "totals": {
+        "ok": 31,
+        "error": 1
+      },
+      "errors": [
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PSAVERT&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "Expenses (Age 35-44)",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_expenses_age_35_44/_summary.json",
+      "totals": {
+        "ok": 30,
+        "error": 2
+      },
+      "errors": [
+        {
+          "year": 2025,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CXUTOTALEXPLB0404M&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2025-01-01&observation_end=2025-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CXUTOTALEXPLB0404M&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "Retirement Expenses (Age 65+)",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_retirement_expenses_age_65/_summary.json",
+      "totals": {
+        "ok": 30,
+        "error": 2
+      },
+      "errors": [
+        {
+          "year": 2025,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CXUTOTALEXPLB0407M&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2025-01-01&observation_end=2025-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CXUTOTALEXPLB0407M&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "US GDP",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_us_gdp/_summary.json",
+      "totals": {
+        "ok": 31,
+        "error": 1
+      },
+      "errors": [
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=GDP&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "S&P 500 (Daily)",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_s_p_500_daily/_summary.json",
+      "totals": {
+        "ok": 11,
+        "error": 21
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1995-01-01&observation_end=1995-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1996-01-01&observation_end=1996-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1997-01-01&observation_end=1997-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1998-01-01&observation_end=1998-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1999-01-01&observation_end=1999-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2000-01-01&observation_end=2000-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2001-01-01&observation_end=2001-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2002-01-01&observation_end=2002-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2003-01-01&observation_end=2003-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2004-01-01&observation_end=2004-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2005-01-01&observation_end=2005-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2006-01-01&observation_end=2006-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2007-01-01&observation_end=2007-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2008-01-01&observation_end=2008-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2009-01-01&observation_end=2009-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2010-01-01&observation_end=2010-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2011,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2011-01-01&observation_end=2011-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2012-01-01&observation_end=2012-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2013-01-01&observation_end=2013-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2014-01-01&observation_end=2014-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2015,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=SP500&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2015-01-01&observation_end=2015-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "Market Volatility (VIX)",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_market_volatility_vix/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "35 Years",
+      "dataset_name": "30-Year Mortgage Rate",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/35_years_30_year_mortgage_rate/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "FRED",
+      "dataset_name": "US GDP",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/fred_us_gdp/_summary.json",
+      "totals": {
+        "ok": 31,
+        "error": 1
+      },
+      "errors": [
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=GDP&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "FRED",
+      "dataset_name": "Tech Output",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/fred_tech_output/_summary.json",
+      "totals": {
+        "ok": 31,
+        "error": 1
+      },
+      "errors": [
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=IPB51222S&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "FRED",
+      "dataset_name": "Cloud Costs",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/fred_cloud_costs/_summary.json",
+      "totals": {
+        "ok": 26,
+        "error": 6
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1995-01-01&observation_end=1995-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1996-01-01&observation_end=1996-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1997-01-01&observation_end=1997-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1998-01-01&observation_end=1998-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1999-01-01&observation_end=1999-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=PCU518210518210&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2026-01-01&observation_end=2026-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "FRED",
+      "dataset_name": "Bitcoin",
+      "source_type": "fred",
+      "summary_path": "data/raw_json/fred_bitcoin/_summary.json",
+      "totals": {
+        "ok": 13,
+        "error": 19
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1995-01-01&observation_end=1995-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1996-01-01&observation_end=1996-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1997-01-01&observation_end=1997-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1998-01-01&observation_end=1998-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1999-01-01&observation_end=1999-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2000-01-01&observation_end=2000-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2001-01-01&observation_end=2001-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2002-01-01&observation_end=2002-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2003-01-01&observation_end=2003-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2004-01-01&observation_end=2004-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2005-01-01&observation_end=2005-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2006-01-01&observation_end=2006-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2007-01-01&observation_end=2007-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2008-01-01&observation_end=2008-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2009-01-01&observation_end=2009-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2010-01-01&observation_end=2010-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2011,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2011-01-01&observation_end=2011-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2012-01-01&observation_end=2012-12-31",
+            "status_code": 200
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "no_data_in_range",
+          "recommended_action": "accept_or_change_time_range",
+          "message": "Request succeeded but the API returned no data for this year.",
+          "request": {
+            "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2013-01-01&observation_end=2013-12-31",
+            "status_code": 200
+          }
+        }
+      ]
+    },
+    {
+      "group": "BLS",
+      "dataset_name": "US CPI (Inflation)",
+      "source_type": "bls",
+      "summary_path": "data/raw_json/bls_us_cpi_inflation/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "BLS",
+      "dataset_name": "US Unemployment",
+      "source_type": "bls",
+      "summary_path": "data/raw_json/bls_us_unemployment/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "CoinGecko",
+      "dataset_name": "Bitcoin History",
+      "source_type": "coingecko",
+      "summary_path": "data/raw_json/coingecko_bitcoin_history/_summary.json",
+      "totals": {
+        "ok": 0,
+        "error": 32
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=788918400&to=820454399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=820454400&to=852076799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=852076800&to=883612799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=883612800&to=915148799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=915148800&to=946684799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2001,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=978307200&to=1009843199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1009843200&to=1041379199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1041379200&to=1072915199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2005,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1104537600&to=1136073599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1136073600&to=1167609599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1167609600&to=1199145599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1199145600&to=1230767999",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1230768000&to=1262303999",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2011,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1293840000&to=1325375999",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1325376000&to=1356998399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1356998400&to=1388534399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1388534400&to=1420070399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2015,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1420070400&to=1451606399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2016,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1451606400&to=1483228799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2017,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2018,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1514764800&to=1546300799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2019,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1546300800&to=1577836799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2020,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1577836800&to=1609459199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2021,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2022,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1640995200&to=1672531199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2023,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1672531200&to=1704067199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2024,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1704067200&to=1735689599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2025,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/bitcoin/market_chart/range?vs_currency=usd&from=1735689600&to=1767225599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        }
+      ]
+    },
+    {
+      "group": "CoinGecko",
+      "dataset_name": "Ethereum History",
+      "source_type": "coingecko",
+      "summary_path": "data/raw_json/coingecko_ethereum_history/_summary.json",
+      "totals": {
+        "ok": 1,
+        "error": 31
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=788918400&to=820454399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=820454400&to=852076799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=852076800&to=883612799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=883612800&to=915148799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=915148800&to=946684799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2001,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=978307200&to=1009843199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1009843200&to=1041379199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1041379200&to=1072915199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1072915200&to=1104537599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1104537600&to=1136073599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2007,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1167609600&to=1199145599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1199145600&to=1230767999",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2010,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1262304000&to=1293839999",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2011,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1293840000&to=1325375999",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1325376000&to=1356998399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1356998400&to=1388534399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1388534400&to=1420070399",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2015,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2016,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1451606400&to=1483228799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2017,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1483228800&to=1514764799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2018,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1514764800&to=1546300799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2019,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1546300800&to=1577836799",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2020,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1577836800&to=1609459199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2021,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2022,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1640995200&to=1672531199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2023,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1672531200&to=1704067199",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2024,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1704067200&to=1735689599",
+            "status_code": 401
+          }
+        },
+        {
+          "year": 2025,
+          "error_type": "auth_or_access",
+          "recommended_action": "check_api_key_or_permissions",
+          "message": "Authentication/authorization failed.",
+          "request": {
+            "url": "https://api.coingecko.com/api/v3/coins/ethereum/market_chart/range?vs_currency=usd&from=1735689600&to=1767225599",
+            "status_code": 401
+          }
+        }
+      ]
+    },
+    {
+      "group": "OECD",
+      "dataset_name": "Scientific Collaboration (2021)",
+      "source_type": "oecd",
+      "summary_path": "data/raw_json/oecd_scientific_collaboration_2021/_summary.json",
+      "totals": {
+        "ok": 15,
+        "error": 17
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=1995&endPeriod=1995&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=1996&endPeriod=1996&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=1997&endPeriod=1997&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=1998&endPeriod=1998&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=1999&endPeriod=1999&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2000&endPeriod=2000&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2001&endPeriod=2001&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2002&endPeriod=2002&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2003&endPeriod=2003&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2004&endPeriod=2004&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2005&endPeriod=2005&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2006&endPeriod=2006&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2007&endPeriod=2007&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2008&endPeriod=2008&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2024,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2024&endPeriod=2024&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2025,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2025&endPeriod=2025&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.STI.STP,DSD_BIBLIO@DF_BIBLIO_COLLAB,1.1/all?startPeriod=2026&endPeriod=2026&dimensionAtObservation=AllDimensions",
+            "status_code": 404
+          }
+        }
+      ]
+    },
+    {
+      "group": "OECD",
+      "dataset_name": "USA GDP (Quarterly)",
+      "source_type": "oecd",
+      "summary_path": "data/raw_json/oecd_usa_gdp_quarterly/_summary.json",
+      "totals": {
+        "ok": 0,
+        "error": 32
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1995-Q1&dimensionAtObservation=AllDimensions&endPeriod=1995-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1996-Q1&dimensionAtObservation=AllDimensions&endPeriod=1996-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1997-Q1&dimensionAtObservation=AllDimensions&endPeriod=1997-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1998-Q1&dimensionAtObservation=AllDimensions&endPeriod=1998-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1999-Q1&dimensionAtObservation=AllDimensions&endPeriod=1999-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2000-Q1&dimensionAtObservation=AllDimensions&endPeriod=2000-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2001-Q1&dimensionAtObservation=AllDimensions&endPeriod=2001-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2002-Q1&dimensionAtObservation=AllDimensions&endPeriod=2002-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2003-Q1&dimensionAtObservation=AllDimensions&endPeriod=2003-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2004-Q1&dimensionAtObservation=AllDimensions&endPeriod=2004-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2005-Q1&dimensionAtObservation=AllDimensions&endPeriod=2005-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2006-Q1&dimensionAtObservation=AllDimensions&endPeriod=2006-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2007-Q1&dimensionAtObservation=AllDimensions&endPeriod=2007-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2008-Q1&dimensionAtObservation=AllDimensions&endPeriod=2008-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2009-Q1&dimensionAtObservation=AllDimensions&endPeriod=2009-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2010-Q1&dimensionAtObservation=AllDimensions&endPeriod=2010-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2011,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2011-Q1&dimensionAtObservation=AllDimensions&endPeriod=2011-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2012-Q1&dimensionAtObservation=AllDimensions&endPeriod=2012-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2013-Q1&dimensionAtObservation=AllDimensions&endPeriod=2013-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2014-Q1&dimensionAtObservation=AllDimensions&endPeriod=2014-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2015,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2016,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2016-Q1&dimensionAtObservation=AllDimensions&endPeriod=2016-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2017,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2018,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2019,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2019-Q1&dimensionAtObservation=AllDimensions&endPeriod=2019-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2020,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2021,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2022,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2022-Q1&dimensionAtObservation=AllDimensions&endPeriod=2022-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2023,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2024,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2025,
+          "error_type": "unexpected_status",
+          "recommended_action": "inspect_response",
+          "message": "Unexpected status code 422",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2025-Q1&dimensionAtObservation=AllDimensions&endPeriod=2025-Q4",
+            "status_code": 422
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        }
+      ]
+    },
+    {
+      "group": "OECD",
+      "dataset_name": "Trust in Government (Map)",
+      "source_type": "oecd",
+      "summary_path": "data/raw_json/oecd_trust_in_government_map/_summary.json",
+      "totals": {
+        "ok": 0,
+        "error": 32
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 1996,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 1997,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=1997&dimensionAtObservation=AllDimensions&endPeriod=1997",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 1999,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2000,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2001,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2001&dimensionAtObservation=AllDimensions&endPeriod=2001",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2003,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2004,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2005,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2005&dimensionAtObservation=AllDimensions&endPeriod=2005",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2007,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2008,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2009,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2009&dimensionAtObservation=AllDimensions&endPeriod=2009",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2011,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2012,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2013,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2013&dimensionAtObservation=AllDimensions&endPeriod=2013",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2015,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2015&dimensionAtObservation=AllDimensions&endPeriod=2015",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2016,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2017,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2017&dimensionAtObservation=AllDimensions&endPeriod=2017",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2018,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2019,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2019&dimensionAtObservation=AllDimensions&endPeriod=2019",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2020,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2021,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2021&dimensionAtObservation=AllDimensions&endPeriod=2021",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2022,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2023,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2023&dimensionAtObservation=AllDimensions&endPeriod=2023",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2024,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        },
+        {
+          "year": 2025,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://sdmx.oecd.org/public/rest/data/OECD.GOV.GG,DSD_GOV_TRUST@DF_TRUST_INST,1.0/.......?startPeriod=2025&dimensionAtObservation=AllDimensions&endPeriod=2025",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "rate_limited",
+          "recommended_action": "retry_later",
+          "message": "Rate limit persisted after retries.",
+          "request": {}
+        }
+      ]
+    },
+    {
+      "group": "ECB",
+      "dataset_name": "Eurozone Inflation (HICP)",
+      "source_type": "ecb",
+      "summary_path": "data/raw_json/ecb_eurozone_inflation_hicp/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "ECB",
+      "dataset_name": "USD/EUR Exchange Rate",
+      "source_type": "ecb",
+      "summary_path": "data/raw_json/ecb_usd_eur_exchange_rate/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "US Census",
+      "dataset_name": "Population by State (2020)",
+      "source_type": "census",
+      "summary_path": "data/raw_json/us_census_population_by_state_2020/_summary.json",
+      "totals": {
+        "ok": 1,
+        "error": 31
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1995/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1996/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1997/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1998/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1999/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "malformed_request",
+          "recommended_action": "fix_request",
+          "message": "API rejected request format or parameters.",
+          "request": {
+            "url": "https://api.census.gov/data/2000/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 400
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2001/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2002/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2003/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2004/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2005/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2006/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2007/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2008/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2009/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "malformed_request",
+          "recommended_action": "fix_request",
+          "message": "API rejected request format or parameters.",
+          "request": {
+            "url": "https://api.census.gov/data/2010/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 400
+          }
+        },
+        {
+          "year": 2011,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2011/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2012/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2013/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2014/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2015,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2015/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2016,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2016/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2017,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2017/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2018,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2018/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2019,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2019/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2021,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2021/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2022,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2022/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2023,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2023/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2024,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2024/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2025,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2025/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2026/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+            "status_code": 404
+          }
+        }
+      ]
+    },
+    {
+      "group": "US Census",
+      "dataset_name": "Median Income by County (2021)",
+      "source_type": "census",
+      "summary_path": "data/raw_json/us_census_median_income_by_county_2021/_summary.json",
+      "totals": {
+        "ok": 19,
+        "error": 13
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1995/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1996/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1997/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1998/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/1999/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2000/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2001/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2002/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2003/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2004/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2020,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2020/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2025,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2025/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "dataset_not_found",
+          "recommended_action": "fix_request",
+          "message": "Dataset endpoint or series was not found.",
+          "request": {
+            "url": "https://api.census.gov/data/2026/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+            "status_code": 404
+          }
+        }
+      ]
+    },
+    {
+      "group": "US Census",
+      "dataset_name": "Poverty Rate by State",
+      "source_type": "census",
+      "summary_path": "data/raw_json/us_census_poverty_rate_by_state/_summary.json",
+      "totals": {
+        "ok": 32,
+        "error": 0
+      },
+      "errors": []
+    },
+    {
+      "group": "IMF",
+      "dataset_name": "Paste API Link",
+      "source_type": "imf",
+      "summary_path": "data/raw_json/imf_paste_api_link/_summary.json",
+      "totals": {
+        "ok": 0,
+        "error": 32
+      },
+      "errors": [
+        {
+          "year": 1995,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 1996,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 1997,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 1998,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 1999,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2000,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2001,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2002,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2003,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2004,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2005,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2006,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2007,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2008,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2009,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2010,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2011,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2012,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2013,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2014,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2015,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2016,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2017,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2018,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2019,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2020,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2021,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2022,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2023,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2024,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2025,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        },
+        {
+          "year": 2026,
+          "error_type": "malformed_or_missing_config",
+          "recommended_action": "fix_request",
+          "message": "Missing required dataset URL or configuration.",
+          "request": {
+            "url": "",
+            "status_code": null
+          }
+        }
+      ]
+    }
+  ],
+  "run_finished_at": "2026-02-17T22:08:56.208091+00:00"
+}

@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "group": "US Census",
+    "dataset_name": "Median Income by County (2021)",
+    "source_type": "census",
+    "dataset_id": "https://api.census.gov/data/2021/acs/acs1/profile?get=NAME,DP03_0062E&for=county:*",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 19,
+    "error": 13
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1995/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1996/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1997/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1998/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/1999/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2000,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2000/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2001,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2001/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2002,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2002/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2003,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2003/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2004,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2004/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2020,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2020/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2025,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2025/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    },
+    {
+      "year": 2026,
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request",
+      "message": "Dataset endpoint or series was not found.",
+      "request": {
+        "url": "https://api.census.gov/data/2026/acs/acs1/profile?get=NAME%2CDP03_0062E&for=county%3A%2A",
+        "status_code": 404
+      }
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2000,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2001,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2002,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2003,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2004,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2005,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2006,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2007,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2008,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2009,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2010,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2011,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2012,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2013,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2014,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2015,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2016,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2017,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2018,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2019,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2020,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2021,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2022,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2023,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2024,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2025,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2026,
+      "status": "error",
+      "error_type": "dataset_not_found",
+      "recommended_action": "fix_request"
+    }
+  ]
+}

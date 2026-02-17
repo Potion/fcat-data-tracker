@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "group": "US Census",
+    "dataset_name": "Population by State (2020)",
+    "source_type": "census",
+    "dataset_id": "https://api.census.gov/data/2020/dec/pl?get=NAME,P1_001N&for=state:*",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 2010,
+  "request": {
+    "url": "https://api.census.gov/data/2010/dec/pl?get=NAME%2CP1_001N&for=state%3A%2A",
+    "status_code": 400
+  },
+  "status": "error",
+  "error_type": "malformed_request",
+  "recommended_action": "fix_request",
+  "message": "API rejected request format or parameters.",
+  "response": {
+    "non_json_response": "error: unknown variable 'P1_001N'",
+    "content_type": "text/plain;charset=utf-8"
+  }
+}

@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "group": "FRED",
+    "dataset_name": "Bitcoin",
+    "source_type": "fred",
+    "dataset_id": "CBBTCUSD",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 13,
+    "error": 19
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1995-01-01&observation_end=1995-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1996-01-01&observation_end=1996-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1997-01-01&observation_end=1997-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1998-01-01&observation_end=1998-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=1999-01-01&observation_end=1999-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2000,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2000-01-01&observation_end=2000-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2001,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2001-01-01&observation_end=2001-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2002,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2002-01-01&observation_end=2002-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2003,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2003-01-01&observation_end=2003-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2004,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2004-01-01&observation_end=2004-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2005,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2005-01-01&observation_end=2005-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2006,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2006-01-01&observation_end=2006-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2007,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2007-01-01&observation_end=2007-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2008,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2008-01-01&observation_end=2008-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2009,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2009-01-01&observation_end=2009-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2010,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2010-01-01&observation_end=2010-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2011,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2011-01-01&observation_end=2011-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2012,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2012-01-01&observation_end=2012-12-31",
+        "status_code": 200
+      }
+    },
+    {
+      "year": 2013,
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range",
+      "message": "Request succeeded but the API returned no data for this year.",
+      "request": {
+        "url": "https://api.stlouisfed.org/fred/series/observations?series_id=CBBTCUSD&api_key=bbd69897c3a2363528a3395cf277ab43&file_type=json&observation_start=2013-01-01&observation_end=2013-12-31",
+        "status_code": 200
+      }
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2000,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2001,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2002,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2003,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2004,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2005,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2006,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2007,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2008,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2009,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2010,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2011,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2012,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2013,
+      "status": "error",
+      "error_type": "no_data_in_range",
+      "recommended_action": "accept_or_change_time_range"
+    },
+    {
+      "year": 2014,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2015,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2016,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2017,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2018,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2019,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2020,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2021,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2022,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2023,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2024,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2025,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    },
+    {
+      "year": 2026,
+      "status": "ok",
+      "error_type": "",
+      "recommended_action": "none"
+    }
+  ]
+}

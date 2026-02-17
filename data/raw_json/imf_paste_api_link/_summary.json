@@ -1,0 +1,530 @@
+{
+  "metadata": {
+    "group": "IMF",
+    "dataset_name": "Paste API Link",
+    "source_type": "imf",
+    "dataset_id": "",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 0,
+    "error": 32
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2000,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2001,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2002,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2003,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2004,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2005,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2006,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2007,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2008,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2009,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2010,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2011,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2012,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2013,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2014,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2015,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2016,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2017,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2018,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2019,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2020,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2021,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2022,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2023,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2024,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2025,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    },
+    {
+      "year": 2026,
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request",
+      "message": "Missing required dataset URL or configuration.",
+      "request": {
+        "url": "",
+        "status_code": null
+      }
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2000,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2001,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2002,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2003,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2004,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2005,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2006,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2007,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2008,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2009,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2010,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2011,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2012,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2013,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2014,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2015,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2016,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2017,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2018,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2019,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2020,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2021,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2022,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2023,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2024,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2025,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    },
+    {
+      "year": 2026,
+      "status": "error",
+      "error_type": "malformed_or_missing_config",
+      "recommended_action": "fix_request"
+    }
+  ]
+}

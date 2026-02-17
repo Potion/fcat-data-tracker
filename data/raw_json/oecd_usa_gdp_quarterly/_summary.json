@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "group": "OECD",
+    "dataset_name": "USA GDP (Quarterly)",
+    "source_type": "oecd",
+    "dataset_id": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2015-Q1&dimensionAtObservation=AllDimensions",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "totals": {
+    "ok": 0,
+    "error": 32
+  },
+  "errors": [
+    {
+      "year": 1995,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1995-Q1&dimensionAtObservation=AllDimensions&endPeriod=1995-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 1996,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1996-Q1&dimensionAtObservation=AllDimensions&endPeriod=1996-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 1997,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1997-Q1&dimensionAtObservation=AllDimensions&endPeriod=1997-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 1998,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1998-Q1&dimensionAtObservation=AllDimensions&endPeriod=1998-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 1999,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=1999-Q1&dimensionAtObservation=AllDimensions&endPeriod=1999-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2000,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2000-Q1&dimensionAtObservation=AllDimensions&endPeriod=2000-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2001,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2001-Q1&dimensionAtObservation=AllDimensions&endPeriod=2001-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2002,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2002-Q1&dimensionAtObservation=AllDimensions&endPeriod=2002-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2003,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2003-Q1&dimensionAtObservation=AllDimensions&endPeriod=2003-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2004,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2004-Q1&dimensionAtObservation=AllDimensions&endPeriod=2004-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2005,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2005-Q1&dimensionAtObservation=AllDimensions&endPeriod=2005-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2006,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2006-Q1&dimensionAtObservation=AllDimensions&endPeriod=2006-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2007,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2007-Q1&dimensionAtObservation=AllDimensions&endPeriod=2007-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2008,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2008-Q1&dimensionAtObservation=AllDimensions&endPeriod=2008-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2009,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2009-Q1&dimensionAtObservation=AllDimensions&endPeriod=2009-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2010,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2010-Q1&dimensionAtObservation=AllDimensions&endPeriod=2010-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2011,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2011-Q1&dimensionAtObservation=AllDimensions&endPeriod=2011-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2012,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2012-Q1&dimensionAtObservation=AllDimensions&endPeriod=2012-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2013,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2013-Q1&dimensionAtObservation=AllDimensions&endPeriod=2013-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2014,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2014-Q1&dimensionAtObservation=AllDimensions&endPeriod=2014-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2015,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2016,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2016-Q1&dimensionAtObservation=AllDimensions&endPeriod=2016-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2017,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2018,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2019,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2019-Q1&dimensionAtObservation=AllDimensions&endPeriod=2019-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2020,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2021,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2022,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2022-Q1&dimensionAtObservation=AllDimensions&endPeriod=2022-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2023,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2024,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    },
+    {
+      "year": 2025,
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response",
+      "message": "Unexpected status code 422",
+      "request": {
+        "url": "https://sdmx.oecd.org/public/rest/data/OECD.SDD.NAD,DSD_NAMAIN1@DF_QNA,1.1/Q.USA.B1GQ...?startPeriod=2025-Q1&dimensionAtObservation=AllDimensions&endPeriod=2025-Q4",
+        "status_code": 422
+      }
+    },
+    {
+      "year": 2026,
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later",
+      "message": "Rate limit persisted after retries.",
+      "request": {}
+    }
+  ],
+  "years": [
+    {
+      "year": 1995,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 1996,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 1997,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 1998,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 1999,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2000,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2001,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2002,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2003,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2004,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2005,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2006,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2007,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2008,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2009,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2010,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2011,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2012,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2013,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2014,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2015,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2016,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2017,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2018,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2019,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2020,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2021,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2022,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2023,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2024,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    },
+    {
+      "year": 2025,
+      "status": "error",
+      "error_type": "unexpected_status",
+      "recommended_action": "inspect_response"
+    },
+    {
+      "year": 2026,
+      "status": "error",
+      "error_type": "rate_limited",
+      "recommended_action": "retry_later"
+    }
+  ]
+}

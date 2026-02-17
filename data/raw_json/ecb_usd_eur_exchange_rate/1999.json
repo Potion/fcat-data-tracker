@@ -1,0 +1,3692 @@
+{
+  "metadata": {
+    "group": "ECB",
+    "dataset_name": "USD/EUR Exchange Rate",
+    "source_type": "ecb",
+    "dataset_id": "EXR.D.USD.EUR.SP00.A",
+    "start_year": 1995,
+    "end_year": 2026
+  },
+  "year": 1999,
+  "request": {
+    "url": "https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A?startPeriod=1999-01-01&endPeriod=1999-12-31",
+    "status_code": 200
+  },
+  "status": "ok",
+  "error_type": "",
+  "recommended_action": "none",
+  "message": "Success",
+  "response": {
+    "header": {
+      "id": "81378ee1-8364-4363-8270-e581377f0682",
+      "test": false,
+      "prepared": "2026-02-17T21:46:29.139+01:00",
+      "sender": {
+        "id": "ECB"
+      }
+    },
+    "dataSets": [
+      {
+        "action": "Replace",
+        "validFrom": "2026-02-17T21:46:29.139+01:00",
+        "series": {
+          "0:0:0:0:0": {
+            "attributes": [
+              0,
+              null,
+              0,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              0,
+              null,
+              null,
+              0,
+              null,
+              0,
+              null,
+              0,
+              0,
+              0,
+              0
+            ],
+            "observations": {
+              "0": [
+                1.1789,
+                0,
+                null,
+                null,
+                null
+              ],
+              "1": [
+                1.179,
+                0,
+                null,
+                null,
+                null
+              ],
+              "2": [
+                1.1743,
+                0,
+                null,
+                null,
+                null
+              ],
+              "3": [
+                1.1632,
+                0,
+                null,
+                null,
+                null
+              ],
+              "4": [
+                1.1659,
+                0,
+                null,
+                null,
+                null
+              ],
+              "5": [
+                1.1569,
+                0,
+                null,
+                null,
+                null
+              ],
+              "6": [
+                1.152,
+                0,
+                null,
+                null,
+                null
+              ],
+              "7": [
+                1.1744,
+                0,
+                null,
+                null,
+                null
+              ],
+              "8": [
+                1.1653,
+                0,
+                null,
+                null,
+                null
+              ],
+              "9": [
+                1.1626,
+                0,
+                null,
+                null,
+                null
+              ],
+              "10": [
+                1.1612,
+                0,
+                null,
+                null,
+                null
+              ],
+              "11": [
+                1.1616,
+                0,
+                null,
+                null,
+                null
+              ],
+              "12": [
+                1.1575,
+                0,
+                null,
+                null,
+                null
+              ],
+              "13": [
+                1.1572,
+                0,
+                null,
+                null,
+                null
+              ],
+              "14": [
+                1.1567,
+                0,
+                null,
+                null,
+                null
+              ],
+              "15": [
+                1.1584,
+                0,
+                null,
+                null,
+                null
+              ],
+              "16": [
+                1.1582,
+                0,
+                null,
+                null,
+                null
+              ],
+              "17": [
+                1.1529,
+                0,
+                null,
+                null,
+                null
+              ],
+              "18": [
+                1.141,
+                0,
+                null,
+                null,
+                null
+              ],
+              "19": [
+                1.1384,
+                0,
+                null,
+                null,
+                null
+              ],
+              "20": [
+                1.1338,
+                0,
+                null,
+                null,
+                null
+              ],
+              "21": [
+                1.1337,
+                0,
+                null,
+                null,
+                null
+              ],
+              "22": [
+                1.1337,
+                0,
+                null,
+                null,
+                null
+              ],
+              "23": [
+                1.1263,
+                0,
+                null,
+                null,
+                null
+              ],
+              "24": [
+                1.1292,
+                0,
+                null,
+                null,
+                null
+              ],
+              "25": [
+                1.1246,
+                0,
+                null,
+                null,
+                null
+              ],
+              "26": [
+                1.1333,
+                0,
+                null,
+                null,
+                null
+              ],
+              "27": [
+                1.1342,
+                0,
+                null,
+                null,
+                null
+              ],
+              "28": [
+                1.1312,
+                0,
+                null,
+                null,
+                null
+              ],
+              "29": [
+                1.1244,
+                0,
+                null,
+                null,
+                null
+              ],
+              "30": [
+                1.1238,
+                0,
+                null,
+                null,
+                null
+              ],
+              "31": [
+                1.1176,
+                0,
+                null,
+                null,
+                null
+              ],
+              "32": [
+                1.1253,
+                0,
+                null,
+                null,
+                null
+              ],
+              "33": [
+                1.1232,
+                0,
+                null,
+                null,
+                null
+              ],
+              "34": [
+                1.1163,
+                0,
+                null,
+                null,
+                null
+              ],
+              "35": [
+                1.0992,
+                0,
+                null,
+                null,
+                null
+              ],
+              "36": [
+                1.0969,
+                0,
+                null,
+                null,
+                null
+              ],
+              "37": [
+                1.1037,
+                0,
+                null,
+                null,
+                null
+              ],
+              "38": [
+                1.1031,
+                0,
+                null,
+                null,
+                null
+              ],
+              "39": [
+                1.1018,
+                0,
+                null,
+                null,
+                null
+              ],
+              "40": [
+                1.0986,
+                0,
+                null,
+                null,
+                null
+              ],
+              "41": [
+                1.0887,
+                0,
+                null,
+                null,
+                null
+              ],
+              "42": [
+                1.0899,
+                0,
+                null,
+                null,
+                null
+              ],
+              "43": [
+                1.0866,
+                0,
+                null,
+                null,
+                null
+              ],
+              "44": [
+                1.0834,
+                0,
+                null,
+                null,
+                null
+              ],
+              "45": [
+                1.0908,
+                0,
+                null,
+                null,
+                null
+              ],
+              "46": [
+                1.0863,
+                0,
+                null,
+                null,
+                null
+              ],
+              "47": [
+                1.0953,
+                0,
+                null,
+                null,
+                null
+              ],
+              "48": [
+                1.0891,
+                0,
+                null,
+                null,
+                null
+              ],
+              "49": [
+                1.0932,
+                0,
+                null,
+                null,
+                null
+              ],
+              "50": [
+                1.0949,
+                0,
+                null,
+                null,
+                null
+              ],
+              "51": [
+                1.0901,
+                0,
+                null,
+                null,
+                null
+              ],
+              "52": [
+                1.0966,
+                0,
+                null,
+                null,
+                null
+              ],
+              "53": [
+                1.1012,
+                0,
+                null,
+                null,
+                null
+              ],
+              "54": [
+                1.0915,
+                0,
+                null,
+                null,
+                null
+              ],
+              "55": [
+                1.0864,
+                0,
+                null,
+                null,
+                null
+              ],
+              "56": [
+                1.0896,
+                0,
+                null,
+                null,
+                null
+              ],
+              "57": [
+                1.0928,
+                0,
+                null,
+                null,
+                null
+              ],
+              "58": [
+                1.0898,
+                0,
+                null,
+                null,
+                null
+              ],
+              "59": [
+                1.0815,
+                0,
+                null,
+                null,
+                null
+              ],
+              "60": [
+                1.0692,
+                0,
+                null,
+                null,
+                null
+              ],
+              "61": [
+                1.0711,
+                0,
+                null,
+                null,
+                null
+              ],
+              "62": [
+                1.0742,
+                0,
+                null,
+                null,
+                null
+              ],
+              "63": [
+                1.0772,
+                0,
+                null,
+                null,
+                null
+              ],
+              "64": [
+                1.0772,
+                0,
+                null,
+                null,
+                null
+              ],
+              "65": [
+                1.0752,
+                0,
+                null,
+                null,
+                null
+              ],
+              "66": [
+                1.0726,
+                0,
+                null,
+                null,
+                null
+              ],
+              "67": [
+                1.0812,
+                0,
+                null,
+                null,
+                null
+              ],
+              "68": [
+                1.0818,
+                0,
+                null,
+                null,
+                null
+              ],
+              "69": [
+                1.0778,
+                0,
+                null,
+                null,
+                null
+              ],
+              "70": [
+                1.0867,
+                0,
+                null,
+                null,
+                null
+              ],
+              "71": [
+                1.0765,
+                0,
+                null,
+                null,
+                null
+              ],
+              "72": [
+                1.0787,
+                0,
+                null,
+                null,
+                null
+              ],
+              "73": [
+                1.0786,
+                0,
+                null,
+                null,
+                null
+              ],
+              "74": [
+                1.0668,
+                0,
+                null,
+                null,
+                null
+              ],
+              "75": [
+                1.0636,
+                0,
+                null,
+                null,
+                null
+              ],
+              "76": [
+                1.0646,
+                0,
+                null,
+                null,
+                null
+              ],
+              "77": [
+                1.0586,
+                0,
+                null,
+                null,
+                null
+              ],
+              "78": [
+                1.0581,
+                0,
+                null,
+                null,
+                null
+              ],
+              "79": [
+                1.0634,
+                0,
+                null,
+                null,
+                null
+              ],
+              "80": [
+                1.0614,
+                0,
+                null,
+                null,
+                null
+              ],
+              "81": [
+                1.063,
+                0,
+                null,
+                null,
+                null
+              ],
+              "82": [
+                1.0666,
+                0,
+                null,
+                null,
+                null
+              ],
+              "83": [
+                1.0604,
+                0,
+                null,
+                null,
+                null
+              ],
+              "84": [
+                1.0597,
+                0,
+                null,
+                null,
+                null
+              ],
+              "85": [
+                1.0589,
+                0,
+                null,
+                null,
+                null
+              ],
+              "86": [
+                1.0564,
+                0,
+                null,
+                null,
+                null
+              ],
+              "87": [
+                1.0667,
+                0,
+                null,
+                null,
+                null
+              ],
+              "88": [
+                1.0799,
+                0,
+                null,
+                null,
+                null
+              ],
+              "89": [
+                1.0786,
+                0,
+                null,
+                null,
+                null
+              ],
+              "90": [
+                1.0735,
+                0,
+                null,
+                null,
+                null
+              ],
+              "91": [
+                1.0732,
+                0,
+                null,
+                null,
+                null
+              ],
+              "92": [
+                1.0645,
+                0,
+                null,
+                null,
+                null
+              ],
+              "93": [
+                1.0622,
+                0,
+                null,
+                null,
+                null
+              ],
+              "94": [
+                1.0676,
+                0,
+                null,
+                null,
+                null
+              ],
+              "95": [
+                1.0685,
+                0,
+                null,
+                null,
+                null
+              ],
+              "96": [
+                1.069,
+                0,
+                null,
+                null,
+                null
+              ],
+              "97": [
+                1.0634,
+                0,
+                null,
+                null,
+                null
+              ],
+              "98": [
+                1.0639,
+                0,
+                null,
+                null,
+                null
+              ],
+              "99": [
+                1.0572,
+                0,
+                null,
+                null,
+                null
+              ],
+              "100": [
+                1.0585,
+                0,
+                null,
+                null,
+                null
+              ],
+              "101": [
+                1.0627,
+                0,
+                null,
+                null,
+                null
+              ],
+              "102": [
+                1.0535,
+                0,
+                null,
+                null,
+                null
+              ],
+              "103": [
+                1.0473,
+                0,
+                null,
+                null,
+                null
+              ],
+              "104": [
+                1.0479,
+                0,
+                null,
+                null,
+                null
+              ],
+              "105": [
+                1.0456,
+                0,
+                null,
+                null,
+                null
+              ],
+              "106": [
+                1.0434,
+                0,
+                null,
+                null,
+                null
+              ],
+              "107": [
+                1.0382,
+                0,
+                null,
+                null,
+                null
+              ],
+              "108": [
+                1.0382,
+                0,
+                null,
+                null,
+                null
+              ],
+              "109": [
+                1.0315,
+                0,
+                null,
+                null,
+                null
+              ],
+              "110": [
+                1.0316,
+                0,
+                null,
+                null,
+                null
+              ],
+              "111": [
+                1.0385,
+                0,
+                null,
+                null,
+                null
+              ],
+              "112": [
+                1.0466,
+                0,
+                null,
+                null,
+                null
+              ],
+              "113": [
+                1.0474,
+                0,
+                null,
+                null,
+                null
+              ],
+              "114": [
+                1.0474,
+                0,
+                null,
+                null,
+                null
+              ],
+              "115": [
+                1.0437,
+                0,
+                null,
+                null,
+                null
+              ],
+              "116": [
+                1.0392,
+                0,
+                null,
+                null,
+                null
+              ],
+              "117": [
+                1.0345,
+                0,
+                null,
+                null,
+                null
+              ],
+              "118": [
+                1.034,
+                0,
+                null,
+                null,
+                null
+              ],
+              "119": [
+                1.0388,
+                0,
+                null,
+                null,
+                null
+              ],
+              "120": [
+                1.0339,
+                0,
+                null,
+                null,
+                null
+              ],
+              "121": [
+                1.0313,
+                0,
+                null,
+                null,
+                null
+              ],
+              "122": [
+                1.028,
+                0,
+                null,
+                null,
+                null
+              ],
+              "123": [
+                1.0321,
+                0,
+                null,
+                null,
+                null
+              ],
+              "124": [
+                1.0443,
+                0,
+                null,
+                null,
+                null
+              ],
+              "125": [
+                1.0388,
+                0,
+                null,
+                null,
+                null
+              ],
+              "126": [
+                1.0364,
+                0,
+                null,
+                null,
+                null
+              ],
+              "127": [
+                1.0328,
+                0,
+                null,
+                null,
+                null
+              ],
+              "128": [
+                1.0264,
+                0,
+                null,
+                null,
+                null
+              ],
+              "129": [
+                1.0241,
+                0,
+                null,
+                null,
+                null
+              ],
+              "130": [
+                1.0232,
+                0,
+                null,
+                null,
+                null
+              ],
+              "131": [
+                1.0221,
+                0,
+                null,
+                null,
+                null
+              ],
+              "132": [
+                1.0222,
+                0,
+                null,
+                null,
+                null
+              ],
+              "133": [
+                1.0182,
+                0,
+                null,
+                null,
+                null
+              ],
+              "134": [
+                1.0204,
+                0,
+                null,
+                null,
+                null
+              ],
+              "135": [
+                1.0124,
+                0,
+                null,
+                null,
+                null
+              ],
+              "136": [
+                1.0183,
+                0,
+                null,
+                null,
+                null
+              ],
+              "137": [
+                1.0168,
+                0,
+                null,
+                null,
+                null
+              ],
+              "138": [
+                1.0201,
+                0,
+                null,
+                null,
+                null
+              ],
+              "139": [
+                1.0202,
+                0,
+                null,
+                null,
+                null
+              ],
+              "140": [
+                1.0146,
+                0,
+                null,
+                null,
+                null
+              ],
+              "141": [
+                1.041,
+                0,
+                null,
+                null,
+                null
+              ],
+              "142": [
+                1.0462,
+                0,
+                null,
+                null,
+                null
+              ],
+              "143": [
+                1.0499,
+                0,
+                null,
+                null,
+                null
+              ],
+              "144": [
+                1.0496,
+                0,
+                null,
+                null,
+                null
+              ],
+              "145": [
+                1.0698,
+                0,
+                null,
+                null,
+                null
+              ],
+              "146": [
+                1.0627,
+                0,
+                null,
+                null,
+                null
+              ],
+              "147": [
+                1.0603,
+                0,
+                null,
+                null,
+                null
+              ],
+              "148": [
+                1.068,
+                0,
+                null,
+                null,
+                null
+              ],
+              "149": [
+                1.0694,
+                0,
+                null,
+                null,
+                null
+              ],
+              "150": [
+                1.0665,
+                0,
+                null,
+                null,
+                null
+              ],
+              "151": [
+                1.0645,
+                0,
+                null,
+                null,
+                null
+              ],
+              "152": [
+                1.0761,
+                0,
+                null,
+                null,
+                null
+              ],
+              "153": [
+                1.0791,
+                0,
+                null,
+                null,
+                null
+              ],
+              "154": [
+                1.074,
+                0,
+                null,
+                null,
+                null
+              ],
+              "155": [
+                1.0705,
+                0,
+                null,
+                null,
+                null
+              ],
+              "156": [
+                1.0737,
+                0,
+                null,
+                null,
+                null
+              ],
+              "157": [
+                1.0668,
+                0,
+                null,
+                null,
+                null
+              ],
+              "158": [
+                1.0638,
+                0,
+                null,
+                null,
+                null
+              ],
+              "159": [
+                1.0667,
+                0,
+                null,
+                null,
+                null
+              ],
+              "160": [
+                1.0553,
+                0,
+                null,
+                null,
+                null
+              ],
+              "161": [
+                1.0527,
+                0,
+                null,
+                null,
+                null
+              ],
+              "162": [
+                1.0517,
+                0,
+                null,
+                null,
+                null
+              ],
+              "163": [
+                1.0517,
+                0,
+                null,
+                null,
+                null
+              ],
+              "164": [
+                1.0667,
+                0,
+                null,
+                null,
+                null
+              ],
+              "165": [
+                1.0606,
+                0,
+                null,
+                null,
+                null
+              ],
+              "166": [
+                1.0512,
+                0,
+                null,
+                null,
+                null
+              ],
+              "167": [
+                1.0433,
+                0,
+                null,
+                null,
+                null
+              ],
+              "168": [
+                1.0452,
+                0,
+                null,
+                null,
+                null
+              ],
+              "169": [
+                1.045,
+                0,
+                null,
+                null,
+                null
+              ],
+              "170": [
+                1.0454,
+                0,
+                null,
+                null,
+                null
+              ],
+              "171": [
+                1.0573,
+                0,
+                null,
+                null,
+                null
+              ],
+              "172": [
+                1.0613,
+                0,
+                null,
+                null,
+                null
+              ],
+              "173": [
+                1.0662,
+                0,
+                null,
+                null,
+                null
+              ],
+              "174": [
+                1.0682,
+                0,
+                null,
+                null,
+                null
+              ],
+              "175": [
+                1.0594,
+                0,
+                null,
+                null,
+                null
+              ],
+              "176": [
+                1.0565,
+                0,
+                null,
+                null,
+                null
+              ],
+              "177": [
+                1.0613,
+                0,
+                null,
+                null,
+                null
+              ],
+              "178": [
+                1.0592,
+                0,
+                null,
+                null,
+                null
+              ],
+              "179": [
+                1.052,
+                0,
+                null,
+                null,
+                null
+              ],
+              "180": [
+                1.0342,
+                0,
+                null,
+                null,
+                null
+              ],
+              "181": [
+                1.0362,
+                0,
+                null,
+                null,
+                null
+              ],
+              "182": [
+                1.0369,
+                0,
+                null,
+                null,
+                null
+              ],
+              "183": [
+                1.0372,
+                0,
+                null,
+                null,
+                null
+              ],
+              "184": [
+                1.0397,
+                0,
+                null,
+                null,
+                null
+              ],
+              "185": [
+                1.0406,
+                0,
+                null,
+                null,
+                null
+              ],
+              "186": [
+                1.0388,
+                0,
+                null,
+                null,
+                null
+              ],
+              "187": [
+                1.0509,
+                0,
+                null,
+                null,
+                null
+              ],
+              "188": [
+                1.043,
+                0,
+                null,
+                null,
+                null
+              ],
+              "189": [
+                1.0476,
+                0,
+                null,
+                null,
+                null
+              ],
+              "190": [
+                1.0414,
+                0,
+                null,
+                null,
+                null
+              ],
+              "191": [
+                1.0483,
+                0,
+                null,
+                null,
+                null
+              ],
+              "192": [
+                1.0563,
+                0,
+                null,
+                null,
+                null
+              ],
+              "193": [
+                1.0665,
+                0,
+                null,
+                null,
+                null
+              ],
+              "194": [
+                1.0728,
+                0,
+                null,
+                null,
+                null
+              ],
+              "195": [
+                1.0719,
+                0,
+                null,
+                null,
+                null
+              ],
+              "196": [
+                1.0686,
+                0,
+                null,
+                null,
+                null
+              ],
+              "197": [
+                1.0737,
+                0,
+                null,
+                null,
+                null
+              ],
+              "198": [
+                1.0729,
+                0,
+                null,
+                null,
+                null
+              ],
+              "199": [
+                1.0657,
+                0,
+                null,
+                null,
+                null
+              ],
+              "200": [
+                1.0631,
+                0,
+                null,
+                null,
+                null
+              ],
+              "201": [
+                1.0668,
+                0,
+                null,
+                null,
+                null
+              ],
+              "202": [
+                1.0778,
+                0,
+                null,
+                null,
+                null
+              ],
+              "203": [
+                1.0758,
+                0,
+                null,
+                null,
+                null
+              ],
+              "204": [
+                1.0869,
+                0,
+                null,
+                null,
+                null
+              ],
+              "205": [
+                1.0868,
+                0,
+                null,
+                null,
+                null
+              ],
+              "206": [
+                1.0818,
+                0,
+                null,
+                null,
+                null
+              ],
+              "207": [
+                1.0777,
+                0,
+                null,
+                null,
+                null
+              ],
+              "208": [
+                1.0797,
+                0,
+                null,
+                null,
+                null
+              ],
+              "209": [
+                1.0758,
+                0,
+                null,
+                null,
+                null
+              ],
+              "210": [
+                1.0683,
+                0,
+                null,
+                null,
+                null
+              ],
+              "211": [
+                1.0633,
+                0,
+                null,
+                null,
+                null
+              ],
+              "212": [
+                1.0552,
+                0,
+                null,
+                null,
+                null
+              ],
+              "213": [
+                1.0534,
+                0,
+                null,
+                null,
+                null
+              ],
+              "214": [
+                1.0453,
+                0,
+                null,
+                null,
+                null
+              ],
+              "215": [
+                1.0572,
+                0,
+                null,
+                null,
+                null
+              ],
+              "216": [
+                1.0507,
+                0,
+                null,
+                null,
+                null
+              ],
+              "217": [
+                1.0491,
+                0,
+                null,
+                null,
+                null
+              ],
+              "218": [
+                1.0504,
+                0,
+                null,
+                null,
+                null
+              ],
+              "219": [
+                1.0408,
+                0,
+                null,
+                null,
+                null
+              ],
+              "220": [
+                1.0405,
+                0,
+                null,
+                null,
+                null
+              ],
+              "221": [
+                1.0424,
+                0,
+                null,
+                null,
+                null
+              ],
+              "222": [
+                1.0402,
+                0,
+                null,
+                null,
+                null
+              ],
+              "223": [
+                1.0406,
+                0,
+                null,
+                null,
+                null
+              ],
+              "224": [
+                1.0308,
+                0,
+                null,
+                null,
+                null
+              ],
+              "225": [
+                1.0301,
+                0,
+                null,
+                null,
+                null
+              ],
+              "226": [
+                1.0336,
+                0,
+                null,
+                null,
+                null
+              ],
+              "227": [
+                1.0408,
+                0,
+                null,
+                null,
+                null
+              ],
+              "228": [
+                1.038,
+                0,
+                null,
+                null,
+                null
+              ],
+              "229": [
+                1.0279,
+                0,
+                null,
+                null,
+                null
+              ],
+              "230": [
+                1.0311,
+                0,
+                null,
+                null,
+                null
+              ],
+              "231": [
+                1.0315,
+                0,
+                null,
+                null,
+                null
+              ],
+              "232": [
+                1.0215,
+                0,
+                null,
+                null,
+                null
+              ],
+              "233": [
+                1.0194,
+                0,
+                null,
+                null,
+                null
+              ],
+              "234": [
+                1.0101,
+                0,
+                null,
+                null,
+                null
+              ],
+              "235": [
+                1.0077,
+                0,
+                null,
+                null,
+                null
+              ],
+              "236": [
+                1.0097,
+                0,
+                null,
+                null,
+                null
+              ],
+              "237": [
+                1.0091,
+                0,
+                null,
+                null,
+                null
+              ],
+              "238": [
+                1.0057,
+                0,
+                null,
+                null,
+                null
+              ],
+              "239": [
+                1.0015,
+                0,
+                null,
+                null,
+                null
+              ],
+              "240": [
+                1.0182,
+                0,
+                null,
+                null,
+                null
+              ],
+              "241": [
+                1.0239,
+                0,
+                null,
+                null,
+                null
+              ],
+              "242": [
+                1.0236,
+                0,
+                null,
+                null,
+                null
+              ],
+              "243": [
+                1.0175,
+                0,
+                null,
+                null,
+                null
+              ],
+              "244": [
+                1.0141,
+                0,
+                null,
+                null,
+                null
+              ],
+              "245": [
+                1.0128,
+                0,
+                null,
+                null,
+                null
+              ],
+              "246": [
+                1.0038,
+                0,
+                null,
+                null,
+                null
+              ],
+              "247": [
+                1.0021,
+                0,
+                null,
+                null,
+                null
+              ],
+              "248": [
+                1.0146,
+                0,
+                null,
+                null,
+                null
+              ],
+              "249": [
+                1.0128,
+                0,
+                null,
+                null,
+                null
+              ],
+              "250": [
+                1.0096,
+                0,
+                null,
+                null,
+                null
+              ],
+              "251": [
+                1.0084,
+                0,
+                null,
+                null,
+                null
+              ],
+              "252": [
+                1.0074,
+                0,
+                null,
+                null,
+                null
+              ],
+              "253": [
+                1.0089,
+                0,
+                null,
+                null,
+                null
+              ],
+              "254": [
+                1.0142,
+                0,
+                null,
+                null,
+                null
+              ],
+              "255": [
+                1.0134,
+                0,
+                null,
+                null,
+                null
+              ],
+              "256": [
+                1.0089,
+                0,
+                null,
+                null,
+                null
+              ],
+              "257": [
+                1.0072,
+                0,
+                null,
+                null,
+                null
+              ],
+              "258": [
+                1.0046,
+                0,
+                null,
+                null,
+                null
+              ],
+              "259": [
+                null,
+                1,
+                null,
+                null,
+                null
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "structure": {
+      "links": [
+        {
+          "title": "Exchange Rates",
+          "rel": "dataflow",
+          "href": "http://data-api.ecb.europa.eu:80/service/dataflow/ECB/EXR/1.0"
+        }
+      ],
+      "name": "Exchange Rates",
+      "dimensions": {
+        "series": [
+          {
+            "id": "FREQ",
+            "name": "Frequency",
+            "values": [
+              {
+                "id": "D",
+                "name": "Daily"
+              }
+            ]
+          },
+          {
+            "id": "CURRENCY",
+            "name": "Currency",
+            "values": [
+              {
+                "id": "USD",
+                "name": "US dollar"
+              }
+            ]
+          },
+          {
+            "id": "CURRENCY_DENOM",
+            "name": "Currency denominator",
+            "values": [
+              {
+                "id": "EUR",
+                "name": "Euro"
+              }
+            ]
+          },
+          {
+            "id": "EXR_TYPE",
+            "name": "Exchange rate type",
+            "values": [
+              {
+                "id": "SP00",
+                "name": "Spot"
+              }
+            ]
+          },
+          {
+            "id": "EXR_SUFFIX",
+            "name": "Series variation - EXR context",
+            "values": [
+              {
+                "id": "A",
+                "name": "Average"
+              }
+            ]
+          }
+        ],
+        "observation": [
+          {
+            "id": "TIME_PERIOD",
+            "name": "Time period or range",
+            "role": "time",
+            "values": [
+              {
+                "id": "1999-01-04",
+                "name": "1999-01-04",
+                "start": "1999-01-04T00:00:00.000+01:00",
+                "end": "1999-01-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-05",
+                "name": "1999-01-05",
+                "start": "1999-01-05T00:00:00.000+01:00",
+                "end": "1999-01-05T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-06",
+                "name": "1999-01-06",
+                "start": "1999-01-06T00:00:00.000+01:00",
+                "end": "1999-01-06T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-07",
+                "name": "1999-01-07",
+                "start": "1999-01-07T00:00:00.000+01:00",
+                "end": "1999-01-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-08",
+                "name": "1999-01-08",
+                "start": "1999-01-08T00:00:00.000+01:00",
+                "end": "1999-01-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-11",
+                "name": "1999-01-11",
+                "start": "1999-01-11T00:00:00.000+01:00",
+                "end": "1999-01-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-12",
+                "name": "1999-01-12",
+                "start": "1999-01-12T00:00:00.000+01:00",
+                "end": "1999-01-12T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-13",
+                "name": "1999-01-13",
+                "start": "1999-01-13T00:00:00.000+01:00",
+                "end": "1999-01-13T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-14",
+                "name": "1999-01-14",
+                "start": "1999-01-14T00:00:00.000+01:00",
+                "end": "1999-01-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-15",
+                "name": "1999-01-15",
+                "start": "1999-01-15T00:00:00.000+01:00",
+                "end": "1999-01-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-18",
+                "name": "1999-01-18",
+                "start": "1999-01-18T00:00:00.000+01:00",
+                "end": "1999-01-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-19",
+                "name": "1999-01-19",
+                "start": "1999-01-19T00:00:00.000+01:00",
+                "end": "1999-01-19T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-20",
+                "name": "1999-01-20",
+                "start": "1999-01-20T00:00:00.000+01:00",
+                "end": "1999-01-20T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-21",
+                "name": "1999-01-21",
+                "start": "1999-01-21T00:00:00.000+01:00",
+                "end": "1999-01-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-22",
+                "name": "1999-01-22",
+                "start": "1999-01-22T00:00:00.000+01:00",
+                "end": "1999-01-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-25",
+                "name": "1999-01-25",
+                "start": "1999-01-25T00:00:00.000+01:00",
+                "end": "1999-01-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-26",
+                "name": "1999-01-26",
+                "start": "1999-01-26T00:00:00.000+01:00",
+                "end": "1999-01-26T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-27",
+                "name": "1999-01-27",
+                "start": "1999-01-27T00:00:00.000+01:00",
+                "end": "1999-01-27T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-28",
+                "name": "1999-01-28",
+                "start": "1999-01-28T00:00:00.000+01:00",
+                "end": "1999-01-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-01-29",
+                "name": "1999-01-29",
+                "start": "1999-01-29T00:00:00.000+01:00",
+                "end": "1999-01-29T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-01",
+                "name": "1999-02-01",
+                "start": "1999-02-01T00:00:00.000+01:00",
+                "end": "1999-02-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-02",
+                "name": "1999-02-02",
+                "start": "1999-02-02T00:00:00.000+01:00",
+                "end": "1999-02-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-03",
+                "name": "1999-02-03",
+                "start": "1999-02-03T00:00:00.000+01:00",
+                "end": "1999-02-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-04",
+                "name": "1999-02-04",
+                "start": "1999-02-04T00:00:00.000+01:00",
+                "end": "1999-02-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-05",
+                "name": "1999-02-05",
+                "start": "1999-02-05T00:00:00.000+01:00",
+                "end": "1999-02-05T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-08",
+                "name": "1999-02-08",
+                "start": "1999-02-08T00:00:00.000+01:00",
+                "end": "1999-02-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-09",
+                "name": "1999-02-09",
+                "start": "1999-02-09T00:00:00.000+01:00",
+                "end": "1999-02-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-10",
+                "name": "1999-02-10",
+                "start": "1999-02-10T00:00:00.000+01:00",
+                "end": "1999-02-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-11",
+                "name": "1999-02-11",
+                "start": "1999-02-11T00:00:00.000+01:00",
+                "end": "1999-02-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-12",
+                "name": "1999-02-12",
+                "start": "1999-02-12T00:00:00.000+01:00",
+                "end": "1999-02-12T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-15",
+                "name": "1999-02-15",
+                "start": "1999-02-15T00:00:00.000+01:00",
+                "end": "1999-02-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-16",
+                "name": "1999-02-16",
+                "start": "1999-02-16T00:00:00.000+01:00",
+                "end": "1999-02-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-17",
+                "name": "1999-02-17",
+                "start": "1999-02-17T00:00:00.000+01:00",
+                "end": "1999-02-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-18",
+                "name": "1999-02-18",
+                "start": "1999-02-18T00:00:00.000+01:00",
+                "end": "1999-02-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-19",
+                "name": "1999-02-19",
+                "start": "1999-02-19T00:00:00.000+01:00",
+                "end": "1999-02-19T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-22",
+                "name": "1999-02-22",
+                "start": "1999-02-22T00:00:00.000+01:00",
+                "end": "1999-02-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-23",
+                "name": "1999-02-23",
+                "start": "1999-02-23T00:00:00.000+01:00",
+                "end": "1999-02-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-24",
+                "name": "1999-02-24",
+                "start": "1999-02-24T00:00:00.000+01:00",
+                "end": "1999-02-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-25",
+                "name": "1999-02-25",
+                "start": "1999-02-25T00:00:00.000+01:00",
+                "end": "1999-02-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-02-26",
+                "name": "1999-02-26",
+                "start": "1999-02-26T00:00:00.000+01:00",
+                "end": "1999-02-26T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-01",
+                "name": "1999-03-01",
+                "start": "1999-03-01T00:00:00.000+01:00",
+                "end": "1999-03-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-02",
+                "name": "1999-03-02",
+                "start": "1999-03-02T00:00:00.000+01:00",
+                "end": "1999-03-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-03",
+                "name": "1999-03-03",
+                "start": "1999-03-03T00:00:00.000+01:00",
+                "end": "1999-03-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-04",
+                "name": "1999-03-04",
+                "start": "1999-03-04T00:00:00.000+01:00",
+                "end": "1999-03-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-05",
+                "name": "1999-03-05",
+                "start": "1999-03-05T00:00:00.000+01:00",
+                "end": "1999-03-05T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-08",
+                "name": "1999-03-08",
+                "start": "1999-03-08T00:00:00.000+01:00",
+                "end": "1999-03-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-09",
+                "name": "1999-03-09",
+                "start": "1999-03-09T00:00:00.000+01:00",
+                "end": "1999-03-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-10",
+                "name": "1999-03-10",
+                "start": "1999-03-10T00:00:00.000+01:00",
+                "end": "1999-03-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-11",
+                "name": "1999-03-11",
+                "start": "1999-03-11T00:00:00.000+01:00",
+                "end": "1999-03-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-12",
+                "name": "1999-03-12",
+                "start": "1999-03-12T00:00:00.000+01:00",
+                "end": "1999-03-12T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-15",
+                "name": "1999-03-15",
+                "start": "1999-03-15T00:00:00.000+01:00",
+                "end": "1999-03-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-16",
+                "name": "1999-03-16",
+                "start": "1999-03-16T00:00:00.000+01:00",
+                "end": "1999-03-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-17",
+                "name": "1999-03-17",
+                "start": "1999-03-17T00:00:00.000+01:00",
+                "end": "1999-03-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-18",
+                "name": "1999-03-18",
+                "start": "1999-03-18T00:00:00.000+01:00",
+                "end": "1999-03-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-19",
+                "name": "1999-03-19",
+                "start": "1999-03-19T00:00:00.000+01:00",
+                "end": "1999-03-19T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-22",
+                "name": "1999-03-22",
+                "start": "1999-03-22T00:00:00.000+01:00",
+                "end": "1999-03-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-23",
+                "name": "1999-03-23",
+                "start": "1999-03-23T00:00:00.000+01:00",
+                "end": "1999-03-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-24",
+                "name": "1999-03-24",
+                "start": "1999-03-24T00:00:00.000+01:00",
+                "end": "1999-03-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-25",
+                "name": "1999-03-25",
+                "start": "1999-03-25T00:00:00.000+01:00",
+                "end": "1999-03-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-26",
+                "name": "1999-03-26",
+                "start": "1999-03-26T00:00:00.000+01:00",
+                "end": "1999-03-26T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-03-29",
+                "name": "1999-03-29",
+                "start": "1999-03-29T00:00:00.000+02:00",
+                "end": "1999-03-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-03-30",
+                "name": "1999-03-30",
+                "start": "1999-03-30T00:00:00.000+02:00",
+                "end": "1999-03-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-03-31",
+                "name": "1999-03-31",
+                "start": "1999-03-31T00:00:00.000+02:00",
+                "end": "1999-03-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-01",
+                "name": "1999-04-01",
+                "start": "1999-04-01T00:00:00.000+02:00",
+                "end": "1999-04-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-02",
+                "name": "1999-04-02",
+                "start": "1999-04-02T00:00:00.000+02:00",
+                "end": "1999-04-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-05",
+                "name": "1999-04-05",
+                "start": "1999-04-05T00:00:00.000+02:00",
+                "end": "1999-04-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-06",
+                "name": "1999-04-06",
+                "start": "1999-04-06T00:00:00.000+02:00",
+                "end": "1999-04-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-07",
+                "name": "1999-04-07",
+                "start": "1999-04-07T00:00:00.000+02:00",
+                "end": "1999-04-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-08",
+                "name": "1999-04-08",
+                "start": "1999-04-08T00:00:00.000+02:00",
+                "end": "1999-04-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-09",
+                "name": "1999-04-09",
+                "start": "1999-04-09T00:00:00.000+02:00",
+                "end": "1999-04-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-12",
+                "name": "1999-04-12",
+                "start": "1999-04-12T00:00:00.000+02:00",
+                "end": "1999-04-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-13",
+                "name": "1999-04-13",
+                "start": "1999-04-13T00:00:00.000+02:00",
+                "end": "1999-04-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-14",
+                "name": "1999-04-14",
+                "start": "1999-04-14T00:00:00.000+02:00",
+                "end": "1999-04-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-15",
+                "name": "1999-04-15",
+                "start": "1999-04-15T00:00:00.000+02:00",
+                "end": "1999-04-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-16",
+                "name": "1999-04-16",
+                "start": "1999-04-16T00:00:00.000+02:00",
+                "end": "1999-04-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-19",
+                "name": "1999-04-19",
+                "start": "1999-04-19T00:00:00.000+02:00",
+                "end": "1999-04-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-20",
+                "name": "1999-04-20",
+                "start": "1999-04-20T00:00:00.000+02:00",
+                "end": "1999-04-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-21",
+                "name": "1999-04-21",
+                "start": "1999-04-21T00:00:00.000+02:00",
+                "end": "1999-04-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-22",
+                "name": "1999-04-22",
+                "start": "1999-04-22T00:00:00.000+02:00",
+                "end": "1999-04-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-23",
+                "name": "1999-04-23",
+                "start": "1999-04-23T00:00:00.000+02:00",
+                "end": "1999-04-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-26",
+                "name": "1999-04-26",
+                "start": "1999-04-26T00:00:00.000+02:00",
+                "end": "1999-04-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-27",
+                "name": "1999-04-27",
+                "start": "1999-04-27T00:00:00.000+02:00",
+                "end": "1999-04-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-28",
+                "name": "1999-04-28",
+                "start": "1999-04-28T00:00:00.000+02:00",
+                "end": "1999-04-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-29",
+                "name": "1999-04-29",
+                "start": "1999-04-29T00:00:00.000+02:00",
+                "end": "1999-04-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-04-30",
+                "name": "1999-04-30",
+                "start": "1999-04-30T00:00:00.000+02:00",
+                "end": "1999-04-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-03",
+                "name": "1999-05-03",
+                "start": "1999-05-03T00:00:00.000+02:00",
+                "end": "1999-05-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-04",
+                "name": "1999-05-04",
+                "start": "1999-05-04T00:00:00.000+02:00",
+                "end": "1999-05-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-05",
+                "name": "1999-05-05",
+                "start": "1999-05-05T00:00:00.000+02:00",
+                "end": "1999-05-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-06",
+                "name": "1999-05-06",
+                "start": "1999-05-06T00:00:00.000+02:00",
+                "end": "1999-05-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-07",
+                "name": "1999-05-07",
+                "start": "1999-05-07T00:00:00.000+02:00",
+                "end": "1999-05-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-10",
+                "name": "1999-05-10",
+                "start": "1999-05-10T00:00:00.000+02:00",
+                "end": "1999-05-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-11",
+                "name": "1999-05-11",
+                "start": "1999-05-11T00:00:00.000+02:00",
+                "end": "1999-05-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-12",
+                "name": "1999-05-12",
+                "start": "1999-05-12T00:00:00.000+02:00",
+                "end": "1999-05-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-13",
+                "name": "1999-05-13",
+                "start": "1999-05-13T00:00:00.000+02:00",
+                "end": "1999-05-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-14",
+                "name": "1999-05-14",
+                "start": "1999-05-14T00:00:00.000+02:00",
+                "end": "1999-05-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-17",
+                "name": "1999-05-17",
+                "start": "1999-05-17T00:00:00.000+02:00",
+                "end": "1999-05-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-18",
+                "name": "1999-05-18",
+                "start": "1999-05-18T00:00:00.000+02:00",
+                "end": "1999-05-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-19",
+                "name": "1999-05-19",
+                "start": "1999-05-19T00:00:00.000+02:00",
+                "end": "1999-05-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-20",
+                "name": "1999-05-20",
+                "start": "1999-05-20T00:00:00.000+02:00",
+                "end": "1999-05-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-21",
+                "name": "1999-05-21",
+                "start": "1999-05-21T00:00:00.000+02:00",
+                "end": "1999-05-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-24",
+                "name": "1999-05-24",
+                "start": "1999-05-24T00:00:00.000+02:00",
+                "end": "1999-05-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-25",
+                "name": "1999-05-25",
+                "start": "1999-05-25T00:00:00.000+02:00",
+                "end": "1999-05-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-26",
+                "name": "1999-05-26",
+                "start": "1999-05-26T00:00:00.000+02:00",
+                "end": "1999-05-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-27",
+                "name": "1999-05-27",
+                "start": "1999-05-27T00:00:00.000+02:00",
+                "end": "1999-05-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-28",
+                "name": "1999-05-28",
+                "start": "1999-05-28T00:00:00.000+02:00",
+                "end": "1999-05-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-05-31",
+                "name": "1999-05-31",
+                "start": "1999-05-31T00:00:00.000+02:00",
+                "end": "1999-05-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-01",
+                "name": "1999-06-01",
+                "start": "1999-06-01T00:00:00.000+02:00",
+                "end": "1999-06-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-02",
+                "name": "1999-06-02",
+                "start": "1999-06-02T00:00:00.000+02:00",
+                "end": "1999-06-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-03",
+                "name": "1999-06-03",
+                "start": "1999-06-03T00:00:00.000+02:00",
+                "end": "1999-06-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-04",
+                "name": "1999-06-04",
+                "start": "1999-06-04T00:00:00.000+02:00",
+                "end": "1999-06-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-07",
+                "name": "1999-06-07",
+                "start": "1999-06-07T00:00:00.000+02:00",
+                "end": "1999-06-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-08",
+                "name": "1999-06-08",
+                "start": "1999-06-08T00:00:00.000+02:00",
+                "end": "1999-06-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-09",
+                "name": "1999-06-09",
+                "start": "1999-06-09T00:00:00.000+02:00",
+                "end": "1999-06-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-10",
+                "name": "1999-06-10",
+                "start": "1999-06-10T00:00:00.000+02:00",
+                "end": "1999-06-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-11",
+                "name": "1999-06-11",
+                "start": "1999-06-11T00:00:00.000+02:00",
+                "end": "1999-06-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-14",
+                "name": "1999-06-14",
+                "start": "1999-06-14T00:00:00.000+02:00",
+                "end": "1999-06-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-15",
+                "name": "1999-06-15",
+                "start": "1999-06-15T00:00:00.000+02:00",
+                "end": "1999-06-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-16",
+                "name": "1999-06-16",
+                "start": "1999-06-16T00:00:00.000+02:00",
+                "end": "1999-06-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-17",
+                "name": "1999-06-17",
+                "start": "1999-06-17T00:00:00.000+02:00",
+                "end": "1999-06-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-18",
+                "name": "1999-06-18",
+                "start": "1999-06-18T00:00:00.000+02:00",
+                "end": "1999-06-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-21",
+                "name": "1999-06-21",
+                "start": "1999-06-21T00:00:00.000+02:00",
+                "end": "1999-06-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-22",
+                "name": "1999-06-22",
+                "start": "1999-06-22T00:00:00.000+02:00",
+                "end": "1999-06-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-23",
+                "name": "1999-06-23",
+                "start": "1999-06-23T00:00:00.000+02:00",
+                "end": "1999-06-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-24",
+                "name": "1999-06-24",
+                "start": "1999-06-24T00:00:00.000+02:00",
+                "end": "1999-06-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-25",
+                "name": "1999-06-25",
+                "start": "1999-06-25T00:00:00.000+02:00",
+                "end": "1999-06-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-28",
+                "name": "1999-06-28",
+                "start": "1999-06-28T00:00:00.000+02:00",
+                "end": "1999-06-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-29",
+                "name": "1999-06-29",
+                "start": "1999-06-29T00:00:00.000+02:00",
+                "end": "1999-06-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-06-30",
+                "name": "1999-06-30",
+                "start": "1999-06-30T00:00:00.000+02:00",
+                "end": "1999-06-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-01",
+                "name": "1999-07-01",
+                "start": "1999-07-01T00:00:00.000+02:00",
+                "end": "1999-07-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-02",
+                "name": "1999-07-02",
+                "start": "1999-07-02T00:00:00.000+02:00",
+                "end": "1999-07-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-05",
+                "name": "1999-07-05",
+                "start": "1999-07-05T00:00:00.000+02:00",
+                "end": "1999-07-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-06",
+                "name": "1999-07-06",
+                "start": "1999-07-06T00:00:00.000+02:00",
+                "end": "1999-07-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-07",
+                "name": "1999-07-07",
+                "start": "1999-07-07T00:00:00.000+02:00",
+                "end": "1999-07-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-08",
+                "name": "1999-07-08",
+                "start": "1999-07-08T00:00:00.000+02:00",
+                "end": "1999-07-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-09",
+                "name": "1999-07-09",
+                "start": "1999-07-09T00:00:00.000+02:00",
+                "end": "1999-07-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-12",
+                "name": "1999-07-12",
+                "start": "1999-07-12T00:00:00.000+02:00",
+                "end": "1999-07-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-13",
+                "name": "1999-07-13",
+                "start": "1999-07-13T00:00:00.000+02:00",
+                "end": "1999-07-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-14",
+                "name": "1999-07-14",
+                "start": "1999-07-14T00:00:00.000+02:00",
+                "end": "1999-07-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-15",
+                "name": "1999-07-15",
+                "start": "1999-07-15T00:00:00.000+02:00",
+                "end": "1999-07-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-16",
+                "name": "1999-07-16",
+                "start": "1999-07-16T00:00:00.000+02:00",
+                "end": "1999-07-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-19",
+                "name": "1999-07-19",
+                "start": "1999-07-19T00:00:00.000+02:00",
+                "end": "1999-07-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-20",
+                "name": "1999-07-20",
+                "start": "1999-07-20T00:00:00.000+02:00",
+                "end": "1999-07-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-21",
+                "name": "1999-07-21",
+                "start": "1999-07-21T00:00:00.000+02:00",
+                "end": "1999-07-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-22",
+                "name": "1999-07-22",
+                "start": "1999-07-22T00:00:00.000+02:00",
+                "end": "1999-07-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-23",
+                "name": "1999-07-23",
+                "start": "1999-07-23T00:00:00.000+02:00",
+                "end": "1999-07-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-26",
+                "name": "1999-07-26",
+                "start": "1999-07-26T00:00:00.000+02:00",
+                "end": "1999-07-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-27",
+                "name": "1999-07-27",
+                "start": "1999-07-27T00:00:00.000+02:00",
+                "end": "1999-07-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-28",
+                "name": "1999-07-28",
+                "start": "1999-07-28T00:00:00.000+02:00",
+                "end": "1999-07-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-29",
+                "name": "1999-07-29",
+                "start": "1999-07-29T00:00:00.000+02:00",
+                "end": "1999-07-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-07-30",
+                "name": "1999-07-30",
+                "start": "1999-07-30T00:00:00.000+02:00",
+                "end": "1999-07-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-02",
+                "name": "1999-08-02",
+                "start": "1999-08-02T00:00:00.000+02:00",
+                "end": "1999-08-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-03",
+                "name": "1999-08-03",
+                "start": "1999-08-03T00:00:00.000+02:00",
+                "end": "1999-08-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-04",
+                "name": "1999-08-04",
+                "start": "1999-08-04T00:00:00.000+02:00",
+                "end": "1999-08-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-05",
+                "name": "1999-08-05",
+                "start": "1999-08-05T00:00:00.000+02:00",
+                "end": "1999-08-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-06",
+                "name": "1999-08-06",
+                "start": "1999-08-06T00:00:00.000+02:00",
+                "end": "1999-08-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-09",
+                "name": "1999-08-09",
+                "start": "1999-08-09T00:00:00.000+02:00",
+                "end": "1999-08-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-10",
+                "name": "1999-08-10",
+                "start": "1999-08-10T00:00:00.000+02:00",
+                "end": "1999-08-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-11",
+                "name": "1999-08-11",
+                "start": "1999-08-11T00:00:00.000+02:00",
+                "end": "1999-08-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-12",
+                "name": "1999-08-12",
+                "start": "1999-08-12T00:00:00.000+02:00",
+                "end": "1999-08-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-13",
+                "name": "1999-08-13",
+                "start": "1999-08-13T00:00:00.000+02:00",
+                "end": "1999-08-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-16",
+                "name": "1999-08-16",
+                "start": "1999-08-16T00:00:00.000+02:00",
+                "end": "1999-08-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-17",
+                "name": "1999-08-17",
+                "start": "1999-08-17T00:00:00.000+02:00",
+                "end": "1999-08-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-18",
+                "name": "1999-08-18",
+                "start": "1999-08-18T00:00:00.000+02:00",
+                "end": "1999-08-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-19",
+                "name": "1999-08-19",
+                "start": "1999-08-19T00:00:00.000+02:00",
+                "end": "1999-08-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-20",
+                "name": "1999-08-20",
+                "start": "1999-08-20T00:00:00.000+02:00",
+                "end": "1999-08-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-23",
+                "name": "1999-08-23",
+                "start": "1999-08-23T00:00:00.000+02:00",
+                "end": "1999-08-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-24",
+                "name": "1999-08-24",
+                "start": "1999-08-24T00:00:00.000+02:00",
+                "end": "1999-08-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-25",
+                "name": "1999-08-25",
+                "start": "1999-08-25T00:00:00.000+02:00",
+                "end": "1999-08-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-26",
+                "name": "1999-08-26",
+                "start": "1999-08-26T00:00:00.000+02:00",
+                "end": "1999-08-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-27",
+                "name": "1999-08-27",
+                "start": "1999-08-27T00:00:00.000+02:00",
+                "end": "1999-08-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-30",
+                "name": "1999-08-30",
+                "start": "1999-08-30T00:00:00.000+02:00",
+                "end": "1999-08-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-08-31",
+                "name": "1999-08-31",
+                "start": "1999-08-31T00:00:00.000+02:00",
+                "end": "1999-08-31T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-01",
+                "name": "1999-09-01",
+                "start": "1999-09-01T00:00:00.000+02:00",
+                "end": "1999-09-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-02",
+                "name": "1999-09-02",
+                "start": "1999-09-02T00:00:00.000+02:00",
+                "end": "1999-09-02T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-03",
+                "name": "1999-09-03",
+                "start": "1999-09-03T00:00:00.000+02:00",
+                "end": "1999-09-03T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-06",
+                "name": "1999-09-06",
+                "start": "1999-09-06T00:00:00.000+02:00",
+                "end": "1999-09-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-07",
+                "name": "1999-09-07",
+                "start": "1999-09-07T00:00:00.000+02:00",
+                "end": "1999-09-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-08",
+                "name": "1999-09-08",
+                "start": "1999-09-08T00:00:00.000+02:00",
+                "end": "1999-09-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-09",
+                "name": "1999-09-09",
+                "start": "1999-09-09T00:00:00.000+02:00",
+                "end": "1999-09-09T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-10",
+                "name": "1999-09-10",
+                "start": "1999-09-10T00:00:00.000+02:00",
+                "end": "1999-09-10T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-13",
+                "name": "1999-09-13",
+                "start": "1999-09-13T00:00:00.000+02:00",
+                "end": "1999-09-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-14",
+                "name": "1999-09-14",
+                "start": "1999-09-14T00:00:00.000+02:00",
+                "end": "1999-09-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-15",
+                "name": "1999-09-15",
+                "start": "1999-09-15T00:00:00.000+02:00",
+                "end": "1999-09-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-16",
+                "name": "1999-09-16",
+                "start": "1999-09-16T00:00:00.000+02:00",
+                "end": "1999-09-16T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-17",
+                "name": "1999-09-17",
+                "start": "1999-09-17T00:00:00.000+02:00",
+                "end": "1999-09-17T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-20",
+                "name": "1999-09-20",
+                "start": "1999-09-20T00:00:00.000+02:00",
+                "end": "1999-09-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-21",
+                "name": "1999-09-21",
+                "start": "1999-09-21T00:00:00.000+02:00",
+                "end": "1999-09-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-22",
+                "name": "1999-09-22",
+                "start": "1999-09-22T00:00:00.000+02:00",
+                "end": "1999-09-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-23",
+                "name": "1999-09-23",
+                "start": "1999-09-23T00:00:00.000+02:00",
+                "end": "1999-09-23T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-24",
+                "name": "1999-09-24",
+                "start": "1999-09-24T00:00:00.000+02:00",
+                "end": "1999-09-24T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-27",
+                "name": "1999-09-27",
+                "start": "1999-09-27T00:00:00.000+02:00",
+                "end": "1999-09-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-28",
+                "name": "1999-09-28",
+                "start": "1999-09-28T00:00:00.000+02:00",
+                "end": "1999-09-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-29",
+                "name": "1999-09-29",
+                "start": "1999-09-29T00:00:00.000+02:00",
+                "end": "1999-09-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-09-30",
+                "name": "1999-09-30",
+                "start": "1999-09-30T00:00:00.000+02:00",
+                "end": "1999-09-30T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-01",
+                "name": "1999-10-01",
+                "start": "1999-10-01T00:00:00.000+02:00",
+                "end": "1999-10-01T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-04",
+                "name": "1999-10-04",
+                "start": "1999-10-04T00:00:00.000+02:00",
+                "end": "1999-10-04T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-05",
+                "name": "1999-10-05",
+                "start": "1999-10-05T00:00:00.000+02:00",
+                "end": "1999-10-05T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-06",
+                "name": "1999-10-06",
+                "start": "1999-10-06T00:00:00.000+02:00",
+                "end": "1999-10-06T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-07",
+                "name": "1999-10-07",
+                "start": "1999-10-07T00:00:00.000+02:00",
+                "end": "1999-10-07T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-08",
+                "name": "1999-10-08",
+                "start": "1999-10-08T00:00:00.000+02:00",
+                "end": "1999-10-08T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-11",
+                "name": "1999-10-11",
+                "start": "1999-10-11T00:00:00.000+02:00",
+                "end": "1999-10-11T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-12",
+                "name": "1999-10-12",
+                "start": "1999-10-12T00:00:00.000+02:00",
+                "end": "1999-10-12T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-13",
+                "name": "1999-10-13",
+                "start": "1999-10-13T00:00:00.000+02:00",
+                "end": "1999-10-13T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-14",
+                "name": "1999-10-14",
+                "start": "1999-10-14T00:00:00.000+02:00",
+                "end": "1999-10-14T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-15",
+                "name": "1999-10-15",
+                "start": "1999-10-15T00:00:00.000+02:00",
+                "end": "1999-10-15T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-18",
+                "name": "1999-10-18",
+                "start": "1999-10-18T00:00:00.000+02:00",
+                "end": "1999-10-18T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-19",
+                "name": "1999-10-19",
+                "start": "1999-10-19T00:00:00.000+02:00",
+                "end": "1999-10-19T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-20",
+                "name": "1999-10-20",
+                "start": "1999-10-20T00:00:00.000+02:00",
+                "end": "1999-10-20T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-21",
+                "name": "1999-10-21",
+                "start": "1999-10-21T00:00:00.000+02:00",
+                "end": "1999-10-21T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-22",
+                "name": "1999-10-22",
+                "start": "1999-10-22T00:00:00.000+02:00",
+                "end": "1999-10-22T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-25",
+                "name": "1999-10-25",
+                "start": "1999-10-25T00:00:00.000+02:00",
+                "end": "1999-10-25T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-26",
+                "name": "1999-10-26",
+                "start": "1999-10-26T00:00:00.000+02:00",
+                "end": "1999-10-26T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-27",
+                "name": "1999-10-27",
+                "start": "1999-10-27T00:00:00.000+02:00",
+                "end": "1999-10-27T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-28",
+                "name": "1999-10-28",
+                "start": "1999-10-28T00:00:00.000+02:00",
+                "end": "1999-10-28T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-10-29",
+                "name": "1999-10-29",
+                "start": "1999-10-29T00:00:00.000+02:00",
+                "end": "1999-10-29T23:59:59.999+02:00"
+              },
+              {
+                "id": "1999-11-01",
+                "name": "1999-11-01",
+                "start": "1999-11-01T00:00:00.000+01:00",
+                "end": "1999-11-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-02",
+                "name": "1999-11-02",
+                "start": "1999-11-02T00:00:00.000+01:00",
+                "end": "1999-11-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-03",
+                "name": "1999-11-03",
+                "start": "1999-11-03T00:00:00.000+01:00",
+                "end": "1999-11-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-04",
+                "name": "1999-11-04",
+                "start": "1999-11-04T00:00:00.000+01:00",
+                "end": "1999-11-04T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-05",
+                "name": "1999-11-05",
+                "start": "1999-11-05T00:00:00.000+01:00",
+                "end": "1999-11-05T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-08",
+                "name": "1999-11-08",
+                "start": "1999-11-08T00:00:00.000+01:00",
+                "end": "1999-11-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-09",
+                "name": "1999-11-09",
+                "start": "1999-11-09T00:00:00.000+01:00",
+                "end": "1999-11-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-10",
+                "name": "1999-11-10",
+                "start": "1999-11-10T00:00:00.000+01:00",
+                "end": "1999-11-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-11",
+                "name": "1999-11-11",
+                "start": "1999-11-11T00:00:00.000+01:00",
+                "end": "1999-11-11T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-12",
+                "name": "1999-11-12",
+                "start": "1999-11-12T00:00:00.000+01:00",
+                "end": "1999-11-12T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-15",
+                "name": "1999-11-15",
+                "start": "1999-11-15T00:00:00.000+01:00",
+                "end": "1999-11-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-16",
+                "name": "1999-11-16",
+                "start": "1999-11-16T00:00:00.000+01:00",
+                "end": "1999-11-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-17",
+                "name": "1999-11-17",
+                "start": "1999-11-17T00:00:00.000+01:00",
+                "end": "1999-11-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-18",
+                "name": "1999-11-18",
+                "start": "1999-11-18T00:00:00.000+01:00",
+                "end": "1999-11-18T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-19",
+                "name": "1999-11-19",
+                "start": "1999-11-19T00:00:00.000+01:00",
+                "end": "1999-11-19T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-22",
+                "name": "1999-11-22",
+                "start": "1999-11-22T00:00:00.000+01:00",
+                "end": "1999-11-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-23",
+                "name": "1999-11-23",
+                "start": "1999-11-23T00:00:00.000+01:00",
+                "end": "1999-11-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-24",
+                "name": "1999-11-24",
+                "start": "1999-11-24T00:00:00.000+01:00",
+                "end": "1999-11-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-25",
+                "name": "1999-11-25",
+                "start": "1999-11-25T00:00:00.000+01:00",
+                "end": "1999-11-25T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-26",
+                "name": "1999-11-26",
+                "start": "1999-11-26T00:00:00.000+01:00",
+                "end": "1999-11-26T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-29",
+                "name": "1999-11-29",
+                "start": "1999-11-29T00:00:00.000+01:00",
+                "end": "1999-11-29T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-11-30",
+                "name": "1999-11-30",
+                "start": "1999-11-30T00:00:00.000+01:00",
+                "end": "1999-11-30T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-01",
+                "name": "1999-12-01",
+                "start": "1999-12-01T00:00:00.000+01:00",
+                "end": "1999-12-01T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-02",
+                "name": "1999-12-02",
+                "start": "1999-12-02T00:00:00.000+01:00",
+                "end": "1999-12-02T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-03",
+                "name": "1999-12-03",
+                "start": "1999-12-03T00:00:00.000+01:00",
+                "end": "1999-12-03T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-06",
+                "name": "1999-12-06",
+                "start": "1999-12-06T00:00:00.000+01:00",
+                "end": "1999-12-06T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-07",
+                "name": "1999-12-07",
+                "start": "1999-12-07T00:00:00.000+01:00",
+                "end": "1999-12-07T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-08",
+                "name": "1999-12-08",
+                "start": "1999-12-08T00:00:00.000+01:00",
+                "end": "1999-12-08T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-09",
+                "name": "1999-12-09",
+                "start": "1999-12-09T00:00:00.000+01:00",
+                "end": "1999-12-09T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-10",
+                "name": "1999-12-10",
+                "start": "1999-12-10T00:00:00.000+01:00",
+                "end": "1999-12-10T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-13",
+                "name": "1999-12-13",
+                "start": "1999-12-13T00:00:00.000+01:00",
+                "end": "1999-12-13T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-14",
+                "name": "1999-12-14",
+                "start": "1999-12-14T00:00:00.000+01:00",
+                "end": "1999-12-14T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-15",
+                "name": "1999-12-15",
+                "start": "1999-12-15T00:00:00.000+01:00",
+                "end": "1999-12-15T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-16",
+                "name": "1999-12-16",
+                "start": "1999-12-16T00:00:00.000+01:00",
+                "end": "1999-12-16T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-17",
+                "name": "1999-12-17",
+                "start": "1999-12-17T00:00:00.000+01:00",
+                "end": "1999-12-17T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-20",
+                "name": "1999-12-20",
+                "start": "1999-12-20T00:00:00.000+01:00",
+                "end": "1999-12-20T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-21",
+                "name": "1999-12-21",
+                "start": "1999-12-21T00:00:00.000+01:00",
+                "end": "1999-12-21T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-22",
+                "name": "1999-12-22",
+                "start": "1999-12-22T00:00:00.000+01:00",
+                "end": "1999-12-22T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-23",
+                "name": "1999-12-23",
+                "start": "1999-12-23T00:00:00.000+01:00",
+                "end": "1999-12-23T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-24",
+                "name": "1999-12-24",
+                "start": "1999-12-24T00:00:00.000+01:00",
+                "end": "1999-12-24T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-27",
+                "name": "1999-12-27",
+                "start": "1999-12-27T00:00:00.000+01:00",
+                "end": "1999-12-27T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-28",
+                "name": "1999-12-28",
+                "start": "1999-12-28T00:00:00.000+01:00",
+                "end": "1999-12-28T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-29",
+                "name": "1999-12-29",
+                "start": "1999-12-29T00:00:00.000+01:00",
+                "end": "1999-12-29T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-30",
+                "name": "1999-12-30",
+                "start": "1999-12-30T00:00:00.000+01:00",
+                "end": "1999-12-30T23:59:59.999+01:00"
+              },
+              {
+                "id": "1999-12-31",
+                "name": "1999-12-31",
+                "start": "1999-12-31T00:00:00.000+01:00",
+                "end": "1999-12-31T23:59:59.999+01:00"
+              }
+            ]
+          }
+        ]
+      },
+      "attributes": {
+        "series": [
+          {
+            "id": "TIME_FORMAT",
+            "name": "Time format code",
+            "values": [
+              {
+                "name": "P1D"
+              }
+            ]
+          },
+          {
+            "id": "BREAKS",
+            "name": "Breaks",
+            "values": []
+          },
+          {
+            "id": "COLLECTION",
+            "name": "Collection indicator",
+            "values": [
+              {
+                "id": "A",
+                "name": "Average of observations through period"
+              }
+            ]
+          },
+          {
+            "id": "COMPILING_ORG",
+            "name": "Compiling organisation",
+            "values": []
+          },
+          {
+            "id": "DISS_ORG",
+            "name": "Data dissemination organisation",
+            "values": []
+          },
+          {
+            "id": "DOM_SER_IDS",
+            "name": "Domestic series ids",
+            "values": []
+          },
+          {
+            "id": "PUBL_ECB",
+            "name": "Source publication (ECB only)",
+            "values": []
+          },
+          {
+            "id": "PUBL_MU",
+            "name": "Source publication (Euro area only)",
+            "values": []
+          },
+          {
+            "id": "PUBL_PUBLIC",
+            "name": "Source publication (public)",
+            "values": []
+          },
+          {
+            "id": "UNIT_INDEX_BASE",
+            "name": "Unit index base",
+            "values": [
+              {
+                "name": "99Q1=100"
+              }
+            ]
+          },
+          {
+            "id": "COMPILATION",
+            "name": "Compilation",
+            "values": []
+          },
+          {
+            "id": "COVERAGE",
+            "name": "Coverage",
+            "values": []
+          },
+          {
+            "id": "DECIMALS",
+            "name": "Decimals",
+            "values": [
+              {
+                "id": "4",
+                "name": "Four"
+              }
+            ]
+          },
+          {
+            "id": "NAT_TITLE",
+            "name": "National language title",
+            "values": []
+          },
+          {
+            "id": "SOURCE_AGENCY",
+            "name": "Source agency",
+            "values": [
+              {
+                "id": "4F0",
+                "name": "European Central Bank (ECB)"
+              }
+            ]
+          },
+          {
+            "id": "SOURCE_PUB",
+            "name": "Publication source",
+            "values": []
+          },
+          {
+            "id": "TITLE",
+            "name": "Title",
+            "values": [
+              {
+                "name": "US dollar/Euro"
+              }
+            ]
+          },
+          {
+            "id": "TITLE_COMPL",
+            "name": "Title complement",
+            "values": [
+              {
+                "name": "ECB reference exchange rate, US dollar/Euro, 2.15 pm (C.E.T.)"
+              }
+            ]
+          },
+          {
+            "id": "UNIT",
+            "name": "Unit",
+            "values": [
+              {
+                "id": "USD",
+                "name": "US dollar"
+              }
+            ]
+          },
+          {
+            "id": "UNIT_MULT",
+            "name": "Unit multiplier",
+            "values": [
+              {
+                "id": "0",
+                "name": "Units"
+              }
+            ]
+          }
+        ],
+        "observation": [
+          {
+            "id": "OBS_STATUS",
+            "name": "Observation status",
+            "values": [
+              {
+                "id": "A",
+                "name": "Normal value"
+              },
+              {
+                "id": "H",
+                "name": "Missing value; holiday or weekend"
+              }
+            ]
+          },
+          {
+            "id": "OBS_CONF",
+            "name": "Observation confidentiality",
+            "values": []
+          },
+          {
+            "id": "OBS_PRE_BREAK",
+            "name": "Pre-break observation value",
+            "values": []
+          },
+          {
+            "id": "OBS_COM",
+            "name": "Observation comment",
+            "values": []
+          }
+        ]
+      }
+    }
+  }
+}
